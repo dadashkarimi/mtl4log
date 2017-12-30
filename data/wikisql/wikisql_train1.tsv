@@ -1,0 +1,1 @@
+Tell me what the notes are for South Australia 	SELECT col5 FROM table_1_1000181_1 WHERE col3='SOUTH AUSTRALIA' 
