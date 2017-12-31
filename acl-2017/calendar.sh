@@ -1,17 +1,17 @@
-MP_NUM_THREADS=5  THEANO_FLAGS=device=cuda0 flags=-lopenblas python -u single_enc_dec/main.py \
+MP_NUM_THREADS=5  THEANO_FLAGS=device=cuda0 flags=-lopenblas python -u 1-shot/main.py \
 	-d 200 \
 	-i 100 \
 	-o 100 \
 	-p attention \
 	-u 1 \
-	-e 0 \
 	-t 5,5,0,0 \
 	-c lstm \
-	-m attention \
+	-m attn2hist \
 	--stats-file result/stats_gru.json \
-	-k 4 \
-	--num-samples 100 \
+	--domain overnight-calendar \
+	-k 5 \
+	--num-samples 20 \
 	--dev-seed 0 \
 	--model-seed 0 \
-	--train-data data/all_train.tsv \
+	--train-data data/ \
 	--dev-data data/calendar_test.tsv \

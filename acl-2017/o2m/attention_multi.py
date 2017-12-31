@@ -108,6 +108,7 @@ class AttentionModelMulti(NeuralModel):
     """Run the encoder.  Used at test time."""
     x = T.lvector('x_for_enc')
     dec_init_state, annotations = self._symb_encoder_domain(x, domain)
+    print('###',domain)
     self._encode_domain[domain] = theano.function(
         inputs=[x], outputs=[dec_init_state, annotations])
 

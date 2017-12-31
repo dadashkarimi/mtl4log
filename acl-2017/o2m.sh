@@ -4,12 +4,13 @@ MP_NUM_THREADS=5  THEANO_FLAGS=device=cuda0 flags=-lopenblas python -u o2m/main.
 	-o 100 \
 	-p attention \
 	-u 1 \
-	-t 1,1,0,0 \
+	-e 0 \
+	-t 5,5,0,0 \
 	-c lstm \
 	-m attention_multi \
 	--stats-file result/stats_gru.json \
-	-k 0 \
-	--num-samples 2 \
+	-k 4 \
+	--num-samples 100 \
 	--dev-seed 0 \
 	--model-seed 0 \
 	--train-data data/all_train.tsv \

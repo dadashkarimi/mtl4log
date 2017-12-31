@@ -171,11 +171,10 @@ def configure_theano():
 
 def load_dataset(filename, domain):
   dataset = []
-  from collections import defaultdict
-  samples = defaultdict(list)
+  samples = set() #defaultdict(list)
   with open(filename) as f:
+    i=0
     for line in f:
-      i=0
       parts = line.rstrip('\n').split('\t')
       x = parts[0]
       y = parts [1]
@@ -183,13 +182,14 @@ def load_dataset(filename, domain):
         z = 'overnight-'+domain.subdomain
       else:
         z = parts[2]
-      samples[z].append((x,y))
-      if OPTIONS.input_domain_token:
-        x = '<'+z+'>'+' '+x
-      if len(samples[z])> int(OPTIONS.num_samples):
-          continue
       if domain:
         y = domain.preprocess_lf(y)
+      if z in samples:
+        i=0
+        continue
+      elif i > int(OPTIONS.num_samples) and re.match(".+_train.tsv", filename):
+        samples.add(z)
+      i+=1
       dataset.append((x, y, z))
   return dataset
 
