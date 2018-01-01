@@ -10,8 +10,8 @@ MP_NUM_THREADS=5  THEANO_FLAGS=device=cuda0 flags=-lopenblas python -u 1-shot/ma
 	--stats-file result/stats_gru.json \
 	--domain overnight-calendar \
 	-k 5 \
-	--num-samples 20 \
+	--num-samples 10 \
 	--dev-seed 0 \
 	--model-seed 0 \
-	--train-data data/ \
-	--dev-data data/calendar_test.tsv \
+	--train-data data/0-shot \
+	--dev-data data/0-shot/calendar_test.tsv \

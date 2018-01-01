@@ -9,9 +9,9 @@ MP_NUM_THREADS=5  THEANO_FLAGS=device=cuda0 flags=-lopenblas python -u single_en
 	-c lstm \
 	-m attention \
 	--stats-file result/stats_gru.json \
-	-k 4 \
+	-k 5 \
 	--num-samples 100 \
 	--dev-seed 0 \
 	--model-seed 0 \
 	--train-data data/all_train.tsv \
-	--dev-data data/calendar_test.tsv \
+	--dev-data data/publications_test.tsv \
