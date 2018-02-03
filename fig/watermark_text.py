@@ -75,7 +75,7 @@ xmin, xmax = x.min(), x.max()
 xx = np.linspace(xmin, xmax, 70)
 xnew = np.linspace(x.min(),x.max(),300) 
 
-t, c, k = interpolate.splrep(x, y15, s=0, k=4)
+t, c, k = interpolate.splrep(x, y20, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-',lw=4, alpha=0.7, mfc='g',color='g',label='-geo')
 
