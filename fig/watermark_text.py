@@ -79,22 +79,22 @@ t, c, k = interpolate.splrep(x, y15, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-',lw=4, alpha=0.7, mfc='g',color='g',label='-geo')
 
-t, c, k = interpolate.splrep(x, y16, s=0, k=4)
+t, c, k = interpolate.splrep(x, y21, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='r',color='r',label='-atis')
 
 
-t, c, k = interpolate.splrep(x, y17, s=0, k=4)
+t, c, k = interpolate.splrep(x, y22, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='c',color='c',label='-bask')
 
 
-t, c, k = interpolate.splrep(x, y18, s=0, k=4)
+t, c, k = interpolate.splrep(x, y23, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-',lw=4, alpha=0.7, mfc='k',color='m',label='-pub')
 
 
-t, c, k = interpolate.splrep(x, y19, s=0, k=4)
+t, c, k = interpolate.splrep(x, y24, s=0, k=4)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='k',color='k',label='all')
 
@@ -105,5 +105,5 @@ ax.grid()
 fig.text(0.95, 0.05, '', fontsize=50, color='gray', ha='right', va='bottom', alpha=0.5)
 #fig.set_size_inches(18.5, 10.5)
 
-plt.show()
-plt.savefig('leave-one-out-den.pdf',format='pdf')
+#plt.show()
+plt.savefig('leave-one-out-tok.pdf',format='pdf')
