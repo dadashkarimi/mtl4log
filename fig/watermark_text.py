@@ -77,7 +77,7 @@ xx = np.linspace(xmin, xmax, 100)
 spline = interpolate.BSpline(t, c, k, extrapolate=False)
 
 xnew = np.linspace(x.min(),x.max(),300) 
-ax.plot(xx,spline(xx), '-o', ms=10, lw=2, alpha=0.7, mfc='g',color='g',label='-geo')
+ax.plot(xx,spline(xx), '-o', ms=1, lw=1, alpha=0.1, mfc='g',color='g',label='-geo')
 ax.plot(x,y21, '-o', ms=10, lw=2, alpha=0.7, mfc='r',color='r',label='-atis')
 ax.plot(x,y22, ':', ms=10, lw=2, alpha=0.7, mfc='b',color='b',label='-bask')
 ax.plot(x,y23, '--', ms=10, lw=2, alpha=0.7, mfc='k',color='k',label='-pub')
