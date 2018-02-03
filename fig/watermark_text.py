@@ -71,17 +71,32 @@ plt.ylabel("Accuracy")
 #ax.plot(x,y14, '-o', ms=10, lw=2, alpha=0.7, mfc='k',color='k',label='z-shot k*d')
 #ax.plot(x,y10, '-o', ms=10, lw=2, alpha=0.7, mfc='b',color='b',label='e2d')
 
-t, c, k = interpolate.splrep(x, y21, s=0, k=4)
 xmin, xmax = x.min(), x.max()
-xx = np.linspace(xmin, xmax, 100)
-spline = interpolate.BSpline(t, c, k, extrapolate=False)
-
+xx = np.linspace(xmin, xmax, 70)
 xnew = np.linspace(x.min(),x.max(),300) 
-ax.plot(xx,spline(xx), '-o', ms=1, lw=1, alpha=0.1, mfc='g',color='g',label='-geo')
-ax.plot(x,y21, '-o', ms=10, lw=2, alpha=0.7, mfc='r',color='r',label='-atis')
-ax.plot(x,y22, ':', ms=10, lw=2, alpha=0.7, mfc='b',color='b',label='-bask')
-ax.plot(x,y23, '--', ms=10, lw=2, alpha=0.7, mfc='k',color='k',label='-pub')
-ax.plot(x,y24, '-.', ms=10, lw=2, alpha=0.7, mfc='k',color='k',label='all')
+
+t, c, k = interpolate.splrep(x, y15, s=0, k=4)
+spline = interpolate.BSpline(t, c, k, extrapolate=False)
+ax.plot(xx,spline(xx), '-',lw=4, alpha=0.7, mfc='g',color='g',label='-geo')
+
+t, c, k = interpolate.splrep(x, y16, s=0, k=4)
+spline = interpolate.BSpline(t, c, k, extrapolate=False)
+ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='r',color='r',label='-atis')
+
+
+t, c, k = interpolate.splrep(x, y17, s=0, k=4)
+spline = interpolate.BSpline(t, c, k, extrapolate=False)
+ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='c',color='c',label='-bask')
+
+
+t, c, k = interpolate.splrep(x, y18, s=0, k=4)
+spline = interpolate.BSpline(t, c, k, extrapolate=False)
+ax.plot(xx,spline(xx), '-',lw=4, alpha=0.7, mfc='k',color='m',label='-pub')
+
+
+t, c, k = interpolate.splrep(x, y19, s=0, k=4)
+spline = interpolate.BSpline(t, c, k, extrapolate=False)
+ax.plot(xx,spline(xx), '-', lw=4, alpha=0.7, mfc='k',color='k',label='all')
 
 ax.legend(loc="best")
 ax.grid()
@@ -90,5 +105,5 @@ ax.grid()
 fig.text(0.95, 0.05, '', fontsize=50, color='gray', ha='right', va='bottom', alpha=0.5)
 #fig.set_size_inches(18.5, 10.5)
 
-#plt.show()
-plt.savefig('leave-one-out-tok.pdf',format='pdf')
+plt.show()
+plt.savefig('leave-one-out-den.pdf',format='pdf')
