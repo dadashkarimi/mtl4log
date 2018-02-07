@@ -1,1440 +1,1440 @@
-                Loss: fixed  22 labels. Loss 0.01446. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  24 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  18 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01042. Accuracy 0.996.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  20 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01203. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  21 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01171. Accuracy 0.996.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01145. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01145. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01145. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01145. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01617. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  31 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  27 labels. Loss 0.01433. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  25 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  28 labels. Loss 0.01486. Accuracy 0.989.
-                Loss: fixed  29 labels. Loss 0.01163. Accuracy 0.992.
-                Loss: fixed  29 labels. Loss 0.01163. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  30 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  32 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  26 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  17 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  23 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  33 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  22 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01980. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.02991. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.02685. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01199. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01964. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.01355. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.03332. Accuracy 0.985.
-                Loss: fixed  59 labels. Loss 0.01881. Accuracy 0.992.
-                Loss: fixed  61 labels. Loss 0.01707. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.04161. Accuracy 0.981.
-                Loss: fixed  58 labels. Loss 0.01477. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.02625. Accuracy 0.989.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01656. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  53 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.03040. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01291. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  40 labels. Loss 0.02580. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.02455. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.01287. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.02268. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  39 labels. Loss 0.01835. Accuracy 0.996.
-                Loss: fixed  45 labels. Loss 0.01527. Accuracy 0.992.
-                Loss: fixed  45 labels. Loss 0.01527. Accuracy 0.992.
-                Loss: fixed  45 labels. Loss 0.01527. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.02052. Accuracy 0.989.
-                Loss: fixed  61 labels. Loss 0.01280. Accuracy 0.996.
-                Loss: fixed  62 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  45 labels. Loss 0.01626. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01230. Accuracy 0.996.
-                Loss: fixed  55 labels. Loss 0.01180. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01495. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01637. Accuracy 0.996.
-                Loss: fixed  58 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  44 labels. Loss 0.01724. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.02721. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.02022. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04410. Accuracy 0.977.
-                Loss: fixed  64 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  64 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  64 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  64 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  64 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01301. Accuracy 0.996.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01317. Accuracy 0.996.
-                Loss: fixed  55 labels. Loss 0.01074. Accuracy 0.996.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  44 labels. Loss 0.01014. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  44 labels. Loss 0.00892. Accuracy 1.000.
-                Loss: fixed  47 labels. Loss 0.00959. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  45 labels. Loss 0.01459. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01346. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01197. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  44 labels. Loss 0.01405. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.00898. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  42 labels. Loss 0.01420. Accuracy 0.996.
-                Loss: fixed  47 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.04174. Accuracy 0.973.
-                Loss: fixed  58 labels. Loss 0.01225. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  59 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.01248. Accuracy 0.996.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.02622. Accuracy 0.989.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.01945. Accuracy 0.989.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.02914. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01770. Accuracy 0.992.
-                Loss: fixed  54 labels. Loss 0.01500. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  56 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  39 labels. Loss 0.01788. Accuracy 0.992.
-                Loss: fixed  42 labels. Loss 0.01181. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.03953. Accuracy 0.985.
-                Loss: fixed  62 labels. Loss 0.01479. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01479. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01428. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  57 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  58 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  43 labels. Loss 0.02397. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.01610. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.03219. Accuracy 0.989.
-                Loss: fixed  63 labels. Loss 0.01591. Accuracy 0.992.
-                Loss: fixed  66 labels. Loss 0.01533. Accuracy 0.992.
-                Loss: fixed  67 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  67 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  67 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01802. Accuracy 0.989.
-                Loss: fixed  55 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  55 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  55 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  55 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  55 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.01819. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01497. Accuracy 0.992.
-                Loss: fixed  62 labels. Loss 0.01497. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  63 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04837. Accuracy 0.977.
-                Loss: fixed  78 labels. Loss 0.01651. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01651. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01651. Accuracy 0.992.
-                Loss: fixed  80 labels. Loss 0.01273. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.07790. Accuracy 0.966.
-                Loss: fixed  77 labels. Loss 0.02622. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01448. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01448. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.09119. Accuracy 0.973.
-                Loss: fixed  77 labels. Loss 0.02486. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01894. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01569. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01538. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.04821. Accuracy 0.977.
-                Loss: fixed  70 labels. Loss 0.01809. Accuracy 0.985.
-                Loss: fixed  70 labels. Loss 0.01808. Accuracy 0.985.
-                Loss: fixed  70 labels. Loss 0.01809. Accuracy 0.985.
-                Loss: fixed  72 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04284. Accuracy 0.989.
-                Loss: fixed  78 labels. Loss 0.02897. Accuracy 0.985.
-                Loss: fixed  88 labels. Loss 0.02035. Accuracy 0.989.
-                Loss: fixed  92 labels. Loss 0.01463. Accuracy 0.992.
-                Loss: fixed  92 labels. Loss 0.01464. Accuracy 0.992.
-                Loss: fixed  93 labels. Loss 0.01411. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06132. Accuracy 0.981.
-                Loss: fixed  71 labels. Loss 0.02062. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01930. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.04029. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01503. Accuracy 0.996.
-                Loss: fixed  78 labels. Loss 0.01384. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01384. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01384. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.04632. Accuracy 0.985.
-                Loss: fixed  74 labels. Loss 0.01646. Accuracy 0.992.
-                Loss: fixed  76 labels. Loss 0.01294. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01452. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.05865. Accuracy 0.977.
-                Loss: fixed  73 labels. Loss 0.01233. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.07424. Accuracy 0.981.
-                Loss: fixed  78 labels. Loss 0.01531. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.00998. Accuracy 0.996.
-                Loss: fixed  83 labels. Loss 0.00927. Accuracy 0.996.
-                Loss: fixed  84 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06684. Accuracy 0.981.
-                Loss: fixed  75 labels. Loss 0.04636. Accuracy 0.977.
-                Loss: fixed  78 labels. Loss 0.04096. Accuracy 0.977.
-                Loss: fixed  82 labels. Loss 0.02750. Accuracy 0.989.
-                Loss: fixed  85 labels. Loss 0.01539. Accuracy 0.989.
-                Loss: fixed  85 labels. Loss 0.01539. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.07114. Accuracy 0.969.
-                Loss: fixed  77 labels. Loss 0.01122. Accuracy 0.996.
-                Loss: fixed  84 labels. Loss 0.01056. Accuracy 0.996.
-                Loss: fixed  85 labels. Loss 0.01090. Accuracy 0.996.
-                Loss: fixed  85 labels. Loss 0.01090. Accuracy 0.996.
-                Loss: fixed  86 labels. Loss 0.01034. Accuracy 0.996.
-                Loss: fixed  52 labels. Loss 0.03436. Accuracy 0.989.
-                Loss: fixed  76 labels. Loss 0.02131. Accuracy 0.992.
-                Loss: fixed  80 labels. Loss 0.01497. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.05720. Accuracy 0.985.
-                Loss: fixed  81 labels. Loss 0.02220. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01456. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01314. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01314. Accuracy 0.992.
-                Loss: fixed  86 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04670. Accuracy 0.981.
-                Loss: fixed  75 labels. Loss 0.01491. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.05312. Accuracy 0.977.
-                Loss: fixed  75 labels. Loss 0.01209. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01161. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01062. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01062. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.09145. Accuracy 0.966.
-                Loss: fixed  71 labels. Loss 0.01964. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.02026. Accuracy 0.992.
-                Loss: fixed  76 labels. Loss 0.01521. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04871. Accuracy 0.973.
-                Loss: fixed  73 labels. Loss 0.01168. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01168. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01168. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.10682. Accuracy 0.954.
-                Loss: fixed  82 labels. Loss 0.01291. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01197. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01197. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01197. Accuracy 0.992.
-                Loss: fixed  83 labels. Loss 0.01197. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.07345. Accuracy 0.969.
-                Loss: fixed  73 labels. Loss 0.01306. Accuracy 0.996.
-                Loss: fixed  73 labels. Loss 0.01306. Accuracy 0.996.
-                Loss: fixed  73 labels. Loss 0.01306. Accuracy 0.996.
-                Loss: fixed  73 labels. Loss 0.01306. Accuracy 0.996.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.09762. Accuracy 0.969.
-                Loss: fixed  83 labels. Loss 0.01724. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01906. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04342. Accuracy 0.989.
-                Loss: fixed  72 labels. Loss 0.01652. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01453. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.08836. Accuracy 0.958.
-                Loss: fixed  76 labels. Loss 0.01814. Accuracy 0.996.
-                Loss: fixed  81 labels. Loss 0.00904. Accuracy 0.996.
-                Loss: fixed  82 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.11382. Accuracy 0.943.
-                Loss: fixed  78 labels. Loss 0.01273. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.05722. Accuracy 0.977.
-                Loss: fixed  74 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06444. Accuracy 0.977.
-                Loss: fixed  78 labels. Loss 0.03420. Accuracy 0.985.
-                Loss: fixed  81 labels. Loss 0.02190. Accuracy 0.989.
-                Loss: fixed  84 labels. Loss 0.01723. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01723. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01276. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06225. Accuracy 0.981.
-                Loss: fixed  81 labels. Loss 0.01606. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.04360. Accuracy 0.989.
-                Loss: fixed  76 labels. Loss 0.01220. Accuracy 0.996.
-                Loss: fixed  76 labels. Loss 0.01220. Accuracy 0.996.
-                Loss: fixed  77 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  77 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.05147. Accuracy 0.981.
-                Loss: fixed  73 labels. Loss 0.01335. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01335. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.05228. Accuracy 0.969.
-                Loss: fixed  76 labels. Loss 0.01524. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.07278. Accuracy 0.969.
-                Loss: fixed  72 labels. Loss 0.02051. Accuracy 0.992.
-                Loss: fixed  74 labels. Loss 0.01168. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.08179. Accuracy 0.969.
-                Loss: fixed  77 labels. Loss 0.01629. Accuracy 0.992.
-                Loss: fixed  80 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  80 labels. Loss 0.01320. Accuracy 0.992.
-                Loss: fixed  80 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.08123. Accuracy 0.966.
-                Loss: fixed  78 labels. Loss 0.01920. Accuracy 0.989.
-                Loss: fixed  79 labels. Loss 0.01760. Accuracy 0.989.
-                Loss: fixed  80 labels. Loss 0.01452. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  81 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.07708. Accuracy 0.969.
-                Loss: fixed  72 labels. Loss 0.02379. Accuracy 0.985.
-                Loss: fixed  74 labels. Loss 0.01482. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01302. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01302. Accuracy 0.992.
-                Loss: fixed  76 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.11066. Accuracy 0.966.
-                Loss: fixed  79 labels. Loss 0.02639. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01671. Accuracy 0.989.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.04230. Accuracy 0.981.
-                Loss: fixed  72 labels. Loss 0.01500. Accuracy 0.992.
-                Loss: fixed  75 labels. Loss 0.01668. Accuracy 0.989.
-                Loss: fixed  77 labels. Loss 0.01279. Accuracy 0.992.
-                Loss: fixed  78 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.07766. Accuracy 0.966.
-                Loss: fixed  81 labels. Loss 0.01527. Accuracy 0.992.
-                Loss: fixed  84 labels. Loss 0.01192. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  85 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.07229. Accuracy 0.977.
-                Loss: fixed  78 labels. Loss 0.01552. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  79 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06013. Accuracy 0.973.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  73 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.04873. Accuracy 0.981.
-                Loss: fixed  73 labels. Loss 0.02896. Accuracy 0.989.
-                Loss: fixed  82 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  82 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.06633. Accuracy 0.977.
-                Loss: fixed  88 labels. Loss 0.02128. Accuracy 0.992.
-                Loss: fixed  96 labels. Loss 0.01447. Accuracy 0.992.
-                Loss: fixed  99 labels. Loss 0.01366. Accuracy 0.992.
-                Loss: fixed 100 labels. Loss 0.01275. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.10579. Accuracy 0.966.
-                Loss: fixed  90 labels. Loss 0.07212. Accuracy 0.977.
-                Loss: fixed 104 labels. Loss 0.03426. Accuracy 0.985.
-                Loss: fixed 107 labels. Loss 0.02435. Accuracy 0.989.
-                Loss: fixed 108 labels. Loss 0.01997. Accuracy 0.992.
-                Loss: fixed 109 labels. Loss 0.01809. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.13566. Accuracy 0.935.
-                Loss: fixed  90 labels. Loss 0.08161. Accuracy 0.958.
-                Loss: fixed 101 labels. Loss 0.01905. Accuracy 0.996.
-                Loss: fixed 106 labels. Loss 0.01553. Accuracy 0.996.
-                Loss: fixed 109 labels. Loss 0.01475. Accuracy 0.992.
-                Loss: fixed 110 labels. Loss 0.01117. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.06560. Accuracy 0.969.
-                Loss: fixed  83 labels. Loss 0.05387. Accuracy 0.981.
-                Loss: fixed  94 labels. Loss 0.02162. Accuracy 0.989.
-                Loss: fixed  97 labels. Loss 0.02450. Accuracy 0.989.
-                Loss: fixed  99 labels. Loss 0.01502. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.14659. Accuracy 0.931.
-                Loss: fixed  89 labels. Loss 0.05538. Accuracy 0.969.
-                Loss: fixed  99 labels. Loss 0.03944. Accuracy 0.981.
-                Loss: fixed 101 labels. Loss 0.02651. Accuracy 0.992.
-                Loss: fixed 102 labels. Loss 0.01989. Accuracy 0.989.
-                Loss: fixed 103 labels. Loss 0.01430. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.11594. Accuracy 0.954.
-                Loss: fixed  90 labels. Loss 0.05423. Accuracy 0.973.
-                Loss: fixed 106 labels. Loss 0.02220. Accuracy 0.992.
-                Loss: fixed 110 labels. Loss 0.01630. Accuracy 0.992.
-                Loss: fixed 113 labels. Loss 0.01115. Accuracy 0.992.
-                Loss: fixed 113 labels. Loss 0.01115. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.15036. Accuracy 0.924.
-                Loss: fixed  89 labels. Loss 0.06663. Accuracy 0.973.
-                Loss: fixed 103 labels. Loss 0.03448. Accuracy 0.989.
-                Loss: fixed 105 labels. Loss 0.02906. Accuracy 0.989.
-                Loss: fixed 110 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed 110 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.16740. Accuracy 0.943.
-                Loss: fixed  87 labels. Loss 0.08476. Accuracy 0.973.
-                Loss: fixed 104 labels. Loss 0.06009. Accuracy 0.977.
-                Loss: fixed 112 labels. Loss 0.01949. Accuracy 0.992.
-                Loss: fixed 114 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed 114 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.10585. Accuracy 0.962.
-                Loss: fixed  83 labels. Loss 0.03513. Accuracy 0.992.
-                Loss: fixed  97 labels. Loss 0.02085. Accuracy 0.992.
-                Loss: fixed 100 labels. Loss 0.01729. Accuracy 0.992.
-                Loss: fixed 100 labels. Loss 0.01729. Accuracy 0.992.
-                Loss: fixed 100 labels. Loss 0.01729. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.09789. Accuracy 0.958.
-                Loss: fixed  92 labels. Loss 0.04426. Accuracy 0.977.
-                Loss: fixed 103 labels. Loss 0.02857. Accuracy 0.989.
-                Loss: fixed 105 labels. Loss 0.02044. Accuracy 0.989.
-                Loss: fixed 106 labels. Loss 0.01899. Accuracy 0.992.
-                Loss: fixed 108 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.13340. Accuracy 0.954.
-                Loss: fixed  95 labels. Loss 0.09213. Accuracy 0.973.
-                Loss: fixed 109 labels. Loss 0.02106. Accuracy 0.992.
-                Loss: fixed 113 labels. Loss 0.02106. Accuracy 0.992.
-                Loss: fixed 118 labels. Loss 0.01407. Accuracy 0.996.
-                Loss: fixed 118 labels. Loss 0.01407. Accuracy 0.996.
-                Loss: fixed  51 labels. Loss 0.08974. Accuracy 0.966.
-                Loss: fixed  91 labels. Loss 0.02125. Accuracy 0.989.
-                Loss: fixed  99 labels. Loss 0.01333. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01104. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01104. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01104. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.16099. Accuracy 0.935.
-                Loss: fixed  93 labels. Loss 0.06812. Accuracy 0.977.
-                Loss: fixed 106 labels. Loss 0.02547. Accuracy 0.989.
-                Loss: fixed 110 labels. Loss 0.02545. Accuracy 0.992.
-                Loss: fixed 111 labels. Loss 0.01946. Accuracy 0.992.
-                Loss: fixed 113 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.13560. Accuracy 0.958.
-                Loss: fixed  85 labels. Loss 0.05690. Accuracy 0.969.
-                Loss: fixed  98 labels. Loss 0.01705. Accuracy 0.989.
-                Loss: fixed 100 labels. Loss 0.01808. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.01689. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.01689. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.08748. Accuracy 0.973.
-                Loss: fixed  77 labels. Loss 0.05286. Accuracy 0.981.
-                Loss: fixed  97 labels. Loss 0.02068. Accuracy 0.989.
-                Loss: fixed  98 labels. Loss 0.02006. Accuracy 0.989.
-                Loss: fixed 100 labels. Loss 0.01552. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.12070. Accuracy 0.954.
-                Loss: fixed  89 labels. Loss 0.03947. Accuracy 0.977.
-                Loss: fixed  95 labels. Loss 0.01594. Accuracy 0.989.
-                Loss: fixed  97 labels. Loss 0.01930. Accuracy 0.992.
-                Loss: fixed  98 labels. Loss 0.01756. Accuracy 0.989.
-                Loss: fixed  99 labels. Loss 0.01626. Accuracy 0.989.
-                Loss: fixed  52 labels. Loss 0.11292. Accuracy 0.958.
-                Loss: fixed  94 labels. Loss 0.06064. Accuracy 0.969.
-                Loss: fixed 103 labels. Loss 0.02568. Accuracy 0.989.
-                Loss: fixed 106 labels. Loss 0.01859. Accuracy 0.992.
-                Loss: fixed 109 labels. Loss 0.01323. Accuracy 0.992.
-                Loss: fixed 110 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.11105. Accuracy 0.958.
-                Loss: fixed  90 labels. Loss 0.03552. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01826. Accuracy 0.996.
-                Loss: fixed 104 labels. Loss 0.01263. Accuracy 0.992.
-                Loss: fixed 105 labels. Loss 0.01225. Accuracy 0.992.
-                Loss: fixed 106 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.12958. Accuracy 0.947.
-                Loss: fixed  88 labels. Loss 0.04184. Accuracy 0.985.
-                Loss: fixed  99 labels. Loss 0.02155. Accuracy 0.992.
-                Loss: fixed 101 labels. Loss 0.01560. Accuracy 0.996.
-                Loss: fixed 101 labels. Loss 0.01560. Accuracy 0.996.
-                Loss: fixed 103 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.10099. Accuracy 0.958.
-                Loss: fixed  80 labels. Loss 0.05722. Accuracy 0.977.
-                Loss: fixed  92 labels. Loss 0.03783. Accuracy 0.977.
-                Loss: fixed  97 labels. Loss 0.01446. Accuracy 0.992.
-                Loss: fixed  97 labels. Loss 0.01446. Accuracy 0.992.
-                Loss: fixed  97 labels. Loss 0.01446. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.12581. Accuracy 0.947.
-                Loss: fixed  90 labels. Loss 0.03809. Accuracy 0.981.
-                Loss: fixed  98 labels. Loss 0.02694. Accuracy 0.985.
-                Loss: fixed 102 labels. Loss 0.01636. Accuracy 0.989.
-                Loss: fixed 104 labels. Loss 0.01592. Accuracy 0.989.
-                Loss: fixed 107 labels. Loss 0.01452. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.11624. Accuracy 0.943.
-                Loss: fixed  90 labels. Loss 0.06359. Accuracy 0.973.
-                Loss: fixed 100 labels. Loss 0.03685. Accuracy 0.977.
-                Loss: fixed 107 labels. Loss 0.02023. Accuracy 0.992.
-                Loss: fixed 111 labels. Loss 0.01878. Accuracy 0.992.
-                Loss: fixed 112 labels. Loss 0.02400. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.15154. Accuracy 0.947.
-                Loss: fixed  87 labels. Loss 0.07361. Accuracy 0.977.
-                Loss: fixed 104 labels. Loss 0.02916. Accuracy 0.981.
-                Loss: fixed 104 labels. Loss 0.02916. Accuracy 0.981.
-                Loss: fixed 106 labels. Loss 0.02447. Accuracy 0.985.
-                Loss: fixed 109 labels. Loss 0.01314. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.11369. Accuracy 0.958.
-                Loss: fixed  94 labels. Loss 0.05586. Accuracy 0.977.
-                Loss: fixed 101 labels. Loss 0.03292. Accuracy 0.985.
-                Loss: fixed 104 labels. Loss 0.01510. Accuracy 0.992.
-                Loss: fixed 106 labels. Loss 0.01424. Accuracy 0.992.
-                Loss: fixed 107 labels. Loss 0.01446. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.10703. Accuracy 0.958.
-                Loss: fixed  86 labels. Loss 0.03782. Accuracy 0.985.
-                Loss: fixed  97 labels. Loss 0.02125. Accuracy 0.992.
-                Loss: fixed  98 labels. Loss 0.02220. Accuracy 0.992.
-                Loss: fixed 103 labels. Loss 0.01381. Accuracy 0.992.
-                Loss: fixed 104 labels. Loss 0.01329. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.09988. Accuracy 0.954.
-                Loss: fixed  87 labels. Loss 0.02316. Accuracy 0.992.
-                Loss: fixed  93 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  93 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  93 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  93 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.07522. Accuracy 0.977.
-                Loss: fixed  81 labels. Loss 0.03887. Accuracy 0.985.
-                Loss: fixed  94 labels. Loss 0.02569. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.01258. Accuracy 0.996.
-                Loss: fixed 104 labels. Loss 0.01268. Accuracy 0.992.
-                Loss: fixed 105 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.11989. Accuracy 0.962.
-                Loss: fixed  96 labels. Loss 0.03352. Accuracy 0.996.
-                Loss: fixed 107 labels. Loss 0.01689. Accuracy 0.992.
-                Loss: fixed 108 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed 108 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed 108 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.11262. Accuracy 0.947.
-                Loss: fixed  88 labels. Loss 0.04248. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.03030. Accuracy 0.989.
-                Loss: fixed 106 labels. Loss 0.02380. Accuracy 0.989.
-                Loss: fixed 109 labels. Loss 0.01988. Accuracy 0.992.
-                Loss: fixed 110 labels. Loss 0.01655. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.06100. Accuracy 0.981.
-                Loss: fixed  88 labels. Loss 0.02552. Accuracy 0.989.
-                Loss: fixed  94 labels. Loss 0.02325. Accuracy 0.989.
-                Loss: fixed  97 labels. Loss 0.01206. Accuracy 0.992.
-                Loss: fixed  97 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  97 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.11730. Accuracy 0.954.
-                Loss: fixed  89 labels. Loss 0.04921. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.02405. Accuracy 0.989.
-                Loss: fixed 109 labels. Loss 0.02114. Accuracy 0.989.
-                Loss: fixed 109 labels. Loss 0.02115. Accuracy 0.989.
-                Loss: fixed 111 labels. Loss 0.01129. Accuracy 0.996.
-                Loss: fixed  50 labels. Loss 0.06692. Accuracy 0.977.
-                Loss: fixed  82 labels. Loss 0.03423. Accuracy 0.989.
-                Loss: fixed  90 labels. Loss 0.01613. Accuracy 0.996.
-                Loss: fixed  97 labels. Loss 0.01139. Accuracy 0.992.
-                Loss: fixed  99 labels. Loss 0.01088. Accuracy 0.996.
-                Loss: fixed 100 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.10891. Accuracy 0.954.
-                Loss: fixed  83 labels. Loss 0.02557. Accuracy 0.992.
-                Loss: fixed  95 labels. Loss 0.01992. Accuracy 0.992.
-                Loss: fixed  99 labels. Loss 0.01619. Accuracy 0.992.
-                Loss: fixed 104 labels. Loss 0.00897. Accuracy 0.992.
-                Loss: fixed 104 labels. Loss 0.00897. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.17617. Accuracy 0.935.
-                Loss: fixed  98 labels. Loss 0.08012. Accuracy 0.981.
-                Loss: fixed 110 labels. Loss 0.03596. Accuracy 0.985.
-                Loss: fixed 114 labels. Loss 0.01641. Accuracy 0.989.
-                Loss: fixed 115 labels. Loss 0.01689. Accuracy 0.989.
-                Loss: fixed 115 labels. Loss 0.01689. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.10959. Accuracy 0.966.
-                Loss: fixed  86 labels. Loss 0.03416. Accuracy 0.989.
-                Loss: fixed  94 labels. Loss 0.02195. Accuracy 0.989.
-                Loss: fixed  99 labels. Loss 0.02167. Accuracy 0.989.
-                Loss: fixed 101 labels. Loss 0.01552. Accuracy 0.989.
-                Loss: fixed 103 labels. Loss 0.01634. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.08197. Accuracy 0.973.
-                Loss: fixed  89 labels. Loss 0.01222. Accuracy 0.996.
-                Loss: fixed  95 labels. Loss 0.01488. Accuracy 0.992.
-                Loss: fixed  98 labels. Loss 0.01230. Accuracy 0.992.
-                Loss: fixed 100 labels. Loss 0.01070. Accuracy 0.996.
-                Loss: fixed 101 labels. Loss 0.01079. Accuracy 0.996.
-                Loss: fixed  52 labels. Loss 0.09541. Accuracy 0.958.
-                Loss: fixed  80 labels. Loss 0.05426. Accuracy 0.981.
-                Loss: fixed  93 labels. Loss 0.01723. Accuracy 0.996.
-                Loss: fixed  96 labels. Loss 0.01631. Accuracy 0.992.
-                Loss: fixed  98 labels. Loss 0.00713. Accuracy 1.000.
-                Loss: fixed  98 labels. Loss 0.00713. Accuracy 1.000.
-                Loss: fixed  48 labels. Loss 0.09809. Accuracy 0.958.
-                Loss: fixed  87 labels. Loss 0.04394. Accuracy 0.977.
-                Loss: fixed  98 labels. Loss 0.02964. Accuracy 0.985.
-                Loss: fixed 101 labels. Loss 0.02649. Accuracy 0.985.
-                Loss: fixed 106 labels. Loss 0.01331. Accuracy 0.992.
-                Loss: fixed 107 labels. Loss 0.01352. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.13220. Accuracy 0.947.
-                Loss: fixed  88 labels. Loss 0.06124. Accuracy 0.966.
-                Loss: fixed  97 labels. Loss 0.03942. Accuracy 0.985.
-                Loss: fixed 102 labels. Loss 0.03143. Accuracy 0.989.
-                Loss: fixed 105 labels. Loss 0.01769. Accuracy 0.992.
-                Loss: fixed 108 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.08321. Accuracy 0.969.
-                Loss: fixed  90 labels. Loss 0.01645. Accuracy 0.992.
-                Loss: fixed 102 labels. Loss 0.01242. Accuracy 0.996.
-                Loss: fixed 106 labels. Loss 0.01500. Accuracy 0.992.
-                Loss: fixed 106 labels. Loss 0.01500. Accuracy 0.992.
-                Loss: fixed 106 labels. Loss 0.01500. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.14834. Accuracy 0.931.
-                Loss: fixed  85 labels. Loss 0.08471. Accuracy 0.962.
-                Loss: fixed 113 labels. Loss 0.04451. Accuracy 0.985.
-                Loss: fixed 121 labels. Loss 0.02116. Accuracy 0.992.
-                Loss: fixed 126 labels. Loss 0.01790. Accuracy 0.996.
-                Loss: fixed 131 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.19985. Accuracy 0.916.
-                Loss: fixed  93 labels. Loss 0.18387. Accuracy 0.931.
-                Loss: fixed 116 labels. Loss 0.09471. Accuracy 0.966.
-                Loss: fixed 131 labels. Loss 0.05380. Accuracy 0.981.
-                Loss: fixed 137 labels. Loss 0.02367. Accuracy 0.989.
-                Loss: fixed 138 labels. Loss 0.02046. Accuracy 0.989.
-                Loss: fixed  52 labels. Loss 0.15379. Accuracy 0.927.
-                Loss: fixed  94 labels. Loss 0.07124. Accuracy 0.969.
-                Loss: fixed 114 labels. Loss 0.03496. Accuracy 0.989.
-                Loss: fixed 118 labels. Loss 0.03016. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.01825. Accuracy 0.992.
-                Loss: fixed 124 labels. Loss 0.01825. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.14844. Accuracy 0.931.
-                Loss: fixed  94 labels. Loss 0.09409. Accuracy 0.966.
-                Loss: fixed 115 labels. Loss 0.04180. Accuracy 0.989.
-                Loss: fixed 128 labels. Loss 0.02975. Accuracy 0.985.
-                Loss: fixed 129 labels. Loss 0.02759. Accuracy 0.989.
-                Loss: fixed 130 labels. Loss 0.02203. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.15092. Accuracy 0.950.
-                Loss: fixed  91 labels. Loss 0.10271. Accuracy 0.962.
-                Loss: fixed 112 labels. Loss 0.08049. Accuracy 0.977.
-                Loss: fixed 121 labels. Loss 0.02862. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.01814. Accuracy 0.989.
-                Loss: fixed 126 labels. Loss 0.01497. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.15628. Accuracy 0.927.
-                Loss: fixed  89 labels. Loss 0.09261. Accuracy 0.950.
-                Loss: fixed 112 labels. Loss 0.05002. Accuracy 0.985.
-                Loss: fixed 119 labels. Loss 0.02052. Accuracy 0.989.
-                Loss: fixed 122 labels. Loss 0.01661. Accuracy 0.992.
-                Loss: fixed 123 labels. Loss 0.01770. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.15680. Accuracy 0.950.
-                Loss: fixed  92 labels. Loss 0.09022. Accuracy 0.966.
-                Loss: fixed 118 labels. Loss 0.03984. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.03700. Accuracy 0.989.
-                Loss: fixed 126 labels. Loss 0.02543. Accuracy 0.992.
-                Loss: fixed 127 labels. Loss 0.02286. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.13979. Accuracy 0.935.
-                Loss: fixed  96 labels. Loss 0.10224. Accuracy 0.962.
-                Loss: fixed 115 labels. Loss 0.05010. Accuracy 0.977.
-                Loss: fixed 127 labels. Loss 0.02955. Accuracy 0.989.
-                Loss: fixed 129 labels. Loss 0.03020. Accuracy 0.992.
-                Loss: fixed 134 labels. Loss 0.01612. Accuracy 0.989.
-                Loss: fixed  48 labels. Loss 0.12717. Accuracy 0.947.
-                Loss: fixed  85 labels. Loss 0.07337. Accuracy 0.973.
-                Loss: fixed 104 labels. Loss 0.05449. Accuracy 0.973.
-                Loss: fixed 116 labels. Loss 0.02997. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.02439. Accuracy 0.989.
-                Loss: fixed 127 labels. Loss 0.02151. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.14192. Accuracy 0.950.
-                Loss: fixed  95 labels. Loss 0.07199. Accuracy 0.973.
-                Loss: fixed 112 labels. Loss 0.01947. Accuracy 0.996.
-                Loss: fixed 114 labels. Loss 0.01588. Accuracy 0.996.
-                Loss: fixed 120 labels. Loss 0.00972. Accuracy 0.996.
-                Loss: fixed 121 labels. Loss 0.00904. Accuracy 0.996.
-                Loss: fixed  50 labels. Loss 0.09699. Accuracy 0.962.
-                Loss: fixed  89 labels. Loss 0.05978. Accuracy 0.985.
-                Loss: fixed 107 labels. Loss 0.04236. Accuracy 0.977.
-                Loss: fixed 125 labels. Loss 0.03008. Accuracy 0.989.
-                Loss: fixed 129 labels. Loss 0.01997. Accuracy 0.992.
-                Loss: fixed 134 labels. Loss 0.02216. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.12659. Accuracy 0.935.
-                Loss: fixed  83 labels. Loss 0.09536. Accuracy 0.973.
-                Loss: fixed 104 labels. Loss 0.06697. Accuracy 0.977.
-                Loss: fixed 118 labels. Loss 0.02836. Accuracy 0.989.
-                Loss: fixed 122 labels. Loss 0.02352. Accuracy 0.989.
-                Loss: fixed 123 labels. Loss 0.01797. Accuracy 0.989.
-                Loss: fixed  47 labels. Loss 0.16554. Accuracy 0.931.
-                Loss: fixed  87 labels. Loss 0.11118. Accuracy 0.973.
-                Loss: fixed 113 labels. Loss 0.05038. Accuracy 0.985.
-                Loss: fixed 127 labels. Loss 0.01997. Accuracy 0.992.
-                Loss: fixed 130 labels. Loss 0.02366. Accuracy 0.989.
-                Loss: fixed 132 labels. Loss 0.02192. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.16691. Accuracy 0.935.
-                Loss: fixed  94 labels. Loss 0.09193. Accuracy 0.969.
-                Loss: fixed 119 labels. Loss 0.03190. Accuracy 0.992.
-                Loss: fixed 130 labels. Loss 0.01746. Accuracy 0.992.
-                Loss: fixed 134 labels. Loss 0.01716. Accuracy 0.992.
-                Loss: fixed 139 labels. Loss 0.01079. Accuracy 0.996.
-                Loss: fixed  50 labels. Loss 0.14822. Accuracy 0.947.
-                Loss: fixed  81 labels. Loss 0.12083. Accuracy 0.958.
-                Loss: fixed 104 labels. Loss 0.06685. Accuracy 0.977.
-                Loss: fixed 119 labels. Loss 0.01968. Accuracy 0.992.
-                Loss: fixed 126 labels. Loss 0.01828. Accuracy 0.992.
-                Loss: fixed 128 labels. Loss 0.01490. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.21002. Accuracy 0.916.
-                Loss: fixed  90 labels. Loss 0.10403. Accuracy 0.962.
-                Loss: fixed 110 labels. Loss 0.05486. Accuracy 0.985.
-                Loss: fixed 119 labels. Loss 0.04201. Accuracy 0.989.
-                Loss: fixed 125 labels. Loss 0.03817. Accuracy 0.989.
-                Loss: fixed 131 labels. Loss 0.01807. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.15062. Accuracy 0.954.
-                Loss: fixed  90 labels. Loss 0.09680. Accuracy 0.958.
-                Loss: fixed 108 labels. Loss 0.04195. Accuracy 0.989.
-                Loss: fixed 117 labels. Loss 0.04025. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.01371. Accuracy 0.992.
-                Loss: fixed 127 labels. Loss 0.01205. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.13278. Accuracy 0.943.
-                Loss: fixed  94 labels. Loss 0.06994. Accuracy 0.981.
-                Loss: fixed 109 labels. Loss 0.03157. Accuracy 0.992.
-                Loss: fixed 117 labels. Loss 0.01771. Accuracy 0.996.
-                Loss: fixed 120 labels. Loss 0.01799. Accuracy 0.996.
-                Loss: fixed 123 labels. Loss 0.01549. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.16647. Accuracy 0.935.
-                Loss: fixed  92 labels. Loss 0.08551. Accuracy 0.969.
-                Loss: fixed 115 labels. Loss 0.03481. Accuracy 0.985.
-                Loss: fixed 124 labels. Loss 0.02844. Accuracy 0.989.
-                Loss: fixed 127 labels. Loss 0.01981. Accuracy 0.996.
-                Loss: fixed 130 labels. Loss 0.02005. Accuracy 0.992.
-                Loss: fixed  44 labels. Loss 0.13684. Accuracy 0.947.
-                Loss: fixed  80 labels. Loss 0.10035. Accuracy 0.958.
-                Loss: fixed 106 labels. Loss 0.04627. Accuracy 0.977.
-                Loss: fixed 117 labels. Loss 0.03747. Accuracy 0.985.
-                Loss: fixed 119 labels. Loss 0.03650. Accuracy 0.989.
-                Loss: fixed 126 labels. Loss 0.03061. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.16692. Accuracy 0.935.
-                Loss: fixed  93 labels. Loss 0.11885. Accuracy 0.943.
-                Loss: fixed 117 labels. Loss 0.04610. Accuracy 0.977.
-                Loss: fixed 125 labels. Loss 0.02800. Accuracy 0.985.
-                Loss: fixed 127 labels. Loss 0.02009. Accuracy 0.992.
-                Loss: fixed 130 labels. Loss 0.01137. Accuracy 0.996.
-                Loss: fixed  51 labels. Loss 0.12281. Accuracy 0.950.
-                Loss: fixed  93 labels. Loss 0.07143. Accuracy 0.966.
-                Loss: fixed 117 labels. Loss 0.03010. Accuracy 0.985.
-                Loss: fixed 129 labels. Loss 0.02351. Accuracy 0.989.
-                Loss: fixed 135 labels. Loss 0.00985. Accuracy 0.996.
-                Loss: fixed 137 labels. Loss 0.01154. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.15180. Accuracy 0.935.
-                Loss: fixed  90 labels. Loss 0.08381. Accuracy 0.958.
-                Loss: fixed 114 labels. Loss 0.05793. Accuracy 0.973.
-                Loss: fixed 120 labels. Loss 0.02447. Accuracy 0.992.
-                Loss: fixed 124 labels. Loss 0.01871. Accuracy 0.992.
-                Loss: fixed 127 labels. Loss 0.01647. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.15664. Accuracy 0.943.
-                Loss: fixed  86 labels. Loss 0.11527. Accuracy 0.966.
-                Loss: fixed 104 labels. Loss 0.04503. Accuracy 0.977.
-                Loss: fixed 113 labels. Loss 0.03845. Accuracy 0.985.
-                Loss: fixed 116 labels. Loss 0.03828. Accuracy 0.985.
-                Loss: fixed 123 labels. Loss 0.02619. Accuracy 0.996.
-                Loss: fixed  49 labels. Loss 0.16548. Accuracy 0.931.
-                Loss: fixed  91 labels. Loss 0.07618. Accuracy 0.977.
-                Loss: fixed 114 labels. Loss 0.03515. Accuracy 0.989.
-                Loss: fixed 121 labels. Loss 0.02659. Accuracy 0.996.
-                Loss: fixed 129 labels. Loss 0.02244. Accuracy 0.992.
-                Loss: fixed 132 labels. Loss 0.01988. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.24230. Accuracy 0.901.
-                Loss: fixed  87 labels. Loss 0.15909. Accuracy 0.950.
-                Loss: fixed 106 labels. Loss 0.10228. Accuracy 0.950.
-                Loss: fixed 113 labels. Loss 0.07073. Accuracy 0.973.
-                Loss: fixed 121 labels. Loss 0.03987. Accuracy 0.989.
-                Loss: fixed 126 labels. Loss 0.02346. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.10683. Accuracy 0.958.
-                Loss: fixed  94 labels. Loss 0.03803. Accuracy 0.985.
-                Loss: fixed 113 labels. Loss 0.02419. Accuracy 0.985.
-                Loss: fixed 119 labels. Loss 0.02182. Accuracy 0.992.
-                Loss: fixed 123 labels. Loss 0.01356. Accuracy 0.992.
-                Loss: fixed 126 labels. Loss 0.01251. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.19064. Accuracy 0.905.
-                Loss: fixed  89 labels. Loss 0.13933. Accuracy 0.954.
-                Loss: fixed 109 labels. Loss 0.06183. Accuracy 0.981.
-                Loss: fixed 116 labels. Loss 0.02883. Accuracy 0.985.
-                Loss: fixed 120 labels. Loss 0.01642. Accuracy 0.989.
-                Loss: fixed 123 labels. Loss 0.01319. Accuracy 0.992.
-                Loss: fixed  49 labels. Loss 0.10561. Accuracy 0.966.
-                Loss: fixed  83 labels. Loss 0.05802. Accuracy 0.969.
-                Loss: fixed 103 labels. Loss 0.03258. Accuracy 0.992.
-                Loss: fixed 113 labels. Loss 0.01843. Accuracy 0.996.
-                Loss: fixed 117 labels. Loss 0.01273. Accuracy 0.996.
-                Loss: fixed 120 labels. Loss 0.01335. Accuracy 0.996.
-                Loss: fixed  52 labels. Loss 0.10786. Accuracy 0.939.
-                Loss: fixed  95 labels. Loss 0.05233. Accuracy 0.981.
-                Loss: fixed 114 labels. Loss 0.03338. Accuracy 0.989.
-                Loss: fixed 121 labels. Loss 0.02438. Accuracy 0.992.
-                Loss: fixed 123 labels. Loss 0.01610. Accuracy 0.992.
-                Loss: fixed 124 labels. Loss 0.01507. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.11774. Accuracy 0.954.
-                Loss: fixed  89 labels. Loss 0.07856. Accuracy 0.969.
-                Loss: fixed 106 labels. Loss 0.05054. Accuracy 0.985.
-                Loss: fixed 117 labels. Loss 0.03206. Accuracy 0.985.
-                Loss: fixed 123 labels. Loss 0.02165. Accuracy 0.992.
-                Loss: fixed 127 labels. Loss 0.01805. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.09648. Accuracy 0.958.
-                Loss: fixed  89 labels. Loss 0.04235. Accuracy 0.985.
-                Loss: fixed 111 labels. Loss 0.02967. Accuracy 0.992.
-                Loss: fixed 122 labels. Loss 0.01985. Accuracy 0.989.
-                Loss: fixed 123 labels. Loss 0.01762. Accuracy 0.989.
-                Loss: fixed 123 labels. Loss 0.01762. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.15642. Accuracy 0.924.
-                Loss: fixed  87 labels. Loss 0.09138. Accuracy 0.973.
-                Loss: fixed 104 labels. Loss 0.08407. Accuracy 0.977.
-                Loss: fixed 121 labels. Loss 0.04085. Accuracy 0.989.
-                Loss: fixed 132 labels. Loss 0.02431. Accuracy 0.989.
-                Loss: fixed 136 labels. Loss 0.01776. Accuracy 0.992.
-                Loss: fixed  52 labels. Loss 0.16751. Accuracy 0.943.
-                Loss: fixed  96 labels. Loss 0.05160. Accuracy 0.981.
-                Loss: fixed 110 labels. Loss 0.05024. Accuracy 0.981.
-                Loss: fixed 113 labels. Loss 0.04378. Accuracy 0.985.
-                Loss: fixed 114 labels. Loss 0.04104. Accuracy 0.985.
-                Loss: fixed 116 labels. Loss 0.04039. Accuracy 0.985.
-                Loss: fixed  51 labels. Loss 0.13622. Accuracy 0.947.
-                Loss: fixed  97 labels. Loss 0.07828. Accuracy 0.973.
-                Loss: fixed 119 labels. Loss 0.03964. Accuracy 0.981.
-                Loss: fixed 127 labels. Loss 0.01611. Accuracy 0.992.
-                Loss: fixed 130 labels. Loss 0.01773. Accuracy 0.992.
-                Loss: fixed 133 labels. Loss 0.01727. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.14171. Accuracy 0.939.
-                Loss: fixed  94 labels. Loss 0.08167. Accuracy 0.969.
-                Loss: fixed 117 labels. Loss 0.03525. Accuracy 0.989.
-                Loss: fixed 124 labels. Loss 0.03186. Accuracy 0.985.
-                Loss: fixed 129 labels. Loss 0.01609. Accuracy 0.989.
-                Loss: fixed 131 labels. Loss 0.01533. Accuracy 0.989.
-                Loss: fixed  51 labels. Loss 0.18800. Accuracy 0.927.
-                Loss: fixed  90 labels. Loss 0.14715. Accuracy 0.947.
-                Loss: fixed 114 labels. Loss 0.05263. Accuracy 0.981.
-                Loss: fixed 122 labels. Loss 0.02272. Accuracy 0.989.
-                Loss: fixed 125 labels. Loss 0.01405. Accuracy 0.992.
-                Loss: fixed 129 labels. Loss 0.01457. Accuracy 0.996.
-                Loss: fixed  51 labels. Loss 0.16171. Accuracy 0.927.
-                Loss: fixed  93 labels. Loss 0.12260. Accuracy 0.958.
-                Loss: fixed 118 labels. Loss 0.06605. Accuracy 0.962.
-                Loss: fixed 128 labels. Loss 0.01769. Accuracy 0.992.
-                Loss: fixed 132 labels. Loss 0.01924. Accuracy 0.992.
-                Loss: fixed 133 labels. Loss 0.01452. Accuracy 0.992.
-                Loss: fixed  51 labels. Loss 0.17109. Accuracy 0.943.
-                Loss: fixed  86 labels. Loss 0.11906. Accuracy 0.950.
-                Loss: fixed 109 labels. Loss 0.05850. Accuracy 0.973.
-                Loss: fixed 118 labels. Loss 0.02680. Accuracy 0.992.
-                Loss: fixed 124 labels. Loss 0.01443. Accuracy 0.996.
-                Loss: fixed 125 labels. Loss 0.01153. Accuracy 0.996.
-                Loss: fixed  49 labels. Loss 0.13062. Accuracy 0.939.
-                Loss: fixed  89 labels. Loss 0.07557. Accuracy 0.969.
-                Loss: fixed 108 labels. Loss 0.03508. Accuracy 0.985.
-                Loss: fixed 118 labels. Loss 0.01910. Accuracy 0.989.
-                Loss: fixed 123 labels. Loss 0.02069. Accuracy 0.992.
-                Loss: fixed 130 labels. Loss 0.01545. Accuracy 0.992.
-                Loss: fixed  45 labels. Loss 0.21872. Accuracy 0.889.
-                Loss: fixed  82 labels. Loss 0.17779. Accuracy 0.924.
-                Loss: fixed 113 labels. Loss 0.10973. Accuracy 0.950.
-                Loss: fixed 128 labels. Loss 0.07673. Accuracy 0.973.
-                Loss: fixed 141 labels. Loss 0.06140. Accuracy 0.981.
-                Loss: fixed 154 labels. Loss 0.03149. Accuracy 0.989.
-                Loss: fixed  48 labels. Loss 0.22003. Accuracy 0.870.
-                Loss: fixed  89 labels. Loss 0.18421. Accuracy 0.916.
-                Loss: fixed 115 labels. Loss 0.15751. Accuracy 0.947.
-                Loss: fixed 135 labels. Loss 0.09164. Accuracy 0.966.
-                Loss: fixed 153 labels. Loss 0.04432. Accuracy 0.981.
-                Loss: fixed 156 labels. Loss 0.03831. Accuracy 0.981.
-                Loss: fixed  49 labels. Loss 0.23109. Accuracy 0.897.
-                Loss: fixed  89 labels. Loss 0.18187. Accuracy 0.924.
-                Loss: fixed 120 labels. Loss 0.11594. Accuracy 0.958.
-                Loss: fixed 139 labels. Loss 0.08832. Accuracy 0.973.
-                Loss: fixed 151 labels. Loss 0.04919. Accuracy 0.989.
-                Loss: fixed 159 labels. Loss 0.03658. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.20581. Accuracy 0.905.
-                Loss: fixed  90 labels. Loss 0.14902. Accuracy 0.931.
-                Loss: fixed 121 labels. Loss 0.07323. Accuracy 0.969.
-                Loss: fixed 136 labels. Loss 0.06681. Accuracy 0.981.
-                Loss: fixed 142 labels. Loss 0.04605. Accuracy 0.977.
-                Loss: fixed 145 labels. Loss 0.04234. Accuracy 0.981.
-                Loss: fixed  52 labels. Loss 0.17997. Accuracy 0.931.
-                Loss: fixed  94 labels. Loss 0.15421. Accuracy 0.947.
-                Loss: fixed 123 labels. Loss 0.06488. Accuracy 0.977.
-                Loss: fixed 135 labels. Loss 0.03949. Accuracy 0.985.
-                Loss: fixed 144 labels. Loss 0.01783. Accuracy 0.992.
-                Loss: fixed 146 labels. Loss 0.01784. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.19348. Accuracy 0.908.
-                Loss: fixed  88 labels. Loss 0.17172. Accuracy 0.935.
-                Loss: fixed 111 labels. Loss 0.14098. Accuracy 0.954.
-                Loss: fixed 129 labels. Loss 0.07593. Accuracy 0.969.
-                Loss: fixed 142 labels. Loss 0.02926. Accuracy 0.992.
-                Loss: fixed 151 labels. Loss 0.02100. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.19184. Accuracy 0.920.
-                Loss: fixed  94 labels. Loss 0.13378. Accuracy 0.943.
-                Loss: fixed 130 labels. Loss 0.07797. Accuracy 0.969.
-                Loss: fixed 143 labels. Loss 0.04968. Accuracy 0.985.
-                Loss: fixed 150 labels. Loss 0.03317. Accuracy 0.992.
-                Loss: fixed 154 labels. Loss 0.01996. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.12950. Accuracy 0.962.
-                Loss: fixed  95 labels. Loss 0.07205. Accuracy 0.977.
-                Loss: fixed 123 labels. Loss 0.03197. Accuracy 0.992.
-                Loss: fixed 127 labels. Loss 0.02140. Accuracy 0.992.
-                Loss: fixed 137 labels. Loss 0.01770. Accuracy 0.992.
-                Loss: fixed 144 labels. Loss 0.01137. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.21320. Accuracy 0.901.
-                Loss: fixed  87 labels. Loss 0.16161. Accuracy 0.935.
-                Loss: fixed 117 labels. Loss 0.11943. Accuracy 0.947.
-                Loss: fixed 136 labels. Loss 0.09434. Accuracy 0.966.
-                Loss: fixed 151 labels. Loss 0.03964. Accuracy 0.989.
-                Loss: fixed 158 labels. Loss 0.02710. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.21009. Accuracy 0.897.
-                Loss: fixed  92 labels. Loss 0.15467. Accuracy 0.924.
-                Loss: fixed 125 labels. Loss 0.07123. Accuracy 0.973.
-                Loss: fixed 137 labels. Loss 0.06104. Accuracy 0.985.
-                Loss: fixed 151 labels. Loss 0.02273. Accuracy 0.992.
-                Loss: fixed 157 labels. Loss 0.02292. Accuracy 0.989.
-                Loss: fixed  46 labels. Loss 0.18524. Accuracy 0.927.
-                Loss: fixed  94 labels. Loss 0.13158. Accuracy 0.947.
-                Loss: fixed 127 labels. Loss 0.06874. Accuracy 0.973.
-                Loss: fixed 144 labels. Loss 0.04814. Accuracy 0.981.
-                Loss: fixed 155 labels. Loss 0.03060. Accuracy 0.989.
-                Loss: fixed 161 labels. Loss 0.02075. Accuracy 0.992.
-                Loss: fixed  46 labels. Loss 0.26059. Accuracy 0.885.
-                Loss: fixed  86 labels. Loss 0.17966. Accuracy 0.935.
-                Loss: fixed 114 labels. Loss 0.11393. Accuracy 0.958.
-                Loss: fixed 136 labels. Loss 0.06843. Accuracy 0.973.
-                Loss: fixed 145 labels. Loss 0.04797. Accuracy 0.989.
-                Loss: fixed 150 labels. Loss 0.02439. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.20511. Accuracy 0.901.
-                Loss: fixed  96 labels. Loss 0.16290. Accuracy 0.943.
-                Loss: fixed 126 labels. Loss 0.07654. Accuracy 0.977.
-                Loss: fixed 136 labels. Loss 0.05280. Accuracy 0.977.
-                Loss: fixed 144 labels. Loss 0.03722. Accuracy 0.989.
-                Loss: fixed 149 labels. Loss 0.02782. Accuracy 0.989.
-                Loss: fixed  45 labels. Loss 0.25646. Accuracy 0.908.
-                Loss: fixed  84 labels. Loss 0.20827. Accuracy 0.924.
-                Loss: fixed 114 labels. Loss 0.12922. Accuracy 0.954.
-                Loss: fixed 126 labels. Loss 0.10128. Accuracy 0.962.
-                Loss: fixed 134 labels. Loss 0.07979. Accuracy 0.973.
-                Loss: fixed 143 labels. Loss 0.05965. Accuracy 0.969.
-                Loss: fixed  52 labels. Loss 0.17922. Accuracy 0.935.
-                Loss: fixed  96 labels. Loss 0.14629. Accuracy 0.954.
-                Loss: fixed 124 labels. Loss 0.11529. Accuracy 0.950.
-                Loss: fixed 143 labels. Loss 0.09180. Accuracy 0.973.
-                Loss: fixed 153 labels. Loss 0.05557. Accuracy 0.985.
-                Loss: fixed 157 labels. Loss 0.03948. Accuracy 0.985.
-                Loss: fixed  49 labels. Loss 0.17832. Accuracy 0.943.
-                Loss: fixed  96 labels. Loss 0.11222. Accuracy 0.950.
-                Loss: fixed 124 labels. Loss 0.05376. Accuracy 0.981.
-                Loss: fixed 134 labels. Loss 0.02841. Accuracy 0.992.
-                Loss: fixed 143 labels. Loss 0.02310. Accuracy 0.989.
-                Loss: fixed 146 labels. Loss 0.02336. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.30461. Accuracy 0.859.
-                Loss: fixed  89 labels. Loss 0.27070. Accuracy 0.893.
-                Loss: fixed 119 labels. Loss 0.18165. Accuracy 0.935.
-                Loss: fixed 138 labels. Loss 0.13259. Accuracy 0.962.
-                Loss: fixed 151 labels. Loss 0.08958. Accuracy 0.977.
-                Loss: fixed 160 labels. Loss 0.05433. Accuracy 0.977.
-                Loss: fixed  48 labels. Loss 0.14053. Accuracy 0.939.
-                Loss: fixed  87 labels. Loss 0.10569. Accuracy 0.958.
-                Loss: fixed 120 labels. Loss 0.07362. Accuracy 0.966.
-                Loss: fixed 137 labels. Loss 0.05321. Accuracy 0.985.
-                Loss: fixed 148 labels. Loss 0.03351. Accuracy 0.985.
-                Loss: fixed 155 labels. Loss 0.02352. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.17472. Accuracy 0.927.
-                Loss: fixed  87 labels. Loss 0.13343. Accuracy 0.954.
-                Loss: fixed 117 labels. Loss 0.09749. Accuracy 0.969.
-                Loss: fixed 131 labels. Loss 0.09652. Accuracy 0.989.
-                Loss: fixed 142 labels. Loss 0.05849. Accuracy 0.985.
-                Loss: fixed 150 labels. Loss 0.03722. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.18991. Accuracy 0.908.
-                Loss: fixed  94 labels. Loss 0.15618. Accuracy 0.935.
-                Loss: fixed 120 labels. Loss 0.10408. Accuracy 0.962.
-                Loss: fixed 136 labels. Loss 0.06795. Accuracy 0.981.
-                Loss: fixed 147 labels. Loss 0.05760. Accuracy 0.981.
-                Loss: fixed 151 labels. Loss 0.05283. Accuracy 0.985.
-                Loss: fixed  47 labels. Loss 0.15399. Accuracy 0.943.
-                Loss: fixed  86 labels. Loss 0.16716. Accuracy 0.947.
-                Loss: fixed 115 labels. Loss 0.12171. Accuracy 0.954.
-                Loss: fixed 134 labels. Loss 0.08459. Accuracy 0.969.
-                Loss: fixed 141 labels. Loss 0.06753. Accuracy 0.973.
-                Loss: fixed 148 labels. Loss 0.02227. Accuracy 0.985.
-                Loss: fixed  48 labels. Loss 0.19318. Accuracy 0.931.
-                Loss: fixed  95 labels. Loss 0.12817. Accuracy 0.958.
-                Loss: fixed 125 labels. Loss 0.11537. Accuracy 0.950.
-                Loss: fixed 136 labels. Loss 0.08953. Accuracy 0.966.
-                Loss: fixed 140 labels. Loss 0.06389. Accuracy 0.969.
-                Loss: fixed 144 labels. Loss 0.04090. Accuracy 0.981.
-                Loss: fixed  51 labels. Loss 0.17676. Accuracy 0.920.
-                Loss: fixed  94 labels. Loss 0.10124. Accuracy 0.943.
-                Loss: fixed 119 labels. Loss 0.05635. Accuracy 0.966.
-                Loss: fixed 127 labels. Loss 0.03177. Accuracy 0.985.
-                Loss: fixed 135 labels. Loss 0.01491. Accuracy 0.992.
-                Loss: fixed 139 labels. Loss 0.01912. Accuracy 0.996.
-                Loss: fixed  50 labels. Loss 0.17462. Accuracy 0.920.
-                Loss: fixed  88 labels. Loss 0.15540. Accuracy 0.943.
-                Loss: fixed 119 labels. Loss 0.11569. Accuracy 0.950.
-                Loss: fixed 135 labels. Loss 0.07077. Accuracy 0.977.
-                Loss: fixed 144 labels. Loss 0.04021. Accuracy 0.985.
-                Loss: fixed 148 labels. Loss 0.03243. Accuracy 0.989.
-                Loss: fixed  47 labels. Loss 0.20985. Accuracy 0.893.
-                Loss: fixed  90 labels. Loss 0.15286. Accuracy 0.935.
-                Loss: fixed 112 labels. Loss 0.10316. Accuracy 0.950.
-                Loss: fixed 124 labels. Loss 0.08483. Accuracy 0.969.
-                Loss: fixed 137 labels. Loss 0.04703. Accuracy 0.981.
-                Loss: fixed 141 labels. Loss 0.05032. Accuracy 0.981.
-                Loss: fixed  51 labels. Loss 0.19672. Accuracy 0.920.
-                Loss: fixed  90 labels. Loss 0.16031. Accuracy 0.935.
-                Loss: fixed 117 labels. Loss 0.09669. Accuracy 0.966.
-                Loss: fixed 135 labels. Loss 0.04478. Accuracy 0.989.
-                Loss: fixed 143 labels. Loss 0.04057. Accuracy 0.989.
-                Loss: fixed 149 labels. Loss 0.02051. Accuracy 0.992.
-                Loss: fixed  47 labels. Loss 0.18802. Accuracy 0.931.
-                Loss: fixed  90 labels. Loss 0.14779. Accuracy 0.958.
-                Loss: fixed 119 labels. Loss 0.09737. Accuracy 0.973.
-                Loss: fixed 137 labels. Loss 0.03191. Accuracy 0.985.
-                Loss: fixed 142 labels. Loss 0.03239. Accuracy 0.992.
-                Loss: fixed 146 labels. Loss 0.02743. Accuracy 0.985.
-                Loss: fixed  50 labels. Loss 0.13079. Accuracy 0.939.
-                Loss: fixed  89 labels. Loss 0.11542. Accuracy 0.958.
-                Loss: fixed 122 labels. Loss 0.06580. Accuracy 0.966.
-                Loss: fixed 140 labels. Loss 0.05099. Accuracy 0.985.
-                Loss: fixed 150 labels. Loss 0.03771. Accuracy 0.977.
-                Loss: fixed 154 labels. Loss 0.02296. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.17775. Accuracy 0.916.
-                Loss: fixed  92 labels. Loss 0.13300. Accuracy 0.947.
-                Loss: fixed 115 labels. Loss 0.08386. Accuracy 0.962.
-                Loss: fixed 130 labels. Loss 0.05908. Accuracy 0.969.
-                Loss: fixed 141 labels. Loss 0.04302. Accuracy 0.981.
-                Loss: fixed 147 labels. Loss 0.02975. Accuracy 0.981.
-                Loss: fixed  51 labels. Loss 0.19959. Accuracy 0.916.
-                Loss: fixed  95 labels. Loss 0.15269. Accuracy 0.954.
-                Loss: fixed 119 labels. Loss 0.11456. Accuracy 0.950.
-                Loss: fixed 131 labels. Loss 0.07910. Accuracy 0.973.
-                Loss: fixed 135 labels. Loss 0.04158. Accuracy 0.985.
-                Loss: fixed 139 labels. Loss 0.03915. Accuracy 0.969.
-                Loss: fixed  48 labels. Loss 0.13674. Accuracy 0.939.
-                Loss: fixed  85 labels. Loss 0.09184. Accuracy 0.966.
-                Loss: fixed 115 labels. Loss 0.05239. Accuracy 0.977.
-                Loss: fixed 138 labels. Loss 0.03420. Accuracy 0.989.
-                Loss: fixed 147 labels. Loss 0.03221. Accuracy 0.985.
-                Loss: fixed 155 labels. Loss 0.03310. Accuracy 0.989.
-                Loss: fixed  49 labels. Loss 0.19642. Accuracy 0.905.
-                Loss: fixed  90 labels. Loss 0.13679. Accuracy 0.950.
-                Loss: fixed 120 labels. Loss 0.06232. Accuracy 0.977.
-                Loss: fixed 137 labels. Loss 0.02775. Accuracy 0.989.
-                Loss: fixed 147 labels. Loss 0.01897. Accuracy 0.992.
-                Loss: fixed 152 labels. Loss 0.01352. Accuracy 0.996.
-                Loss: fixed  46 labels. Loss 0.18980. Accuracy 0.901.
-                Loss: fixed  89 labels. Loss 0.14200. Accuracy 0.935.
-                Loss: fixed 116 labels. Loss 0.08306. Accuracy 0.973.
-                Loss: fixed 131 labels. Loss 0.08682. Accuracy 0.973.
-                Loss: fixed 144 labels. Loss 0.06328. Accuracy 0.981.
-                Loss: fixed 152 labels. Loss 0.05991. Accuracy 0.981.
-                Loss: fixed  45 labels. Loss 0.21536. Accuracy 0.889.
-                Loss: fixed  84 labels. Loss 0.20419. Accuracy 0.916.
-                Loss: fixed 110 labels. Loss 0.17151. Accuracy 0.931.
-                Loss: fixed 132 labels. Loss 0.10885. Accuracy 0.962.
-                Loss: fixed 144 labels. Loss 0.07417. Accuracy 0.969.
-                Loss: fixed 152 labels. Loss 0.02684. Accuracy 0.992.
-                Loss: fixed  50 labels. Loss 0.15501. Accuracy 0.931.
-                Loss: fixed  91 labels. Loss 0.11510. Accuracy 0.947.
-                Loss: fixed 120 labels. Loss 0.06393. Accuracy 0.973.
-                Loss: fixed 139 labels. Loss 0.05401. Accuracy 0.981.
-                Loss: fixed 151 labels. Loss 0.04248. Accuracy 0.985.
-                Loss: fixed 158 labels. Loss 0.02810. Accuracy 0.989.
-                Loss: fixed  50 labels. Loss 0.14475. Accuracy 0.935.
-                Loss: fixed  92 labels. Loss 0.09396. Accuracy 0.958.
-                Loss: fixed 117 labels. Loss 0.05521. Accuracy 0.981.
-                Loss: fixed 128 labels. Loss 0.03168. Accuracy 0.985.
-                Loss: fixed 130 labels. Loss 0.03850. Accuracy 0.985.
-                Loss: fixed 135 labels. Loss 0.02103. Accuracy 0.985.
-                Loss: fixed  46 labels. Loss 0.23498. Accuracy 0.893.
-                Loss: fixed  83 labels. Loss 0.16908. Accuracy 0.931.
-                Loss: fixed 109 labels. Loss 0.13015. Accuracy 0.950.
-                Loss: fixed 131 labels. Loss 0.07930. Accuracy 0.958.
-                Loss: fixed 145 labels. Loss 0.06027. Accuracy 0.969.
-                Loss: fixed 155 labels. Loss 0.03776. Accuracy 0.981.
-                Loss: fixed  48 labels. Loss 0.11704. Accuracy 0.966.
-                Loss: fixed  87 labels. Loss 0.08880. Accuracy 0.973.
-                Loss: fixed 111 labels. Loss 0.06566. Accuracy 0.977.
-                Loss: fixed 130 labels. Loss 0.04554. Accuracy 0.981.
-                Loss: fixed 139 labels. Loss 0.03684. Accuracy 0.981.
-                Loss: fixed 147 labels. Loss 0.04189. Accuracy 0.981.
-                Loss: fixed  50 labels. Loss 0.18015. Accuracy 0.908.
-                Loss: fixed  89 labels. Loss 0.10832. Accuracy 0.950.
-                Loss: fixed 112 labels. Loss 0.06929. Accuracy 0.973.
-                Loss: fixed 132 labels. Loss 0.02239. Accuracy 0.992.
-                Loss: fixed 138 labels. Loss 0.02263. Accuracy 0.989.
-                Loss: fixed 142 labels. Loss 0.01462. Accuracy 0.992.
-                Loss: fixed  48 labels. Loss 0.21050. Accuracy 0.905.
-                Loss: fixed  88 labels. Loss 0.18957. Accuracy 0.927.
-                Loss: fixed 117 labels. Loss 0.12986. Accuracy 0.950.
-                Loss: fixed 136 labels. Loss 0.07594. Accuracy 0.973.
-                Loss: fixed 145 labels. Loss 0.02502. Accuracy 0.992.
-                Loss: fixed 155 labels. Loss 0.02306. Accuracy 0.992.
+  22 
+  23 
+  23 
+  23 
+  23 
+  23 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  27 
+  27 
+  27 
+  27 
+  27 
+  27 
+  24 
+  24 
+  24 
+  24 
+  24 
+  24 
+  29 
+  29 
+  29 
+  29 
+  29 
+  29 
+  22 
+  22 
+  22 
+  22 
+  22 
+  22 
+  29 
+  29 
+  29 
+  29 
+  29 
+  29 
+  32 
+  32 
+  32 
+  32 
+  32 
+  32 
+  18 
+  18 
+  18 
+  18 
+  18 
+  18 
+  30 
+  32 
+  32 
+  32 
+  32 
+  32 
+  20 
+  20 
+  20 
+  20 
+  20 
+  20 
+  21 
+  21 
+  21 
+  21 
+  21 
+  21 
+  20 
+  20 
+  20 
+  20 
+  20 
+  20 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  25 
+  26 
+  26 
+  26 
+  26 
+  26 
+  27 
+  27 
+  27 
+  27 
+  27 
+  27 
+  25 
+  25 
+  25 
+  25 
+  25 
+  25 
+  32 
+  32 
+  32 
+  32 
+  32 
+  32 
+  21 
+  21 
+  21 
+  21 
+  21 
+  21 
+  25 
+  26 
+  26 
+  26 
+  26 
+  26 
+  28 
+  28 
+  28 
+  28 
+  28 
+  28 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  31 
+  31 
+  31 
+  31 
+  32 
+  32 
+  27 
+  28 
+  28 
+  28 
+  28 
+  28 
+  22 
+  22 
+  22 
+  22 
+  22 
+  22 
+  25 
+  25 
+  25 
+  25 
+  25 
+  25 
+  31 
+  31 
+  31 
+  31 
+  31 
+  31 
+  27 
+  28 
+  28 
+  28 
+  28 
+  28 
+  30 
+  30 
+  30 
+  30 
+  30 
+  30 
+  25 
+  25 
+  25 
+  25 
+  25 
+  25 
+  28 
+  29 
+  29 
+  30 
+  30 
+  30 
+  32 
+  32 
+  32 
+  32 
+  32 
+  32 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  26 
+  33 
+  33 
+  33 
+  33 
+  33 
+  33 
+  17 
+  17 
+  17 
+  17 
+  17 
+  17 
+  23 
+  23 
+  23 
+  23 
+  23 
+  23 
+  33 
+  33 
+  33 
+  33 
+  33 
+  33 
+  22 
+  22 
+  22 
+  22 
+  22 
+  22 
+  47 
+  53 
+  53 
+  53 
+  53 
+  53 
+  48 
+  56 
+  56 
+  56 
+  56 
+  56 
+  47 
+  56 
+  57 
+  57 
+  57 
+  57 
+  43 
+  50 
+  52 
+  52 
+  52 
+  52 
+  47 
+  59 
+  61 
+  62 
+  62 
+  62 
+  47 
+  58 
+  59 
+  59 
+  59 
+  59 
+  48 
+  53 
+  53 
+  53 
+  53 
+  53 
+  49 
+  53 
+  53 
+  53 
+  53 
+  53 
+  47 
+  54 
+  56 
+  56 
+  56 
+  56 
+  40 
+  43 
+  43 
+  43 
+  43 
+  43 
+  46 
+  51 
+  52 
+  52 
+  52 
+  52 
+  49 
+  54 
+  54 
+  54 
+  54 
+  54 
+  39 
+  45 
+  45 
+  45 
+  46 
+  46 
+  47 
+  61 
+  62 
+  63 
+  63 
+  63 
+  45 
+  51 
+  51 
+  51 
+  51 
+  51 
+  47 
+  55 
+  57 
+  57 
+  57 
+  57 
+  48 
+  57 
+  58 
+  58 
+  58 
+  58 
+  44 
+  46 
+  46 
+  46 
+  46 
+  46 
+  46 
+  54 
+  57 
+  57 
+  57 
+  57 
+  51 
+  64 
+  64 
+  64 
+  64 
+  64 
+  47 
+  51 
+  51 
+  51 
+  51 
+  51 
+  49 
+  55 
+  56 
+  56 
+  56 
+  56 
+  44 
+  49 
+  49 
+  49 
+  49 
+  49 
+  44 
+  47 
+  48 
+  48 
+  48 
+  48 
+  45 
+  47 
+  49 
+  50 
+  50 
+  50 
+  44 
+  48 
+  49 
+  49 
+  49 
+  49 
+  42 
+  47 
+  47 
+  47 
+  47 
+  47 
+  49 
+  58 
+  59 
+  59 
+  59 
+  59 
+  46 
+  49 
+  49 
+  49 
+  49 
+  49 
+  47 
+  54 
+  54 
+  54 
+  54 
+  54 
+  47 
+  52 
+  52 
+  52 
+  52 
+  52 
+  47 
+  52 
+  54 
+  56 
+  56 
+  56 
+  39 
+  42 
+  43 
+  43 
+  43 
+  43 
+  52 
+  62 
+  62 
+  63 
+  63 
+  63 
+  48 
+  57 
+  57 
+  58 
+  58 
+  58 
+  43 
+  51 
+  51 
+  51 
+  51 
+  51 
+  48 
+  52 
+  52 
+  52 
+  52 
+  52 
+  49 
+  63 
+  66 
+  67 
+  67 
+  67 
+  51 
+  55 
+  55 
+  55 
+  55 
+  55 
+  51 
+  62 
+  62 
+  63 
+  63 
+  63 
+  51 
+  78 
+  78 
+  78 
+  80 
+  81 
+  51 
+  77 
+  82 
+  82 
+  83 
+  83 
+  51 
+  77 
+  79 
+  81 
+  83 
+  84 
+  52 
+  70 
+  70 
+  70 
+  72 
+  73 
+  51 
+  78 
+  88 
+  92 
+  92 
+  93 
+  52 
+  71 
+  73 
+  75 
+  75 
+  75 
+  49 
+  75 
+  78 
+  78 
+  78 
+  79 
+  49 
+  74 
+  76 
+  77 
+  78 
+  78 
+  49 
+  73 
+  77 
+  77 
+  77 
+  77 
+  52 
+  78 
+  81 
+  83 
+  84 
+  84 
+  52 
+  75 
+  78 
+  82 
+  85 
+  85 
+  51 
+  77 
+  84 
+  85 
+  85 
+  86 
+  52 
+  76 
+  80 
+  81 
+  81 
+  81 
+  52 
+  81 
+  84 
+  85 
+  85 
+  86 
+  51 
+  75 
+  77 
+  77 
+  77 
+  77 
+  52 
+  75 
+  77 
+  78 
+  78 
+  79 
+  50 
+  71 
+  74 
+  76 
+  78 
+  78 
+  51 
+  73 
+  73 
+  73 
+  74 
+  74 
+  52 
+  82 
+  83 
+  83 
+  83 
+  83 
+  52 
+  73 
+  73 
+  73 
+  73 
+  74 
+  50 
+  83 
+  84 
+  85 
+  85 
+  85 
+  51 
+  72 
+  75 
+  77 
+  77 
+  77 
+  50 
+  76 
+  81 
+  82 
+  82 
+  82 
+  52 
+  78 
+  79 
+  79 
+  79 
+  79 
+  51 
+  74 
+  74 
+  74 
+  74 
+  74 
+  52 
+  78 
+  81 
+  84 
+  84 
+  85 
+  52 
+  81 
+  85 
+  85 
+  85 
+  85 
+  50 
+  76 
+  76 
+  77 
+  77 
+  77 
+  51 
+  73 
+  73 
+  74 
+  74 
+  74 
+  51 
+  76 
+  79 
+  79 
+  79 
+  79 
+  51 
+  72 
+  74 
+  75 
+  75 
+  75 
+  52 
+  77 
+  80 
+  80 
+  80 
+  81 
+  52 
+  78 
+  79 
+  80 
+  81 
+  81 
+  51 
+  72 
+  74 
+  75 
+  75 
+  76 
+  50 
+  79 
+  84 
+  85 
+  85 
+  85 
+  51 
+  72 
+  75 
+  77 
+  78 
+  79 
+  51 
+  81 
+  84 
+  85 
+  85 
+  85 
+  52 
+  78 
+  79 
+  79 
+  79 
+  79 
+  52 
+  73 
+  73 
+  73 
+  73 
+  73 
+  48 
+  73 
+  82 
+  82 
+  82 
+  82 
+  51 
+  88 
+  96 
+  99 
+ 100 
+ 101 
+  49 
+  90 
+ 104 
+ 107 
+ 108 
+ 109 
+  51 
+  90 
+ 101 
+ 106 
+ 109 
+ 110 
+  51 
+  83 
+  94 
+  97 
+  99 
+ 101 
+  52 
+  89 
+  99 
+ 101 
+ 102 
+ 103 
+  52 
+  90 
+ 106 
+ 110 
+ 113 
+ 113 
+  51 
+  89 
+ 103 
+ 105 
+ 110 
+ 110 
+  51 
+  87 
+ 104 
+ 112 
+ 114 
+ 114 
+  50 
+  83 
+  97 
+ 100 
+ 100 
+ 100 
+  52 
+  92 
+ 103 
+ 105 
+ 106 
+ 108 
+  50 
+  95 
+ 109 
+ 113 
+ 118 
+ 118 
+  51 
+  91 
+  99 
+ 101 
+ 101 
+ 101 
+  51 
+  93 
+ 106 
+ 110 
+ 111 
+ 113 
+  50 
+  85 
+  98 
+ 100 
+ 101 
+ 101 
+  51 
+  77 
+  97 
+  98 
+ 100 
+ 101 
+  50 
+  89 
+  95 
+  97 
+  98 
+  99 
+  52 
+  94 
+ 103 
+ 106 
+ 109 
+ 110 
+  51 
+  90 
+ 101 
+ 104 
+ 105 
+ 106 
+  51 
+  88 
+  99 
+ 101 
+ 101 
+ 103 
+  50 
+  80 
+  92 
+  97 
+  97 
+  97 
+  51 
+  90 
+  98 
+ 102 
+ 104 
+ 107 
+  49 
+  90 
+ 100 
+ 107 
+ 111 
+ 112 
+  49 
+  87 
+ 104 
+ 104 
+ 106 
+ 109 
+  52 
+  94 
+ 101 
+ 104 
+ 106 
+ 107 
+  51 
+  86 
+  97 
+  98 
+ 103 
+ 104 
+  49 
+  87 
+  93 
+  93 
+  93 
+  93 
+  50 
+  81 
+  94 
+ 101 
+ 104 
+ 105 
+  51 
+  96 
+ 107 
+ 108 
+ 108 
+ 108 
+  49 
+  88 
+ 101 
+ 106 
+ 109 
+ 110 
+  52 
+  88 
+  94 
+  97 
+  97 
+  97 
+  52 
+  89 
+ 101 
+ 109 
+ 109 
+ 111 
+  50 
+  82 
+  90 
+  97 
+  99 
+ 100 
+  52 
+  83 
+  95 
+  99 
+ 104 
+ 104 
+  50 
+  98 
+ 110 
+ 114 
+ 115 
+ 115 
+  50 
+  86 
+  94 
+  99 
+ 101 
+ 103 
+  51 
+  89 
+  95 
+  98 
+ 100 
+ 101 
+  52 
+  80 
+  93 
+  96 
+  98 
+  98 
+  48 
+  87 
+  98 
+ 101 
+ 106 
+ 107 
+  48 
+  88 
+  97 
+ 102 
+ 105 
+ 108 
+  52 
+  90 
+ 102 
+ 106 
+ 106 
+ 106 
+  51 
+  85 
+ 113 
+ 121 
+ 126 
+ 131 
+  52 
+  93 
+ 116 
+ 131 
+ 137 
+ 138 
+  52 
+  94 
+ 114 
+ 118 
+ 124 
+ 124 
+  51 
+  94 
+ 115 
+ 128 
+ 129 
+ 130 
+  49 
+  91 
+ 112 
+ 121 
+ 124 
+ 126 
+  51 
+  89 
+ 112 
+ 119 
+ 122 
+ 123 
+  52 
+  92 
+ 118 
+ 124 
+ 126 
+ 127 
+  50 
+  96 
+ 115 
+ 127 
+ 129 
+ 134 
+  48 
+  85 
+ 104 
+ 116 
+ 124 
+ 127 
+  50 
+  95 
+ 112 
+ 114 
+ 120 
+ 121 
+  50 
+  89 
+ 107 
+ 125 
+ 129 
+ 134 
+  49 
+  83 
+ 104 
+ 118 
+ 122 
+ 123 
+  47 
+  87 
+ 113 
+ 127 
+ 130 
+ 132 
+  51 
+  94 
+ 119 
+ 130 
+ 134 
+ 139 
+  50 
+  81 
+ 104 
+ 119 
+ 126 
+ 128 
+  51 
+  90 
+ 110 
+ 119 
+ 125 
+ 131 
+  49 
+  90 
+ 108 
+ 117 
+ 124 
+ 127 
+  49 
+  94 
+ 109 
+ 117 
+ 120 
+ 123 
+  51 
+  92 
+ 115 
+ 124 
+ 127 
+ 130 
+  44 
+  80 
+ 106 
+ 117 
+ 119 
+ 126 
+  49 
+  93 
+ 117 
+ 125 
+ 127 
+ 130 
+  51 
+  93 
+ 117 
+ 129 
+ 135 
+ 137 
+  51 
+  90 
+ 114 
+ 120 
+ 124 
+ 127 
+  50 
+  86 
+ 104 
+ 113 
+ 116 
+ 123 
+  49 
+  91 
+ 114 
+ 121 
+ 129 
+ 132 
+  48 
+  87 
+ 106 
+ 113 
+ 121 
+ 126 
+  50 
+  94 
+ 113 
+ 119 
+ 123 
+ 126 
+  51 
+  89 
+ 109 
+ 116 
+ 120 
+ 123 
+  49 
+  83 
+ 103 
+ 113 
+ 117 
+ 120 
+  52 
+  95 
+ 114 
+ 121 
+ 123 
+ 124 
+  52 
+  89 
+ 106 
+ 117 
+ 123 
+ 127 
+  50 
+  89 
+ 111 
+ 122 
+ 123 
+ 123 
+  50 
+  87 
+ 104 
+ 121 
+ 132 
+ 136 
+  52 
+  96 
+ 110 
+ 113 
+ 114 
+ 116 
+  51 
+  97 
+ 119 
+ 127 
+ 130 
+ 133 
+  51 
+  94 
+ 117 
+ 124 
+ 129 
+ 131 
+  51 
+  90 
+ 114 
+ 122 
+ 125 
+ 129 
+  51 
+  93 
+ 118 
+ 128 
+ 132 
+ 133 
+  51 
+  86 
+ 109 
+ 118 
+ 124 
+ 125 
+  49 
+  89 
+ 108 
+ 118 
+ 123 
+ 130 
+  45 
+  82 
+ 113 
+ 128 
+ 141 
+ 154 
+  48 
+  89 
+ 115 
+ 135 
+ 153 
+ 156 
+  49 
+  89 
+ 120 
+ 139 
+ 151 
+ 159 
+  50 
+  90 
+ 121 
+ 136 
+ 142 
+ 145 
+  52 
+  94 
+ 123 
+ 135 
+ 144 
+ 146 
+  47 
+  88 
+ 111 
+ 129 
+ 142 
+ 151 
+  50 
+  94 
+ 130 
+ 143 
+ 150 
+ 154 
+  50 
+  95 
+ 123 
+ 127 
+ 137 
+ 144 
+  50 
+  87 
+ 117 
+ 136 
+ 151 
+ 158 
+  50 
+  92 
+ 125 
+ 137 
+ 151 
+ 157 
+  46 
+  94 
+ 127 
+ 144 
+ 155 
+ 161 
+  46 
+  86 
+ 114 
+ 136 
+ 145 
+ 150 
+  50 
+  96 
+ 126 
+ 136 
+ 144 
+ 149 
+  45 
+  84 
+ 114 
+ 126 
+ 134 
+ 143 
+  52 
+  96 
+ 124 
+ 143 
+ 153 
+ 157 
+  49 
+  96 
+ 124 
+ 134 
+ 143 
+ 146 
+  47 
+  89 
+ 119 
+ 138 
+ 151 
+ 160 
+  48 
+  87 
+ 120 
+ 137 
+ 148 
+ 155 
+  47 
+  87 
+ 117 
+ 131 
+ 142 
+ 150 
+  49 
+  94 
+ 120 
+ 136 
+ 147 
+ 151 
+  47 
+  86 
+ 115 
+ 134 
+ 141 
+ 148 
+  48 
+  95 
+ 125 
+ 136 
+ 140 
+ 144 
+  51 
+  94 
+ 119 
+ 127 
+ 135 
+ 139 
+  50 
+  88 
+ 119 
+ 135 
+ 144 
+ 148 
+  47 
+  90 
+ 112 
+ 124 
+ 137 
+ 141 
+  51 
+  90 
+ 117 
+ 135 
+ 143 
+ 149 
+  47 
+  90 
+ 119 
+ 137 
+ 142 
+ 146 
+  50 
+  89 
+ 122 
+ 140 
+ 150 
+ 154 
+  50 
+  92 
+ 115 
+ 130 
+ 141 
+ 147 
+  51 
+  95 
+ 119 
+ 131 
+ 135 
+ 139 
+  48 
+  85 
+ 115 
+ 138 
+ 147 
+ 155 
+  49 
+  90 
+ 120 
+ 137 
+ 147 
+ 152 
+  46 
+  89 
+ 116 
+ 131 
+ 144 
+ 152 
+  45 
+  84 
+ 110 
+ 132 
+ 144 
+ 152 
+  50 
+  91 
+ 120 
+ 139 
+ 151 
+ 158 
+  50 
+  92 
+ 117 
+ 128 
+ 130 
+ 135 
+  46 
+  83 
+ 109 
+ 131 
+ 145 
+ 155 
+  48 
+  87 
+ 111 
+ 130 
+ 139 
+ 147 
+  50 
+  89 
+ 112 
+ 132 
+ 138 
+ 142 
+  48 
+  88 
+ 117 
+ 136 
+ 145 
+ 155 
