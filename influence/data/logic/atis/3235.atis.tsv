@@ -1,0 +1,1 @@
+what is the cost of the air taxi operation at philadelphia international airport	( _lambda $0 e ( _exists $1 ( _and ( _air_taxi_operation $1 ) ( _from_airport $1 phl:_ap ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

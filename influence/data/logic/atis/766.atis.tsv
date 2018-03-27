@@ -1,0 +1,1 @@
+oakland to san francisco please breakfast flight	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 breakfast:_me ) ( _from $0 oakland:_ci ) ( _to $0 san_francisco:_ci ) ) )

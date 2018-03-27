@@ -1,0 +1,1 @@
+show me us air flights from pittsburgh to san francisco first class on monday	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _class_type $0 first:_cl ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 monday:_da ) ) )

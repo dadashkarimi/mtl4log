@@ -1,0 +1,1 @@
+what are the classes of service on delta airlines	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 dl:_al ) ( _= ( _booking_class $1 ) $0 ) ) ) )

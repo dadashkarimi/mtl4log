@@ -1,0 +1,1 @@
+list flights from phoenix to detroit on thursday june twenty fourth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 phoenix:_ci ) ( _to $0 detroit:_ci ) ( _day $0 thursday:_da ) ( _day_number $0 24:_dn ) ( _month $0 june:_mn ) ) )

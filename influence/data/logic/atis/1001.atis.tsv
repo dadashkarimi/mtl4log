@@ -1,0 +1,1 @@
+does any airline offer dc10 service between denver and boston	( _lambda $0 e ( _and ( _airline $0 ) ( _exists $1 ( _and ( _flight $1 ) ( _aircraft_code $1 dc10:_ac ) ( _from $1 denver:_ci ) ( _to $1 boston:_ci ) ( _airline $1 $0 ) ) ) ) )

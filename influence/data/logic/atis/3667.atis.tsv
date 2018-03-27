@@ -1,0 +1,1 @@
+what is the distance from la guardia to new york's downtown	( _lambda $0 e ( _and ( _miles_distant $0 ) ( _to_city $0 new_york:_ci ) ( _from_airport $0 lga:_ap ) ) )

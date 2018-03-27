@@ -1,0 +1,1 @@
+philadelphia to dallas arriving before 1 in the afternoon	( _lambda $0 e ( _and ( _< ( _arrival_time $0 ) 1300:_ti ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ) )

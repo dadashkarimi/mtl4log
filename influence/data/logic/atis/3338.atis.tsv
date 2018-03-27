@@ -1,0 +1,1 @@
+are there any later flights than 810pm leaving from milwaukee for tacoma tomorrow evening	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 2010:_ti ) ( _during_day $0 evening:_pd ) ( _from $0 milwaukee:_ci ) ( _to $0 tacoma:_ci ) ( _tomorrow $0 ) ) )

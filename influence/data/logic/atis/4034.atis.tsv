@@ -1,0 +1,1 @@
+what is the schedule of ground transportation from washington airport into downtown	( _lambda $0 e ( _exists $1 ( _and ( _ground_transport $1 ) ( _to_city $1 washington:_ci ) ( _from_airport $1 washington:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

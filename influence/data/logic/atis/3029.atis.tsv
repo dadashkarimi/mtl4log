@@ -1,0 +1,1 @@
+how many delta flights leave from washington	( _count $0 ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 washington:_ci ) ) )

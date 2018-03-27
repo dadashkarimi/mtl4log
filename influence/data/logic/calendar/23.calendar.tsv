@@ -1,0 +1,1 @@
+what meeting had the fewest people show up	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string min ) ( string attendee ) ) )

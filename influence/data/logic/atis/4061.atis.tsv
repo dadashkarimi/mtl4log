@@ -1,0 +1,1 @@
+one way flights from ontario to tacoma leaving before 10am on any day and first class	( _lambda $0 e ( _and ( _flight $0 ) ( _oneway $0 ) ( _class_type $0 first:_cl ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 ontario:_ci ) ( _to $0 tacoma:_ci ) ) )

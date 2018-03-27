@@ -1,0 +1,1 @@
+what is the price of a one way fare from atlanta to boston	( _lambda $0 e ( _exists $1 ( _and ( _exists $2 ( _and ( _to $2 boston:_ci ) ( _from $2 atlanta:_ci ) ( _oneway $2 ) ( _= ( _fare $2 ) $1 ) ) ) ( _= ( _fare $1 ) $0 ) ) ) )

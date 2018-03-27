@@ -1,0 +1,1 @@
+find the flights that leave philadelphia and arrive in dallas by noon	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ) )

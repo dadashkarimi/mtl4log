@@ -1,0 +1,1 @@
+what is the number of first class flights on american airlines	( _count $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _class_type $0 first:_cl ) ) )

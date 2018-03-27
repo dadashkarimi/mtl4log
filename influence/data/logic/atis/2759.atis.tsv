@@ -1,0 +1,1 @@
+show me the ground transportation schedule in san francisco on thursday evening	( _lambda $0 e ( _exists $1 ( _and ( _= ( _departure_time $1 ) $0 ) ( _day $1 thursday:_da ) ( _to_city $1 san_francisco:_ci ) ( _ground_transport $1 ) ( _during_day $1 evening:_pd ) ) ) )

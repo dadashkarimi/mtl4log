@@ -1,0 +1,1 @@
+show me the united airlines flights from denver to baltimore leaving on june fourteenth	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 14:_dn ) ( _month $0 june:_mn ) ) )

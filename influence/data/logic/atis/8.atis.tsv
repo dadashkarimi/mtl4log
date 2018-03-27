@@ -1,0 +1,1 @@
+do you have an 819 flight from denver to san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 819:_ti ) ( _from $0 denver:_ci ) ( _to $0 san_francisco:_ci ) ) )

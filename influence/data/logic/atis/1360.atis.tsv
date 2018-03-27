@@ -1,0 +1,1 @@
+what is american's last flight from boston to washington dc on july twenty first	( _argmax $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ( _day_number $0 21:_dn ) ( _month $0 july:_mn ) ) ( _departure_time $0 ) )

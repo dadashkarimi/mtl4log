@@ -1,0 +1,1 @@
+what flights go from dallas to denver leaving after 3pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1500:_ti ) ( _from $0 dallas:_ci ) ( _to $0 denver:_ci ) ) )

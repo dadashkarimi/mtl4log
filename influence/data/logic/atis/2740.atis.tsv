@@ -1,0 +1,1 @@
+please show all flights from philadelphia to denver airport next sunday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 philadelphia:_ci ) ( _to $0 den:_ap ) ( _day $0 sunday:_da ) ) )

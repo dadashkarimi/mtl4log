@@ -1,0 +1,1 @@
+i want a flight from pittsburgh to los angeles that departs after 6pm on thursday	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1800:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 los_angeles:_ci ) ( _day $0 thursday:_da ) ) )

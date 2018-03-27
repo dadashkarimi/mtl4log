@@ -1,0 +1,1 @@
+what is the total seating capacity of all aircraft of american airlines	( _sum $0 ( _and ( _aircraft $0 ) ( _airline $0 aa:_al ) ) ( _capacity $0 ) )

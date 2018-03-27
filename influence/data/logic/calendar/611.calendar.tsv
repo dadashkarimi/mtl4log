@@ -1,0 +1,1 @@
+meeting with largest number of attendees	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string max ) ( string attendee ) ) )

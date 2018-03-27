@@ -1,0 +1,1 @@
+tell me about flights leaving from atlanta and going to charlotte north carolina next monday i need to know about flights that arrive in charlotte between 415 and 530pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1615:_ti ) ( _< ( _arrival_time $0 ) 1730:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 charlotte:_ci ) ( _day $0 monday:_da ) ) )

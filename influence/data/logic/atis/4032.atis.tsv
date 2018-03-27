@@ -1,0 +1,1 @@
+what is the cheapest flight flying from boston to atlanta before 8	( _argmin $0 ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 800:_ti ) ( _from $0 boston:_ci ) ( _to $0 atlanta:_ci ) ) ( _fare $0 ) )

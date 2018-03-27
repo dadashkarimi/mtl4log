@@ -1,0 +1,1 @@
+what flight from denver to pittsburgh arrives earliest in the morning	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ) ( _arrival_time $0 ) )

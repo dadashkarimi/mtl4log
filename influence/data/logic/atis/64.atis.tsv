@@ -1,0 +1,1 @@
+show me the one way flight from detroit to westchester county with the highest fare	( _argmax $0 ( _and ( _flight $0 ) ( _oneway $0 ) ( _from $0 detroit:_ci ) ( _to $0 westchester_county:_ci ) ) ( _fare $0 ) )

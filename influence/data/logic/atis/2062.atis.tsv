@@ -1,0 +1,1 @@
+list flights from montreal to washington with the lowest one way fares that leaves on saturday	( _argmin $0 ( _and ( _flight $0 ) ( _oneway $0 ) ( _from $0 montreal:_ci ) ( _to $0 washington:_ci ) ( _day $0 saturday:_da ) ) ( _fare $0 ) )

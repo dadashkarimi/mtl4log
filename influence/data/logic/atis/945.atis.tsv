@@ -1,0 +1,1 @@
+list number of people that can be carried on each type of plane that flies between pittsburgh and baltimore	( _lambda $0 e ( _lambda $1 e ( _and ( _aircraft $1 ) ( _exists $2 ( _flight $2 ) ) ) ) )

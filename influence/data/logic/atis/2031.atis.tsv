@@ -1,0 +1,1 @@
+i need information on flights from kansas city missouri to salt lake city utah i am interested in only those flights on delta airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 kansas_city:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

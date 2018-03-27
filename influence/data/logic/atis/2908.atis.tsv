@@ -1,0 +1,1 @@
+does delta airline fly from denver to pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ) )

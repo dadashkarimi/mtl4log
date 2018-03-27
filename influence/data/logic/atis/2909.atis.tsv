@@ -1,0 +1,1 @@
+what type of aircraft leaves from boston to washington dc at 9am during a weekday	( _lambda $0 e ( _exists $1 ( _and ( _departure_time $1 900:_ti ) ( _from $1 boston:_ci ) ( _to $1 washington:_ci ) ( _weekday $1 ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

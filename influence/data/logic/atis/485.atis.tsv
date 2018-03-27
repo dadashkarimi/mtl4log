@@ -1,0 +1,1 @@
+show me saturday and sunday's flights from milwaukee to phoenix on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 milwaukee:_ci ) ( _to $0 phoenix:_ci ) ( _or ( _day $0 saturday:_da ) ( _day $0 sunday:_da ) ) ) )

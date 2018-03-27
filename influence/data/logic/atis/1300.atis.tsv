@@ -1,0 +1,1 @@
+show me the flights leaving from love field	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 dal:_ap ) ) )

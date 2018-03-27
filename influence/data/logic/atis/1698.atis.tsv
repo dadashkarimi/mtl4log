@@ -1,0 +1,1 @@
+what flights leave from newark to los angeles in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 newark:_ci ) ( _to $0 los_angeles:_ci ) ) )

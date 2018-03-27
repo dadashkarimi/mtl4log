@@ -1,0 +1,1 @@
+what flights from pittsburgh to newark on monday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 newark:_ci ) ( _day $0 monday:_da ) ) )

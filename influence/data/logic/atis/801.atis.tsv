@@ -1,0 +1,1 @@
+us air 269 leaving boston at 428 what is the arrival time in baltimore	( _lambda $0 e ( _and ( _airline $0 us:_al ) ( _flight_number $0 269:_fn ) ( _departure_time $0 1628:_ti ) ( _from $0 boston:_ci ) ( _to $0 baltimore:_ci ) ) )

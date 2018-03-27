@@ -1,0 +1,1 @@
+yes on the delta flight leaving san francisco at 225pm arriving philadelphia 1158pm what type of equipment is used on that flight	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _departure_time $1 1425:_ti ) ( _arrival_time $1 2358:_ti ) ( _from $1 san_francisco:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

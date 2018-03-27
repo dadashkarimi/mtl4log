@@ -1,0 +1,1 @@
+what airplane types fly from pittsburgh to baltimore	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 pittsburgh:_ci ) ( _to $1 baltimore:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

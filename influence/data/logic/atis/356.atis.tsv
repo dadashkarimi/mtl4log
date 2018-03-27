@@ -1,0 +1,1 @@
+what flights from new york to los angeles after 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1000:_ti ) ( _from $0 new_york:_ci ) ( _to $0 los_angeles:_ci ) ) )

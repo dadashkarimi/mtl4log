@@ -1,0 +1,1 @@
+show me all flights from boston to denver which arrive in denver wednesday before 6	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1800:_ti ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ( _day_arrival $0 wednesday:_da ) ) )

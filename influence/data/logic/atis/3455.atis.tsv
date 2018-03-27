@@ -1,0 +1,1 @@
+what city is mco	( _lambda $0 e ( _and ( _city $0 ) ( _loc:_t mco:_ap $0 ) ) )

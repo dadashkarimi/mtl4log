@@ -1,0 +1,1 @@
+i want a round trip fare from new york to san jose	( _lambda $0 e ( _exists $1 ( _and ( _round_trip $1 ) ( _from $1 new_york:_ci ) ( _to $1 san_jose:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+what are the prices of the flights from atlanta to dallas in the morning	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _during_day $1 morning:_pd ) ( _from $1 atlanta:_ci ) ( _to $1 dallas:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

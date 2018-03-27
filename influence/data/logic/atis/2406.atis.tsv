@@ -1,0 +1,1 @@
+do you have a 747 that flies from san francisco to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _aircraft_code $0 747:_ac ) ( _from $0 san_francisco:_ci ) ( _to $0 baltimore:_ci ) ) )

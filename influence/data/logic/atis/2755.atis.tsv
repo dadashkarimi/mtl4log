@@ -1,0 +1,1 @@
+give me all the flights from miami to chicago on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 miami:_ci ) ( _to $0 chicago:_ci ) ) )

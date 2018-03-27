@@ -1,0 +1,1 @@
+when does continental fly from philadelphia to denver on sundays	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 co:_al ) ( _from $1 philadelphia:_ci ) ( _to $1 denver:_ci ) ( _day $1 sunday:_da ) ( _= ( _departure_time $1 ) $0 ) ) ) )

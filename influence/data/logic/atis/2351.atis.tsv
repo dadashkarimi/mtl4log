@@ -1,0 +1,1 @@
+show me a list of flights from boston to dc arriving before 9am on july twenty second	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 900:_ti ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ( _month_arrival $0 july:_mn ) ( _day_number_arrival $0 22:_dn ) ) )

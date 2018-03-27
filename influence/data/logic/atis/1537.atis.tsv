@@ -1,0 +1,1 @@
+show me flights from milwaukee to orlando on thursday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 milwaukee:_ci ) ( _to $0 orlando:_ci ) ( _day $0 thursday:_da ) ) )

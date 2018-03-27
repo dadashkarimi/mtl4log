@@ -1,0 +1,1 @@
+what is the aircraft type with the greatest seating capacity	( _argmax $0 ( _aircraft $0 ) ( _capacity $0 ) )

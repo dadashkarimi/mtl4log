@@ -1,0 +1,1 @@
+please give me fares from denver to philadelphia	( _lambda $0 e ( _exists $1 ( _and ( _from $1 denver:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

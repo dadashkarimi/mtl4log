@@ -1,0 +1,1 @@
+show me all the flights from boston to denver that serve lunch	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 lunch:_me ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ) )

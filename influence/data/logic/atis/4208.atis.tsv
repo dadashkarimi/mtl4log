@@ -1,0 +1,1 @@
+what is the earliest flight between logan and bwi	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 bos:_ap ) ( _to $0 bwi:_ap ) ) ( _departure_time $0 ) )

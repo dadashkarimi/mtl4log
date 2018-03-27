@@ -1,0 +1,1 @@
+when does the weekly standup meeting begin	( call SW.listValue ( call SW.getProperty en.meeting.weekly_standup ( string start_time ) ) )

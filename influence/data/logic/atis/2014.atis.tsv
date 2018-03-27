@@ -1,0 +1,1 @@
+give me a list of the morning flights from atlanta to boston	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 atlanta:_ci ) ( _to $0 boston:_ci ) ) )

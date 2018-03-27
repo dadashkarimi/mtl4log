@@ -1,0 +1,1 @@
+is there ground transportation from san diego airport to the downtown area	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 san_diego:_ci ) ( _from_airport $0 san_diego:_ci ) ) )

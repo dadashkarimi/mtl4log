@@ -1,0 +1,1 @@
+show me all flights both direct and connecting to either san francisco or oakland from boston that arrive before 2pm	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1400:_ti ) ( _from $0 boston:_ci ) ( _to $0 san_francisco:_ci ) ( _or ( _nonstop $0 ) ( _connecting $0 ) ) ) )

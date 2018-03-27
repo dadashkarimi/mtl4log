@@ -1,0 +1,1 @@
+show me the flights from newark new jersey to ontario international next saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 newark:_ci ) ( _to $0 ont:_ap ) ( _day $0 saturday:_da ) ) )

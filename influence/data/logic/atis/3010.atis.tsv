@@ -1,0 +1,1 @@
+is there a limousine service available from the pittsburgh airport	( _lambda $0 e ( _and ( _limousine $0 ) ( _from_airport $0 pit:_ap ) ) )

@@ -1,0 +1,1 @@
+what united airlines first class airfare flights are available from denver to baltimore on july three	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 3:_dn ) ( _month $0 july:_mn ) ) )

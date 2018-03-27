@@ -1,0 +1,1 @@
+what flights are there from indianapolis to orlando	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 indianapolis:_ci ) ( _to $0 orlando:_ci ) ) )

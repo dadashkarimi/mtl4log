@@ -1,0 +1,1 @@
+show me meetings that end before the weekly standup starts	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string end_time ) ) ( string >= ) ( call SW.ensureNumericEntity ( call SW.getProperty en.meeting.weekly_standup ( string start_time ) ) ) ) )

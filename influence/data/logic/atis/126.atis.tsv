@@ -1,0 +1,1 @@
+i would like to originate my flight in washington dc stop in denver with the destination city of san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 san_francisco:_ci ) ( _stop $0 denver:_ci ) ) )

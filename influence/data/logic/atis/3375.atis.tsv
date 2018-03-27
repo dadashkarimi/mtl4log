@@ -1,0 +1,1 @@
+philadelphia to san francisco with one stop in dallas please	( _lambda $0 e ( _and ( _from $0 philadelphia:_ci ) ( _to $0 san_francisco:_ci ) ( _stop $0 dallas:_ci ) ) )

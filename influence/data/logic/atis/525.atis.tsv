@@ -1,0 +1,1 @@
+i would like to know some information on flights leaving philadelphia arriving in pittsburgh in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 afternoon:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 pittsburgh:_ci ) ) )

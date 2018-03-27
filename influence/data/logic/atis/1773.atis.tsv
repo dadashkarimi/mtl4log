@@ -1,0 +1,1 @@
+i'd like a flight tomorrow from san diego to toronto	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_diego:_ci ) ( _to $0 toronto:_ci ) ( _tomorrow $0 ) ) )

@@ -1,0 +1,1 @@
+show me the flights from salt lake city to milwaukee	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 milwaukee:_ci ) ) )

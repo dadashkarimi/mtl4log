@@ -1,0 +1,1 @@
+could you show me all weekday flights from phoenix to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 phoenix:_ci ) ( _to $0 denver:_ci ) ( _weekday $0 ) ) )

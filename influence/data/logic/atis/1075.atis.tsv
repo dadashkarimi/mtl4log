@@ -1,0 +1,1 @@
+show me the flights from pittsburgh to san francisco for thursday night or friday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _or ( _and ( _day $0 thursday:_da ) ( _during_day $0 late:_pd ) ) ( _day $0 friday:_da ) ) ) )

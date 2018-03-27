@@ -1,0 +1,1 @@
+i would like your rates between atlanta and boston on september third	( _lambda $0 e ( _exists $1 ( _and ( _from $1 atlanta:_ci ) ( _to $1 boston:_ci ) ( _day_number $1 3:_dn ) ( _month $1 september:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

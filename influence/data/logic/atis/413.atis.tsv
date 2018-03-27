@@ -1,0 +1,1 @@
+what are the cities served by delta airlines	( _lambda $0 e ( _and ( _city $0 ) ( _services dl:_al $0 ) ) )

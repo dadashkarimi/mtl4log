@@ -1,0 +1,1 @@
+show me all flights to dallas that are less than 1500 dollars round trip	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 dallas:_ci ) ( _< ( _fare $0 ) 1500:_do ) ( _round_trip $0 ) ) )

@@ -1,0 +1,1 @@
+show me all flights from san diego to new york using dc10	( _lambda $0 e ( _and ( _flight $0 ) ( _aircraft_code $0 dc10:_ac ) ( _from $0 san_diego:_ci ) ( _to $0 new_york:_ci ) ) )

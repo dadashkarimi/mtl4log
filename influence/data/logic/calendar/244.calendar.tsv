@@ -1,0 +1,1 @@
+show me all meetings happening after the weekly standup	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string date ) ) ( string > ) ( call SW.ensureNumericEntity ( call SW.getProperty en.meeting.weekly_standup ( string date ) ) ) ) )

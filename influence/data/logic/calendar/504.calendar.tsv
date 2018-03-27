@@ -1,0 +1,1 @@
+meetings that are three hours or less or one hour or less	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string length ) ) ( string <= ) ( call SW.ensureNumericEntity ( call SW.concat ( number 3 en.hour ) ( number 1 en.hour ) ) ) ) )

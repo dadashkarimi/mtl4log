@@ -1,0 +1,1 @@
+list departure times from denver to philadelphia which are later than 10 o'clock and earlier than 2pm	( _lambda $0 e ( _exists $1 ( _and ( _> ( _departure_time $1 ) 1000:_ti ) ( _< ( _departure_time $1 ) 1400:_ti ) ( _from $1 denver:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

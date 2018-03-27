@@ -1,0 +1,1 @@
+list flights leaving denver and arriving in orlando on saturday departing after 12pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 denver:_ci ) ( _to $0 orlando:_ci ) ( _day $0 saturday:_da ) ) )

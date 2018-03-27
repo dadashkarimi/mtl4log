@@ -1,0 +1,1 @@
+what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma	( _lambda $0 e ( _and ( _airline $0 ) ( _and ( _exists $1 ( _and ( _flight $1 ) ( _from $1 st_petersburg:_ci ) ( _to $1 milwaukee:_ci ) ( _airline $1 $0 ) ) ) ( _exists $1 ( _and ( _flight $1 ) ( _from $1 milwaukee:_ci ) ( _to $1 tacoma:_ci ) ( _airline $1 $0 ) ) ) ) ) )

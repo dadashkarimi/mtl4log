@@ -1,0 +1,1 @@
+please list the american airlines flights from philadelphia to dallas on tuesday october first	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ( _day $0 tuesday:_da ) ( _day_number $0 1:_dn ) ( _month $0 october:_mn ) ) )

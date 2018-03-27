@@ -1,0 +1,1 @@
+meeting ends after 10am	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string end_time ) ) ( string > ) ( call SW.ensureNumericEntity ( time 10 0 ) ) ) )

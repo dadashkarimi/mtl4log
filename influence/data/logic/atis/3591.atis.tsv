@@ -1,0 +1,1 @@
+please list all flights on northwest and united airlines that go to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _airline $0 ua:_al ) ( _airline $0 nw:_al ) ) ( _to $0 denver:_ci ) ) )

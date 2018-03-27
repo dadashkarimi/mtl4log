@@ -1,0 +1,1 @@
+what article was written by efron and discusses annals of statistics	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string author ) ( string = ) en.person.efron ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) )

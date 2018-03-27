@@ -1,0 +1,1 @@
+list united flights from denver to san francisco on tuesdays or wednesdays	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _from $0 denver:_ci ) ( _to $0 san_francisco:_ci ) ( _or ( _day $0 tuesday:_da ) ( _day $0 wednesday:_da ) ) ) )

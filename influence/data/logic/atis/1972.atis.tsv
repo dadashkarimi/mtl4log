@@ -1,0 +1,1 @@
+is there ground transportation from the pittsburgh airport to downtown pittsburgh	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 pittsburgh:_ci ) ( _from_airport $0 pit:_ap ) ) )

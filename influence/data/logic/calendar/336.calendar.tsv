@@ -1,0 +1,1 @@
+where are the meetings ending at 10am going to be held	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.location ) ( string ! type ) ) ( call SW.reverse ( string location ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string end_time ) ( string = ) ( time 10 0 ) ) ) )

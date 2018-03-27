@@ -1,0 +1,1 @@
+how many nonstop flights going from dallas to oakland july twenty seventh	( _count $0 ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 dallas:_ci ) ( _to $0 oakland:_ci ) ( _day_number $0 27:_dn ) ( _month $0 july:_mn ) ) )

@@ -1,0 +1,1 @@
+can you tell me which flights go from memphis to tacoma and make a stop in los angeles	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 memphis:_ci ) ( _to $0 tacoma:_ci ) ( _stop $0 los_angeles:_ci ) ) )

@@ -1,0 +1,1 @@
+what is the cheapest flight on american airlines from cleveland to miami	( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 cleveland:_ci ) ( _to $0 miami:_ci ) ) ( _fare $0 ) )

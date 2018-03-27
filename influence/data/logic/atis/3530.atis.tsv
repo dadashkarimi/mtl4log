@@ -1,0 +1,1 @@
+list evening flights tomorrow from phoenix to detroit	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 phoenix:_ci ) ( _to $0 detroit:_ci ) ( _tomorrow $0 ) ) )

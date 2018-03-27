@@ -1,0 +1,1 @@
+i'd like to have some information on a ticket from denver to atlanta with a stop in pittsburgh	( _lambda $0 e ( _and ( _from $0 denver:_ci ) ( _to $0 atlanta:_ci ) ( _stop $0 pittsburgh:_ci ) ) )

@@ -1,0 +1,1 @@
+what are the flights from san jose to nashville on thursday the twentieth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_jose:_ci ) ( _to $0 nashville:_ci ) ( _day $0 thursday:_da ) ( _day_number $0 20:_dn ) ) )

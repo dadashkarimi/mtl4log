@@ -1,0 +1,1 @@
+article with publication date as 2004 or 2010	( call SW.listValue ( call SW.concat ( date 2004 -1 -1 ) ( date 2010 -1 -1 ) ) )

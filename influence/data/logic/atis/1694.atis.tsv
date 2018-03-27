@@ -1,0 +1,1 @@
+show me the flights before 8am on august second from boston to denver on delta	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _< ( _departure_time $0 ) 800:_ti ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 2:_dn ) ( _month $0 august:_mn ) ) )

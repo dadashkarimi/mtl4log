@@ -1,0 +1,1 @@
+show me all flights from milwaukee to orlando	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 orlando:_ci ) ) )

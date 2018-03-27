@@ -1,0 +1,1 @@
+what is the fare from boston to oakland on united airlines	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 ua:_al ) ( _from $1 boston:_ci ) ( _to $1 oakland:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

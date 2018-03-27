@@ -1,0 +1,1 @@
+all right do you have a flight from washington to boston that stops in philadelphia	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 boston:_ci ) ( _stop $0 philadelphia:_ci ) ) )

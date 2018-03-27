@@ -1,0 +1,1 @@
+people attending meetings that alice attends	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.person ) ( string ! type ) ) ( call SW.reverse ( string attendee ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string = ) en.person.alice ) ) )

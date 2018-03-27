@@ -1,0 +1,1 @@
+does twa have a flight from indianapolis to houston arriving at 11am	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 tw:_al ) ( _arrival_time $0 1100:_ti ) ( _from $0 indianapolis:_ci ) ( _to $0 houston:_ci ) ) )

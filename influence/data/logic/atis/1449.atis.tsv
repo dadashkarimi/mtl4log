@@ -1,0 +1,1 @@
+okay could you get me a round trip ticket from indianapolis to kansas city	( _lambda $0 e ( _and ( _round_trip $0 ) ( _from $0 indianapolis:_ci ) ( _to $0 kansas_city:_ci ) ) )

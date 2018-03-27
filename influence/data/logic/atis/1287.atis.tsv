@@ -1,0 +1,1 @@
+okay give me the flights that leave denver after 7pm next monday arriving in boston	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1900:_ti ) ( _from $0 denver:_ci ) ( _to $0 boston:_ci ) ( _day $0 monday:_da ) ) )

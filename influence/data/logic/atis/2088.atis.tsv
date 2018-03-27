@@ -1,0 +1,1 @@
+what airport in new york is closest to downtown	( _argmin $0 ( _and ( _airport $0 ) ( _loc:_t $0 new_york:_ci ) ) ( _miles_distant $0 new_york:_ci ) )

@@ -1,0 +1,1 @@
+what's the earliest flight from boston to philadelphia	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 philadelphia:_ci ) ) ( _departure_time $0 ) )

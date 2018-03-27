@@ -1,0 +1,1 @@
+show me all flights direct only from boston to san francisco or oakland that arrive before 10am local time	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _< ( _arrival_time $0 ) 1000:_ti ) ( _or ( _to $0 san_francisco:_ci ) ( _to $0 oakland:_ci ) ) ( _from $0 boston:_ci ) ) )

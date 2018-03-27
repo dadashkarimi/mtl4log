@@ -1,0 +1,1 @@
+show me all meetings not ending at 10 am	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string end_time ) ( string ! = ) ( time 10 0 ) ) )

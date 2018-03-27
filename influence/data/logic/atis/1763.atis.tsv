@@ -1,0 +1,1 @@
+nonstop flights from seattle to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 seattle:_ci ) ( _to $0 denver:_ci ) ) )

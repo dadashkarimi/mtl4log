@@ -1,0 +1,1 @@
+show me flights from tampa to st. louis	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 tampa:_ci ) ( _to $0 st_louis:_ci ) ) )

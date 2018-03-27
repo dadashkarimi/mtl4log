@@ -1,0 +1,1 @@
+show me all the flights between dallas fort worth and either san francisco or oakland that depart between 5 and 7pm	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_departure_time $0 1730:_ti ) ( _from $0 dallas:_ci ) ( _or ( _to $0 san_francisco:_ci ) ( _to $0 oakland:_ci ) ) ) )

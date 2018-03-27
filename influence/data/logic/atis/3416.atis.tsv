@@ -1,0 +1,1 @@
+what is the earliest flight departing san francisco and arriving in oakland on november eighth	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 oakland:_ci ) ( _day_number $0 8:_dn ) ( _month $0 november:_mn ) ) ( _departure_time $0 ) )

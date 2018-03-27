@@ -1,0 +1,1 @@
+what is the most expensive one way fare from boston to atlanta on american airlines	( _max $0 ( _exists $1 ( _and ( _oneway $1 ) ( _airline $1 aa:_al ) ( _from $1 boston:_ci ) ( _to $1 atlanta:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+how much will it cost taking coach from orlando to indianapolis on december twenty ninth flying us air 311	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 us:_al ) ( _class_type $1 coach:_cl ) ( _flight_number $1 311:_fn ) ( _from $1 orlando:_ci ) ( _to $1 indianapolis:_ci ) ( _day_number $1 29:_dn ) ( _month $1 december:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

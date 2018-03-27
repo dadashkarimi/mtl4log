@@ -1,0 +1,1 @@
+i would like to book a flight going from tampa to seattle on may twenty sixth i would like to stop in milwaukee on the way	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 tampa:_ci ) ( _to $0 seattle:_ci ) ( _stop $0 milwaukee:_ci ) ( _day_number $0 26:_dn ) ( _month $0 may:_mn ) ) )

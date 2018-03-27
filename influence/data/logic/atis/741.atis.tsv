@@ -1,0 +1,1 @@
+what does ground transportation look like in oakland	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 oakland:_ci ) ) )

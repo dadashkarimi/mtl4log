@@ -1,0 +1,1 @@
+show me flights from minneapolis to seattle on july second	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 minneapolis:_ci ) ( _to $0 seattle:_ci ) ( _day_number $0 2:_dn ) ( _month $0 july:_mn ) ) )

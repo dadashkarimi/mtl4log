@@ -1,0 +1,1 @@
+list nonstop flights from burbank to denver arriving by 6pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _< ( _arrival_time $0 ) 1800:_ti ) ( _from $0 burbank:_ci ) ( _to $0 denver:_ci ) ) )

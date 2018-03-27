@@ -1,0 +1,1 @@
+is there a flight around 3pm from charlotte to minneapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_departure_time $0 1500:_ti ) ( _from $0 charlotte:_ci ) ( _to $0 minneapolis:_ci ) ) )

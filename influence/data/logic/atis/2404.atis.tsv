@@ -1,0 +1,1 @@
+flights from jfk or la guardia to cleveland	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 jfk:_ap ) ( _from $0 lga:_ap ) ) ( _to $0 cleveland:_ci ) ) )

@@ -1,0 +1,1 @@
+show me flights from washington dc to san francisco with a stopover in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 san_francisco:_ci ) ( _stop $0 denver:_ci ) ) )

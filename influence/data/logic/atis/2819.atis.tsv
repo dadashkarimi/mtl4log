@@ -1,0 +1,1 @@
+i would like to book a flight from denver to pittsburgh on july fifteenth i'd like it to be the cheapest flight	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 15:_dn ) ( _month $0 july:_mn ) ) ( _fare $0 ) )

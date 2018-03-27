@@ -1,0 +1,1 @@
+list the flights from dallas to san francisco on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) )

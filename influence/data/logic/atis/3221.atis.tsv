@@ -1,0 +1,1 @@
+is breakfast served on flight ua 343 from boston to denver coach class	( _lambda $0 e ( _and ( _equals $0 breakfast:_me ) ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ua:_al ) ( _flight_number $1 343:_fn ) ( _from $1 boston:_ci ) ( _to $1 denver:_ci ) ( _= ( _meal $1 ) $0 ) ) ) ) )

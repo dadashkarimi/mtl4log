@@ -1,0 +1,1 @@
+list all flights on continental leaving denver and arriving at chicago on monday before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _from $0 denver:_ci ) ( _to $0 chicago:_ci ) ( _day_arrival $0 monday:_da ) ) )

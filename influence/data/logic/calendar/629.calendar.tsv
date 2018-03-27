@@ -1,0 +1,1 @@
+show me all meetings the same length of the weekly standup	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string length ) ( string = ) ( call SW.getProperty en.meeting.weekly_standup ( string length ) ) ) )

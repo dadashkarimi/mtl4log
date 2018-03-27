@@ -1,0 +1,1 @@
+what are the classes of service for american airlines	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 aa:_al ) ( _= ( _booking_class $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+show me the flights from dallas to baltimore with a fare of 415 dollars	( _lambda $0 e ( _and ( _flight $0 ) ( _fare $0 415:_do ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ) )

@@ -1,0 +1,1 @@
+what are the morning flights from nashville to tacoma and from nashville to san jose in the next two days	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _or ( _and ( _from $0 nashville:_ci ) ( _to $0 tacoma:_ci ) ) ( _and ( _from $0 nashville:_ci ) ( _to $0 san_jose:_ci ) ) ) ( _next_days $0 2:_i ) ) )

@@ -1,0 +1,1 @@
+what is the earliest flight leaving denver and arriving in baltimore on united airlines first class on july fourth	( _departure_time ( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 4:_dn ) ( _month $0 july:_mn ) ) ( _departure_time $0 ) ) )

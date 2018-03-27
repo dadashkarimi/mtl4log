@@ -1,0 +1,1 @@
+show me all meetings in greenber cafe that will run three hours	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string length ) ( string = ) ( number 3 en.hour ) ) ( string location ) ( string = ) en.location.greenberg_cafe ) )

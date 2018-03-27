@@ -1,0 +1,1 @@
+in denver what kind of ground transportation is there from the airport to downtown	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 denver:_ci ) ( _from_airport $0 den:_ap ) ) )

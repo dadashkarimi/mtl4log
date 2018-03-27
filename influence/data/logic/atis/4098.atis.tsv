@@ -1,0 +1,1 @@
+please give me all the flights from long beach california to memphis tennessee	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 long_beach:_ci ) ( _to $0 memphis:_ci ) ) )

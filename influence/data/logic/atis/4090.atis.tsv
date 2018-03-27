@@ -1,0 +1,1 @@
+all flights and fares from dallas	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _= ( _fare $0 ) $1 ) ) ) )

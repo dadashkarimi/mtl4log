@@ -1,0 +1,1 @@
+i would like to find flights from minneapolis to long beach after 4 o'clock on monday june fourteenth please	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1600:_ti ) ( _from $0 minneapolis:_ci ) ( _to $0 long_beach:_ci ) ( _day $0 monday:_da ) ( _day_number $0 14:_dn ) ( _month $0 june:_mn ) ) )

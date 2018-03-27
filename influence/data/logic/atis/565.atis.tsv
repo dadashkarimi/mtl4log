@@ -1,0 +1,1 @@
+what kind of aircraft is used on the first class american airlines flight from philadelphia to san francisco with a dallas stopover	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 aa:_al ) ( _class_type $1 first:_cl ) ( _from $1 philadelphia:_ci ) ( _to $1 san_francisco:_ci ) ( _stop $1 dallas:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+show me all meetings that alice is not attending	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string ! = ) en.person.alice ) )

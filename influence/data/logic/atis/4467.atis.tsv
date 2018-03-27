@@ -1,0 +1,1 @@
+let's see how much would a direct flight from atlanta to denver be on may seventh	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _nonstop $1 ) ( _from $1 atlanta:_ci ) ( _to $1 denver:_ci ) ( _day_number $1 7:_dn ) ( _month $1 may:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

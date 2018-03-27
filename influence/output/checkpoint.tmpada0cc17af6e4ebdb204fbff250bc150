@@ -1,0 +1,2 @@
+model_checkpoint_path: "spam_logreg-checkpoint-0"
+all_model_checkpoint_paths: "spam_logreg-checkpoint-0"

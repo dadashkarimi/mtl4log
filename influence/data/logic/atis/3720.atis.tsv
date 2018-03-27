@@ -1,0 +1,1 @@
+please list all flights on united airlines out of denver before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _< ( _departure_time $0 ) 1200:_ti ) ( _from $0 denver:_ci ) ) )

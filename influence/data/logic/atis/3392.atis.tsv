@@ -1,0 +1,1 @@
+what are the most expensive first class tickets between boston and san francisco	( _argmax $0 ( _and ( _class_type $0 first:_cl ) ( _from $0 boston:_ci ) ( _to $0 san_francisco:_ci ) ) ( _fare $0 ) )

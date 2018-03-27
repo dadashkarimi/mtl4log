@@ -1,0 +1,1 @@
+i need a flight from charlotte to newark leaving today evening	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 charlotte:_ci ) ( _to $0 newark:_ci ) ( _today $0 ) ) )

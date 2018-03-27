@@ -1,0 +1,1 @@
+what's the next smallest plane after a turboprop	( _argmin $0 ( _and ( _aircraft $0 ) ( _> ( _capacity $0 ) ( _capacity ( _the $1 ( _and ( _aircraft $1 ) ( _turboprop $1 ) ) ) ) ) ) ( _capacity $0 ) )

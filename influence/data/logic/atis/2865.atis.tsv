@@ -1,0 +1,1 @@
+show me the cheapest one way flights from pittsburgh to dallas leaving pittsburgh between noon and 2pm	( _argmin $0 ( _and ( _flight $0 ) ( _oneway $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _departure_time $0 ) 1400:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 dallas:_ci ) ) ( _fare $0 ) )

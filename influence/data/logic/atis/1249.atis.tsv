@@ -1,0 +1,1 @@
+what's the latest flight out of denver that arrives in pittsburgh next monday	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ) ( _departure_time $0 ) )

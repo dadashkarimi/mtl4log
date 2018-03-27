@@ -1,0 +1,1 @@
+how many flights does continental airlines have with a class of service code f	( _count $0 ( _and ( _flight $0 ) ( _fare_basis_code $0 f:_fb ) ( _airline $0 co:_al ) ) )

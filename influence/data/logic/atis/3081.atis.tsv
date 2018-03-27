@@ -1,0 +1,1 @@
+is there a flight departing from san francisco and arriving in oakland on november seventh in the evening	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 san_francisco:_ci ) ( _to $0 oakland:_ci ) ( _day_number $0 7:_dn ) ( _month $0 november:_mn ) ) )

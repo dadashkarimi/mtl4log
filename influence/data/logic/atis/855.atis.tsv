@@ -1,0 +1,1 @@
+show me round trip first class tickets from new york to miami	( _lambda $0 e ( _and ( _to $0 miami:_ci ) ( _from $0 new_york:_ci ) ( _round_trip $0 ) ( _class_type $0 first:_cl ) ) )

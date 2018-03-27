@@ -1,0 +1,1 @@
+places that house at least one meeting	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.location ) ( string ! type ) ) ( string min ) ( call SW.reverse ( string location ) ) ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ) )

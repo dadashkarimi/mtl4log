@@ -1,0 +1,1 @@
+on july twenty third an early flight on american from philadelphia to san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _during_day $0 early:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 san_francisco:_ci ) ( _day_number $0 23:_dn ) ( _month $0 july:_mn ) ) )

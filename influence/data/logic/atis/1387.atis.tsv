@@ -1,0 +1,1 @@
+how far is it from salt lake city airport to salt lake city	( _lambda $0 e ( _and ( _miles_distant $0 ) ( _to_city $0 salt_lake_city:_ci ) ( _from_airport $0 slc:_ap ) ) )

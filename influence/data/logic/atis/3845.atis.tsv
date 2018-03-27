@@ -1,0 +1,1 @@
+what flights do you have available from denver dallas and pittsburgh into baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 denver:_ci ) ( _from $0 dallas:_ci ) ( _from $0 pittsburgh:_ci ) ) ( _to $0 baltimore:_ci ) ) )

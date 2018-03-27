@@ -1,0 +1,1 @@
+display all the flights from baltimore to dallas which leave after 4pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1600:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 dallas:_ci ) ) )

@@ -1,0 +1,1 @@
+i'd like to fly from cleveland to indianapolis tomorrow morning as early as possible what's available	( _argmin $0 ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 cleveland:_ci ) ( _to $0 indianapolis:_ci ) ( _tomorrow $0 ) ) ( _departure_time $0 ) )

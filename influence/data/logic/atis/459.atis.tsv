@@ -1,0 +1,1 @@
+please list the cheapest flights from dallas to baltimore arriving on may seventh	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _month_arrival $0 may:_mn ) ( _day_number_arrival $0 7:_dn ) ) ( _fare $0 ) )

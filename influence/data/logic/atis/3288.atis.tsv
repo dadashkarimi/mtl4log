@@ -1,0 +1,1 @@
+show me flights first class from san francisco to pittsburgh leaving on tuesday after 8 o'clock in the morning and before 12 noon	( _lambda $0 e ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _> ( _departure_time $0 ) 800:_ti ) ( _< ( _departure_time $0 ) 1200:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 tuesday:_da ) ) )

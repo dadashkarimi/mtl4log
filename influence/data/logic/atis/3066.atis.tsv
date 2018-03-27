@@ -1,0 +1,1 @@
+what's the cost of a first class fare from philadelphia to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _exists $2 ( _and ( _= ( _fare $2 ) $1 ) ( _from $2 philadelphia:_ci ) ( _to $2 san_francisco:_ci ) ( _class_type $2 first:_cl ) ) ) ( _= ( _fare $1 ) $0 ) ) ) )

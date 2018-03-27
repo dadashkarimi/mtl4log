@@ -1,0 +1,1 @@
+what flights do you have from newark new jersey to ontario california that connect in phoenix	( _lambda $0 e ( _and ( _stop $0 phoenix:_ci ) ( _flight $0 ) ( _to $0 ontario:_ci ) ( _from $0 newark:_ci ) ) )

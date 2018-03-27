@@ -1,0 +1,1 @@
+what are the flights from cleveland to indianapolis for wednesday the twelfth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 indianapolis:_ci ) ( _day $0 wednesday:_da ) ( _day_number $0 12:_dn ) ) )

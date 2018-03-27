@@ -1,0 +1,1 @@
+what flights are available from boston to washington late monday evening or early tuesday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _and ( _during_day $0 late_evening:_pd ) ( _day $0 monday:_da ) ) ( _and ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _day $0 tuesday:_da ) ) ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ) )

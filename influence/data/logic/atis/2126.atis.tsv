@@ -1,0 +1,1 @@
+show me the flights that leave on thursday mornings from atlanta to washington and include whether meals are offered and what the prices are	( _lambda $0 e ( _lambda $1 e ( _lambda $2 e ( _and ( _flight $1 ) ( _during_day $1 morning:_pd ) ( _from $1 atlanta:_ci ) ( _to $1 washington:_ci ) ( _day $1 thursday:_da ) ( _= ( _meal $1 ) $2 ) ( _= ( _fare $1 ) $0 ) ) ) ) )

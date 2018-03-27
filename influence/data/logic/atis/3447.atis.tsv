@@ -1,0 +1,1 @@
+what are the evening flights flying out of dallas and going to san francisco on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _during_day $0 evening:_pd ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) )

@@ -1,0 +1,1 @@
+what are the flights from orlando to cleveland on us air that arrive around 10pm	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _approx_arrival_time $0 2200:_ti ) ( _from $0 orlando:_ci ) ( _to $0 cleveland:_ci ) ) )

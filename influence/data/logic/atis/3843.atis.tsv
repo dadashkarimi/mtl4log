@@ -1,0 +1,1 @@
+how do i get from the airport to downtown in tacoma	( _lambda $0 e ( _and ( _to_city $0 tacoma:_ci ) ( _from_airport $0 tacoma:_ci ) ) )

@@ -1,0 +1,1 @@
+show flights from cleveland to miami that arrive before 4pm	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1600:_ti ) ( _from $0 cleveland:_ci ) ( _to $0 miami:_ci ) ) )

@@ -1,0 +1,1 @@
+i would like to fly to denver for under 500 dollars please show me the airfares between pittsburgh and denver	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _< ( _fare $1 ) 500:_do ) ( _from $1 pittsburgh:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

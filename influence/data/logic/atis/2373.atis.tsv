@@ -1,0 +1,1 @@
+flight numbers from columbus to minneapolis tomorrow	( _lambda $0 e ( _exists $1 ( _and ( _from $1 columbus:_ci ) ( _to $1 minneapolis:_ci ) ( _tomorrow $1 ) ( _= ( _flight_number $1 ) $0 ) ) ) )

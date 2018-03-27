@@ -1,0 +1,1 @@
+are there any flights from milwaukee to tacoma on friday june eleventh	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 tacoma:_ci ) ( _day $0 friday:_da ) ( _day_number $0 11:_dn ) ( _month $0 june:_mn ) ) )

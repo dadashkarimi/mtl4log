@@ -1,0 +1,1 @@
+what are the air restrictions on flights from pittsburgh to atlanta for the airfare of 416 dollars	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _fare $1 416:_do ) ( _from $1 pittsburgh:_ci ) ( _to $1 atlanta:_ci ) ( _= ( _restriction_code $1 ) $0 ) ) ) )

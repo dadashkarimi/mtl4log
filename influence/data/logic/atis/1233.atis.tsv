@@ -1,0 +1,1 @@
+tell me about ground transportation at salt lake city	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 salt_lake_city:_ci ) ) )

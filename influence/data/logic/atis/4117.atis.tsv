@@ -1,0 +1,1 @@
+i would like to leave around 7 o'clock in the morning	( _lambda $0 e ( _and ( _approx_departure_time $0 700:_ti ) ) )

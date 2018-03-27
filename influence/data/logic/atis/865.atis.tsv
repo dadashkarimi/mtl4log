@@ -1,0 +1,1 @@
+what are the afternoon flights from atlanta to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ) )

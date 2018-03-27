@@ -1,0 +1,1 @@
+list the earliest flight from st. paul to san jose	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 st_paul:_ci ) ( _to $0 san_jose:_ci ) ) ( _departure_time $0 ) )

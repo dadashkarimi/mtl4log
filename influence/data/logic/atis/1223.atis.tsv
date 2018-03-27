@@ -1,0 +1,1 @@
+what stops does dl 838 make from san francisco to atlanta	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _flight_number $1 838:_fn ) ( _from $1 san_francisco:_ci ) ( _to $1 atlanta:_ci ) ( _stop $1 $0 ) ) ) )

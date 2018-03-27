@@ -1,0 +1,1 @@
+what are all the flights on delta in and out of fort worth	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _or ( _from $0 fort_worth:_ci ) ( _to $0 fort_worth:_ci ) ) ) )

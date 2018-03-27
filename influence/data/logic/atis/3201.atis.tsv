@@ -1,0 +1,1 @@
+i need a flight from baltimore to seattle that stops in minneapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 seattle:_ci ) ( _stop $0 minneapolis:_ci ) ) )

@@ -1,0 +1,1 @@
+how many of delta's night flights are first class	( _count $0 ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _class_type $0 first:_cl ) ( _during_day $0 late:_pd ) ) )

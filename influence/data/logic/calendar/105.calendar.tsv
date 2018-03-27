@@ -1,0 +1,1 @@
+what is the location that more than two meetings will be held at	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.location ) ( string ! type ) ) ( call SW.reverse ( string location ) ) ( string > ) ( number 2 ) ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ) )

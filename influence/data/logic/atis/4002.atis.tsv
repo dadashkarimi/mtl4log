@@ -1,0 +1,1 @@
+i want a flight between oakland and boston that arrives before 5pm	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1700:_ti ) ( _from $0 oakland:_ci ) ( _to $0 boston:_ci ) ) )

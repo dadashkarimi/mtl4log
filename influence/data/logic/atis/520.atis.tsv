@@ -1,0 +1,1 @@
+what ground transportation is available at the boston airport	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _from_airport $0 bos:_ap ) ) )

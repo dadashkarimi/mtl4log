@@ -1,0 +1,1 @@
+give me a list of flights between pittsburgh and baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 baltimore:_ci ) ) )

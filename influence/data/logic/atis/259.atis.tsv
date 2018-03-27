@@ -1,0 +1,1 @@
+i want to arrive in detroit around 6pm and i'm leaving from chicago	( _lambda $0 e ( _and ( _approx_arrival_time $0 1800:_ti ) ( _from $0 chicago:_ci ) ( _to $0 detroit:_ci ) ) )

@@ -1,0 +1,1 @@
+meetings attended by two or more people	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string >= ) ( number 2 ) ) )

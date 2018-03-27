@@ -1,0 +1,1 @@
+i'm looking for flights from oakland to atlanta leaving before 1045am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1045:_ti ) ( _from $0 oakland:_ci ) ( _to $0 atlanta:_ci ) ) )

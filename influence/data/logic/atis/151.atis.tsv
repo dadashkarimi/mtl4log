@@ -1,0 +1,1 @@
+what evening flights do you have available from baltimore to philadelphia	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 baltimore:_ci ) ( _to $0 philadelphia:_ci ) ) )

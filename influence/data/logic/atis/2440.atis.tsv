@@ -1,0 +1,1 @@
+i want to depart washington april twentieth to atlanta least expensive fare	( _argmin $0 ( _and ( _from $0 washington:_ci ) ( _to $0 atlanta:_ci ) ( _day_number $0 20:_dn ) ( _month $0 april:_mn ) ) ( _fare $0 ) )

@@ -1,0 +1,1 @@
+show me all flights from ontario to tacoma one way	( _lambda $0 e ( _and ( _flight $0 ) ( _oneway $0 ) ( _from $0 ontario:_ci ) ( _to $0 tacoma:_ci ) ) )

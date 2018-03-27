@@ -1,0 +1,1 @@
+american flights to houston from cincinnati	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 cincinnati:_ci ) ( _to $0 houston:_ci ) ) )

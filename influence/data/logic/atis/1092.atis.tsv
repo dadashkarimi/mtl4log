@@ -1,0 +1,1 @@
+give me the cheapest round trip flight from dallas to baltimore	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _round_trip $0 ) ) ( _fare $0 ) )

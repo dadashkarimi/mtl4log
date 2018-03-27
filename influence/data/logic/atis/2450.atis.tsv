@@ -1,0 +1,1 @@
+are there any flights from new york to los angeles which stop over in milwaukee	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 new_york:_ci ) ( _to $0 los_angeles:_ci ) ( _stop $0 milwaukee:_ci ) ) )

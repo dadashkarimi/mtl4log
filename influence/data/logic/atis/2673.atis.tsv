@@ -1,0 +1,1 @@
+show me all the flights from denver to baltimore arriving may tenth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _month_arrival $0 may:_mn ) ( _day_number_arrival $0 10:_dn ) ) )

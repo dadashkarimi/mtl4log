@@ -1,0 +1,1 @@
+american flights from chicago to los angeles morning	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _during_day $0 morning:_pd ) ( _from $0 chicago:_ci ) ( _to $0 los_angeles:_ci ) ) )

@@ -1,0 +1,1 @@
+what flights from st. louis to st. paul on thursday leaving after 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1000:_ti ) ( _from $0 st_louis:_ci ) ( _to $0 st_paul:_ci ) ( _day $0 thursday:_da ) ) )

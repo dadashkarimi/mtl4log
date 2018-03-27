@@ -1,0 +1,1 @@
+how many booking classes are there	( _count $0 ( _booking_class:_t $0 ) )

@@ -1,0 +1,1 @@
+list all the flights from charlotte to atlanta that return around 7pm	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_return_time $0 1900:_ti ) ( _from $0 charlotte:_ci ) ( _to $0 atlanta:_ci ) ) )

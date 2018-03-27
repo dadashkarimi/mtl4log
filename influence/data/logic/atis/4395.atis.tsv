@@ -1,0 +1,1 @@
+what is the smallest aircraft that flies from pittsburgh to baltimore arriving may seventh	( _aircraft ( _argmin $0 ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 baltimore:_ci ) ( _month_arrival $0 may:_mn ) ( _day_number_arrival $0 7:_dn ) ) ( _capacity $0 ) ) )

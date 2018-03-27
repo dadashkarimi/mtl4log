@@ -1,0 +1,1 @@
+all flights to baltimore after 6pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1800:_ti ) ( _to $0 baltimore:_ci ) ) )

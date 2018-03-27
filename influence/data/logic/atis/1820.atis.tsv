@@ -1,0 +1,1 @@
+show me flights to san francisco arriving before 1	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 100:_ti ) ( _to $0 san_francisco:_ci ) ) )

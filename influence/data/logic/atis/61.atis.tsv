@@ -1,0 +1,1 @@
+latest flight from houston to san jose	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 houston:_ci ) ( _to $0 san_jose:_ci ) ) ( _departure_time $0 ) )

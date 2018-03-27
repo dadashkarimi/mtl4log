@@ -1,0 +1,1 @@
+is bwi washington	( _equals bwi:_ap ( _the $0 ( _airport washington:_ci $0 ) ) )

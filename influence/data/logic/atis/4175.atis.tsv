@@ -1,0 +1,1 @@
+what is the earliest flight from denver to san francisco on the morning of august twenty seventh	( _argmin $0 ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 denver:_ci ) ( _to $0 san_francisco:_ci ) ( _day_number $0 27:_dn ) ( _month $0 august:_mn ) ) ( _departure_time $0 ) )

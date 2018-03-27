@@ -1,0 +1,1 @@
+are there any nonstop flights leaving from dallas to baltimore july seventh with who united airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _airline $0 ua:_al ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 7:_dn ) ( _month $0 july:_mn ) ) )

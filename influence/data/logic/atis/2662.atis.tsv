@@ -1,0 +1,1 @@
+show me all daily flights out of boston that have coach class	( _lambda $0 e ( _and ( _flight $0 ) ( _daily $0 ) ( _class_type $0 coach:_cl ) ( _from $0 boston:_ci ) ) )

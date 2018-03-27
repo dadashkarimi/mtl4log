@@ -1,0 +1,1 @@
+what location is the meeting that starts at 10am	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.location ) ( string ! type ) ) ( call SW.reverse ( string location ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string start_time ) ( string = ) ( time 10 0 ) ) ) )

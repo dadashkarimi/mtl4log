@@ -1,0 +1,1 @@
+hi i need to go from newark to nashville on american airlines leaving around 630pm	( _lambda $0 e ( _and ( _airline $0 aa:_al ) ( _approx_departure_time $0 1830:_ti ) ( _from $0 newark:_ci ) ( _to $0 nashville:_ci ) ) )

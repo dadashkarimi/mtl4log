@@ -1,0 +1,1 @@
+show all flights from pittsburgh to san francisco on july twenty eighth 1991	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _day_number $0 28:_dn ) ( _month $0 july:_mn ) ( _year $0 1991:_yr ) ) )

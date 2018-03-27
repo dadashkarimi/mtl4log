@@ -1,0 +1,1 @@
+what are the flights that leave detroit and arrive in chicago around 7pm next wednesday	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1900:_ti ) ( _from $0 detroit:_ci ) ( _to $0 chicago:_ci ) ( _day_arrival $0 wednesday:_da ) ) )

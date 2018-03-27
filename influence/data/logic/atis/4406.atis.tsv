@@ -1,0 +1,1 @@
+for each airline flying between boston and san francisco what is the earliest flight	( _lambda $0 e ( _lambda $1 e ( _and ( _airline $0 ) ( _equals $1 ( _argmin $2 ( _and ( _flight $2 ) ( _from $2 boston:_ci ) ( _to $2 san_francisco:_ci ) ( _airline $2 $0 ) ) ( _departure_time $2 ) ) ) ) ) )

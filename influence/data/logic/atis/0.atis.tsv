@@ -1,0 +1,1 @@
+list all the flights that arrive at general mitchell international from various cities	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 mke:_ap ) ( _exists $1 ( _and ( _city $1 ) ( _from $0 $1 ) ) ) ) )

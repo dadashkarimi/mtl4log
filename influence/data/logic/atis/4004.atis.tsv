@@ -1,0 +1,1 @@
+i would like a nonstop flight from new york to las vegas on march second	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 new_york:_ci ) ( _to $0 las_vegas:_ci ) ( _day_number $0 2:_dn ) ( _month $0 march:_mn ) ) )

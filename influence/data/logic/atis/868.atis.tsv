@@ -1,0 +1,1 @@
+i need a nonstop flight from atlanta to baltimore arriving between 5pm and 730pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _< ( _arrival_time $0 ) 1930:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ) )

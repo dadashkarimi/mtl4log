@@ -1,0 +1,1 @@
+show me the ground transportation in denver	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 denver:_ci ) ) )

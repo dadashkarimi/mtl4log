@@ -1,0 +1,1 @@
+show me flights from new york to miami on a tuesday with a round trip fare less than 466 dollars	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _fare $0 ) 466:_do ) ( _round_trip $0 ) ( _from $0 new_york:_ci ) ( _to $0 miami:_ci ) ( _day $0 tuesday:_da ) ) )

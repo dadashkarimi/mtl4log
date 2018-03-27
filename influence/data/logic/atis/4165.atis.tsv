@@ -1,0 +1,1 @@
+show me the earliest flight from san jose to pittsburgh that serves a snack	( _argmin $0 ( _and ( _flight $0 ) ( _meal $0 snack:_me ) ( _from $0 san_jose:_ci ) ( _to $0 pittsburgh:_ci ) ) ( _departure_time $0 ) )

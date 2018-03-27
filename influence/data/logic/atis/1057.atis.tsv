@@ -1,0 +1,1 @@
+i would like the fare on the us air 1039 from denver to pittsburgh on april twenty	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 us:_al ) ( _flight_number $1 1039:_fn ) ( _from $1 denver:_ci ) ( _to $1 pittsburgh:_ci ) ( _day_number $1 20:_dn ) ( _month $1 april:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

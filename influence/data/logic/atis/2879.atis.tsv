@@ -1,0 +1,1 @@
+what flights do you have from boston to pittsburgh on wednesday of next week after 6pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1800:_ti ) ( _from $0 boston:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 wednesday:_da ) ) )

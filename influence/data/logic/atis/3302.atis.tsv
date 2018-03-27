@@ -1,0 +1,1 @@
+information on american airlines from washington to fort worth	( _lambda $0 e ( _and ( _airline $0 aa:_al ) ( _from $0 washington:_ci ) ( _to $0 fort_worth:_ci ) ) )

@@ -1,0 +1,1 @@
+can i rent a car in san jose too	( _lambda $0 e ( _and ( _rental_car $0 ) ( _to_city $0 san_jose:_ci ) ) )

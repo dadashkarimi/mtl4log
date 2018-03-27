@@ -1,0 +1,1 @@
+what airline besides continental flies between boston and denver	( _lambda $0 e ( _and ( _not ( _equals:_t $0 co:_al ) ) ( _exists $1 ( _and ( _flight $1 ) ( _from $1 boston:_ci ) ( _to $1 denver:_ci ) ( _= ( _airline:_e $1 ) $0 ) ) ) ) )

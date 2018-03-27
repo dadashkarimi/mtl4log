@@ -1,0 +1,1 @@
+all right what us air flights leave from indianapolis to san diego after 130 in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _> ( _departure_time $0 ) 1330:_ti ) ( _from $0 indianapolis:_ci ) ( _to $0 san_diego:_ci ) ) )

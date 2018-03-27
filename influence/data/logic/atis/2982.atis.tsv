@@ -1,0 +1,1 @@
+show me the most expensive fare	( _max $0 ( _exists $1 ( _= ( _fare $1 ) $0 ) ) )

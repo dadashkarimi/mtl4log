@@ -1,0 +1,1 @@
+okay i'm sorry could you tell me what flights leave atlanta and arrive in philadelphia around 5 o'clock	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1700:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 philadelphia:_ci ) ) )

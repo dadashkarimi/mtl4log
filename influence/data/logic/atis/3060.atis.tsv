@@ -1,0 +1,1 @@
+show me flights from denver to philadelphia arriving after 2100	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 2100:_ti ) ( _from $0 denver:_ci ) ( _to $0 philadelphia:_ci ) ) )

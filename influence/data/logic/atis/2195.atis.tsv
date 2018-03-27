@@ -1,0 +1,1 @@
+i would like a flight from atlanta to dallas on friday that arrives in dallas by 6pm	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 dallas:_ci ) ( _day $0 friday:_da ) ( _< ( _arrival_time $0 ) 1800:_ti ) ) )

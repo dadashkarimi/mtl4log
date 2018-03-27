@@ -1,0 +1,1 @@
+how much does it cost to rent a car in tacoma	( _lambda $0 e ( _exists $1 ( _and ( _rental_car $1 ) ( _to_city $1 tacoma:_ci ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

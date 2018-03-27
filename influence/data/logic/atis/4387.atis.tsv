@@ -1,0 +1,1 @@
+what's the earliest flight from nashville to tacoma on american on tuesday the eighteenth of may	( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 nashville:_ci ) ( _to $0 tacoma:_ci ) ( _day $0 tuesday:_da ) ( _day_number $0 18:_dn ) ( _month $0 may:_mn ) ) ( _departure_time $0 ) )

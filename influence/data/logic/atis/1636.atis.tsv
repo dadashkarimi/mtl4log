@@ -1,0 +1,1 @@
+show me any show me what the first class fares are of the flights from pittsburgh to san francisco on monday	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _class_type $1 first:_cl ) ( _from $1 pittsburgh:_ci ) ( _to $1 san_francisco:_ci ) ( _day $1 monday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+i would like to book a flight from los angeles to pittsburgh on june first	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 los_angeles:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 1:_dn ) ( _month $0 june:_mn ) ) )

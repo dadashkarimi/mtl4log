@@ -1,0 +1,1 @@
+i would like to fly from dallas to denver on the morning of august twenty seventh leaving at 650	( _lambda $0 e ( _and ( _departure_time $0 650:_ti ) ( _month $0 august:_mn ) ( _to $0 denver:_ci ) ( _from $0 dallas:_ci ) ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _day_number $0 27:_dn ) ) )

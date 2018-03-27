@@ -1,0 +1,1 @@
+flight from denver to dallas fort worth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 dallas:_ci ) ) )

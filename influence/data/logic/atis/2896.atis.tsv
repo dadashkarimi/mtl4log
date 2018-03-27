@@ -1,0 +1,1 @@
+show me ground transportation in philadelphia on monday morning	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 philadelphia:_ci ) ( _during_day $0 morning:_pd ) ( _day $0 monday:_da ) ) )

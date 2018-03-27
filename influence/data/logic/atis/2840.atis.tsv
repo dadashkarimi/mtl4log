@@ -1,0 +1,1 @@
+i would like to fly to san francisco early in the day	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 early:_pd ) ( _to $0 san_francisco:_ci ) ) )

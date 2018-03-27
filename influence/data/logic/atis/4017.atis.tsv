@@ -1,0 +1,1 @@
+okay on the following wednesday i'd like to go from memphis to cincinnati as early as possible	( _argmin $0 ( _and ( _from $0 memphis:_ci ) ( _to $0 cincinnati:_ci ) ( _day $0 wednesday:_da ) ) ( _departure_time $0 ) )

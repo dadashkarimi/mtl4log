@@ -1,0 +1,1 @@
+i would like to find a flight that goes from boston to orlando i would like it to have a stop in new york and i would like a flight that serves breakfast	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 breakfast:_me ) ( _from $0 boston:_ci ) ( _to $0 orlando:_ci ) ( _stop $0 new_york:_ci ) ) )

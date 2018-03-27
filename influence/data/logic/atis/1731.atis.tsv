@@ -1,0 +1,1 @@
+please list all the arriving and departing flights from general mitchell international	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 mke:_ap ) ( _to $0 mke:_ap ) ) ) )

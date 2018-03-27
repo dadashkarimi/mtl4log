@@ -1,0 +1,1 @@
+show all flights on lufthansa airlines out of boston	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 lh:_al ) ( _from $0 boston:_ci ) ) )

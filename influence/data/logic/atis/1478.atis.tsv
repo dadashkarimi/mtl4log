@@ -1,0 +1,1 @@
+are there any flights from dallas fort worth to boston leaving before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 dallas:_ci ) ( _to $0 boston:_ci ) ) )

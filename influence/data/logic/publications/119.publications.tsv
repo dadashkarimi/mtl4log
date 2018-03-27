@@ -1,0 +1,1 @@
+which article was published  in more than two magazines	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string venue ) ( string > ) ( number 2 ) ) )

@@ -1,0 +1,1 @@
+what is the cheapest round trip fare between boston and san francisco	( _min $0 ( _exists $1 ( _and ( _from $1 boston:_ci ) ( _to $1 san_francisco:_ci ) ( _round_trip $1 ) ( _= ( _fare $1 ) $0 ) ) ) )

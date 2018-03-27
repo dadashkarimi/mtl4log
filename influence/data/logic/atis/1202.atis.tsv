@@ -1,0 +1,1 @@
+i would like a to know the type of aircraft leaving from atlanta bound to boston on friday this week	( _lambda $0 e ( _exists $1 ( _and ( _from $1 atlanta:_ci ) ( _to $1 boston:_ci ) ( _day $1 friday:_da ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

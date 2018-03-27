@@ -1,0 +1,1 @@
+show me the ground transportation in the salt lake city airport	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _from_airport $0 slc:_ap ) ) )

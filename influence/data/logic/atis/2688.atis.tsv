@@ -1,0 +1,1 @@
+show me the airlines that use love field	( _lambda $0 e ( _and ( _airline $0 ) ( _services $0 dal:_ap ) ) )

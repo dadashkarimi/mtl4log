@@ -1,0 +1,1 @@
+what are the cities that american airlines serves	( _lambda $0 e ( _and ( _city $0 ) ( _services aa:_al $0 ) ) )

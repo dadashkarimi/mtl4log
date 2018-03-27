@@ -1,0 +1,1 @@
+flight information on january twenty third from denver to san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 san_francisco:_ci ) ( _day_number $0 23:_dn ) ( _month $0 january:_mn ) ) )

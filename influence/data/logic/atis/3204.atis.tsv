@@ -1,0 +1,1 @@
+please give me a list of all the flights between dallas and baltimore and their cost	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _= ( _fare $0 ) $1 ) ) ) )

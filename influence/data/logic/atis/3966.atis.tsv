@@ -1,0 +1,1 @@
+list all flights that leave from baltimore or denver or pittsburgh and arrive in philadelphia	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 baltimore:_ci ) ( _from $0 denver:_ci ) ( _from $0 pittsburgh:_ci ) ) ( _to $0 philadelphia:_ci ) ) )

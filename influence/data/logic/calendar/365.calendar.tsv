@@ -1,0 +1,1 @@
+how long is this meeting	( call SW.listValue ( call SW.aggregate ( string sum ) ( call SW.getProperty ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string length ) ) ) )

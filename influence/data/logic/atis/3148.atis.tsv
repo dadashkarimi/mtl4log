@@ -1,0 +1,1 @@
+i need to know a list of flights from atlanta	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ) )

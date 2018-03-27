@@ -1,0 +1,1 @@
+how many united flights are there from san francisco please	( _count $0 ( _and ( _airline $0 ua:_al ) ( _from $0 san_francisco:_ci ) ( _flight $0 ) ) )

@@ -1,0 +1,1 @@
+show me the most expensive one way first class fare from baltimore to dallas	( _max $0 ( _exists $1 ( _and ( _oneway $1 ) ( _class_type $1 first:_cl ) ( _from $1 baltimore:_ci ) ( _to $1 dallas:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

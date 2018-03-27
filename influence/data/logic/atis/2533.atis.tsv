@@ -1,0 +1,1 @@
+show me all flights from philadelphia to dallas which arrive in dallas before 3 o'clock pm on saturday	( _lambda $0 e ( _and ( _day_arrival $0 saturday:_da ) ( _< ( _arrival_time $0 ) 1500:_ti ) ( _to $0 dallas:_ci ) ( _to $0 dallas:_ci ) ( _from $0 philadelphia:_ci ) ( _flight $0 ) ) )

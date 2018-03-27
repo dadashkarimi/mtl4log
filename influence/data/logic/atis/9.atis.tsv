@@ -1,0 +1,1 @@
+can you list all round trip flights from orlando to kansas city and then to minneapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _round_trip $0 ) ( _from $0 orlando:_ci ) ( _to $0 minneapolis:_ci ) ( _stop $0 kansas_city:_ci ) ) )

@@ -1,0 +1,1 @@
+all round trip flights between new york and miami coach fare	( _lambda $0 e ( _and ( _flight $0 ) ( _round_trip $0 ) ( _class_type $0 coach:_cl ) ( _from $0 new_york:_ci ) ( _to $0 miami:_ci ) ) )

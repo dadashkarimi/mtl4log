@@ -1,0 +1,1 @@
+can you show me what fares are available from oakland to dallas on december sixteenth one way only	( _lambda $0 e ( _exists $1 ( _and ( _oneway $1 ) ( _from $1 oakland:_ci ) ( _to $1 dallas:_ci ) ( _day_number $1 16:_dn ) ( _month $1 december:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

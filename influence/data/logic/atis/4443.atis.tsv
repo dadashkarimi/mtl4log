@@ -1,0 +1,1 @@
+show flights on us air from pittsburgh to oakland connecting through denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _from $0 pittsburgh:_ci ) ( _to $0 oakland:_ci ) ( _stop $0 denver:_ci ) ) )

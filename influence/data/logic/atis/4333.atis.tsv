@@ -1,0 +1,1 @@
+show me all the us air flights leaving pittsburgh between 12 and 4 in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _departure_time $0 ) 1600:_ti ) ( _from $0 pittsburgh:_ci ) ) )

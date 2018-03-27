@@ -1,0 +1,1 @@
+i'd like a flight from kansas city to los angeles that arrives in los angeles in the late afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 late:_pd ) ( _during_day_arrival $0 afternoon:_pd ) ( _from $0 kansas_city:_ci ) ( _to $0 los_angeles:_ci ) ) )

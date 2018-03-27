@@ -1,0 +1,1 @@
+i would like flights between boston and atlanta on july eleven departing at one in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 1300:_ti ) ( _from $0 boston:_ci ) ( _to $0 atlanta:_ci ) ( _day_number $0 11:_dn ) ( _month $0 july:_mn ) ) )

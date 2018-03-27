@@ -1,0 +1,1 @@
+i would like an early morning nonstop flight from new york to las vegas on february twenty eighth	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 new_york:_ci ) ( _to $0 las_vegas:_ci ) ( _day_number $0 28:_dn ) ) )

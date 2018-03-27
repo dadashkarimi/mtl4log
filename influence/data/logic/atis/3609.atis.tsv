@@ -1,0 +1,1 @@
+what airlines fly from new york to milwaukee to los angeles	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 new_york:_ci ) ( _to $1 los_angeles:_ci ) ( _stop $1 milwaukee:_ci ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+on may four atlanta to denver delta flight 257	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _flight_number $0 257:_fn ) ( _from $0 atlanta:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 4:_dn ) ( _month $0 may:_mn ) ) )

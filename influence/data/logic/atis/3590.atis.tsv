@@ -1,0 +1,1 @@
+first flights and fares from pittsburgh to atlanta on a thursday	( _lambda $0 e ( _lambda $1 e ( _and ( _equals $0 ( _argmin $2 ( _and ( _flight $2 ) ( _from $2 pittsburgh:_ci ) ( _to $2 atlanta:_ci ) ( _day $2 thursday:_da ) ) ( _departure_time $2 ) ) ) ( _= ( _fare $0 ) $1 ) ) ) )

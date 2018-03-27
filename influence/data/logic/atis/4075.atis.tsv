@@ -1,0 +1,1 @@
+show me all the flights from milwaukee to orlando that leave after noon on wednesday and before noon on thursday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 orlando:_ci ) ( _or ( _and ( _> ( _departure_time $0 ) 1200:_ti ) ( _day $0 wednesday:_da ) ) ( _and ( _< ( _departure_time $0 ) 1200:_ti ) ( _day $0 thursday:_da ) ) ) ) )

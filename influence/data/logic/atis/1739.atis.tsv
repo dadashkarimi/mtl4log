@@ -1,0 +1,1 @@
+flights and fares from denver to oakland	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 oakland:_ci ) ( _= ( _fare $0 ) $1 ) ) ) )

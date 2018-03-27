@@ -1,0 +1,1 @@
+i want to fly from kansas city to chicago next wednesday arriving in the evening and returning the next day	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 evening:_pd ) ( _from $0 kansas_city:_ci ) ( _to $0 chicago:_ci ) ( _day_arrival $0 wednesday:_da ) ) )

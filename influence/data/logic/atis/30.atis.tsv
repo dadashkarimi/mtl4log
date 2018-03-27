@@ -1,0 +1,1 @@
+what is the cost of a round trip flight from pittsburgh to atlanta beginning on april twenty fifth and returning on may sixth	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _round_trip $1 ) ( _from $1 pittsburgh:_ci ) ( _to $1 atlanta:_ci ) ( _day_number $1 25:_dn ) ( _month $1 april:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+now i'd like a schedule for the flights on tuesday morning from oakland no from dallas fort worth to atlanta	( _lambda $0 e ( _exists $1 ( _and ( _to $1 atlanta:_ci ) ( _not ( _from $1 oakland:_ci ) ) ( _flight $1 ) ( _day $1 tuesday:_da ) ( _during_day $1 morning:_pd ) ( _from $1 dallas:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+i would like the flight number and the time for the cheapest fare that is the least expensive first class fare from san francisco to pittsburgh leaving after 8pm monday night	( _argmin $0 ( _and ( _class_type $0 first:_cl ) ( _> ( _departure_time $0 ) 2000:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ) ( _fare $0 ) )

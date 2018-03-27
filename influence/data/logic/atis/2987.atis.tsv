@@ -1,0 +1,1 @@
+please list the flights from ontario california to orlando florida	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 ontario:_ci ) ( _to $0 orlando:_ci ) ) )

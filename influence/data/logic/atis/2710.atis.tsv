@@ -1,0 +1,1 @@
+what is the latest flight from salt lake city to st. petersburg	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 st_petersburg:_ci ) ) ( _departure_time $0 ) )

@@ -1,0 +1,1 @@
+what are the round trip fares for flights from denver to philadelphia arriving after 1700 on continental	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _round_trip $1 ) ( _airline $1 co:_al ) ( _> ( _arrival_time $1 ) 1700:_ti ) ( _from $1 denver:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

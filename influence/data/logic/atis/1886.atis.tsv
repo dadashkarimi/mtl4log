@@ -1,0 +1,1 @@
+may i see all nonstop flights from st. petersburg to charlotte	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 st_petersburg:_ci ) ( _to $0 charlotte:_ci ) ) )

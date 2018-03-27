@@ -1,0 +1,1 @@
+articles published in 2004 that have won an award	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string won_award ) ) ( string publication_date ) ( string = ) ( date 2004 -1 -1 ) ) )

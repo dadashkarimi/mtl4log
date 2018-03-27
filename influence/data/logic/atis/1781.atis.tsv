@@ -1,0 +1,1 @@
+what is the earliest flight from philadelphia to dallas first class	( _argmin $0 ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ) ( _departure_time $0 ) )

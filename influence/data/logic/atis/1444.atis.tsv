@@ -1,0 +1,1 @@
+how long does the ground transportation take from the salt lake city airport	( _lambda $0 e ( _exists $1 ( _and ( _= ( _minutes_distant $1 ) $0 ) ( _to_city $1 salt_lake_city:_ci ) ( _from_airport $1 slc:_ap ) ) ) )

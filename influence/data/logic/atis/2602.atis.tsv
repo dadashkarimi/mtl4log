@@ -1,0 +1,1 @@
+can you show me the economy fare flights from baltimore to dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _economy $0 ) ( _from $0 baltimore:_ci ) ( _to $0 dallas:_ci ) ) )

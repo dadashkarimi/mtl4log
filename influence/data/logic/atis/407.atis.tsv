@@ -1,0 +1,1 @@
+i want to leave oakland and arrive in boston at 5 o'clock in the afternoon	( _lambda $0 e ( _and ( _arrival_time $0 1700:_ti ) ( _from $0 oakland:_ci ) ( _to $0 boston:_ci ) ) )

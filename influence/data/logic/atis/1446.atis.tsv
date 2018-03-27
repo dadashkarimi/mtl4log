@@ -1,0 +1,1 @@
+what's the cheapest of the dallas to atlanta flights which are after 2 in the afternoon	( _argmin $0 ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1400:_ti ) ( _from $0 dallas:_ci ) ( _to $0 atlanta:_ci ) ) ( _fare $0 ) )

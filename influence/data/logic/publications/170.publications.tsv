@@ -1,0 +1,1 @@
+what articles have under two authors	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string author ) ( string < ) ( number 2 ) ) )

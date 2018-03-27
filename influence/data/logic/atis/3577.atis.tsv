@@ -1,0 +1,1 @@
+do i get a meal on the atlanta to bwi flight eastern 210	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ea:_al ) ( _flight_number $1 210:_fn ) ( _from $1 atlanta:_ci ) ( _to $1 bwi:_ap ) ( _= ( _meal $1 ) $0 ) ) ) )

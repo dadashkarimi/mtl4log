@@ -1,0 +1,1 @@
+i want to fly philadelphia to dallas on july eighth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ( _day_number $0 8:_dn ) ( _month $0 july:_mn ) ) )

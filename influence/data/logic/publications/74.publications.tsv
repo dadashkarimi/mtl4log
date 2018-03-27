@@ -1,0 +1,1 @@
+in what publication was multivariate data analysis published	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.venue ) ( string ! type ) ) ( call SW.reverse ( string venue ) ) ( string = ) en.article.multivariate_data_analysis ) )

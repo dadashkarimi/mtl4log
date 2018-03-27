@@ -1,0 +1,1 @@
+display all flights from st. petersburg and charlotte flights should leave after noon arrive after 5pm nonstop flight	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _or ( _from $0 st_petersburg:_ci ) ( _from $0 charlotte:_ci ) ) ) )

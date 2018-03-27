@@ -1,0 +1,1 @@
+can i have a list of all the thursday flights from baltimore to atlanta that leave after 1pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1300:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 atlanta:_ci ) ( _day $0 thursday:_da ) ) )

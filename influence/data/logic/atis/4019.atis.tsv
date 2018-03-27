@@ -1,0 +1,1 @@
+is the american flight 813 from boston to oakland a flight that goes straight through from boston to oakland without stopping at another city	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _airline $0 aa:_al ) ( _flight_number $0 813:_fn ) ( _from $0 boston:_ci ) ( _to $0 oakland:_ci ) ) )

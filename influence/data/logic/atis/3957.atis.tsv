@@ -1,0 +1,1 @@
+i want a one way ticket from dallas to baltimore	( _lambda $0 e ( _and ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _oneway $0 ) ) )

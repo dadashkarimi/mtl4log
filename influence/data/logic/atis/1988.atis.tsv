@@ -1,0 +1,1 @@
+please list the flights from kansas city to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 kansas_city:_ci ) ( _to $0 denver:_ci ) ) )

@@ -1,0 +1,1 @@
+what article doesnt cite multivariate data analysis	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string cites ) ( string ! = ) en.article.multivariate_data_analysis ) )

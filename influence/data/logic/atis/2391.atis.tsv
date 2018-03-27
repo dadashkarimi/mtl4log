@@ -1,0 +1,1 @@
+philadelphia to san francisco monday	( _lambda $0 e ( _and ( _from $0 philadelphia:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 monday:_da ) ) )

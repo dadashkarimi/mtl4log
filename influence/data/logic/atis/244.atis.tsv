@@ -1,0 +1,1 @@
+please show me the flights from las vegas to detroit on the twenty eighth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 las_vegas:_ci ) ( _to $0 detroit:_ci ) ( _day_number $0 28:_dn ) ) )

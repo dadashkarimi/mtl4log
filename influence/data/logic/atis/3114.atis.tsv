@@ -1,0 +1,1 @@
+what is the distance from los angeles international airport to los angeles	( _lambda $0 e ( _and ( _miles_distant $0 ) ( _to_city $0 los_angeles:_ci ) ( _from_airport $0 lga:_ap ) ) )

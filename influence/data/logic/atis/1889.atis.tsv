@@ -1,0 +1,1 @@
+list the flights and departure times for flights leaving dallas fort worth for boston after 6pm	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _flight $0 ) ( _> ( _departure_time $0 ) 1800:_ti ) ( _from $0 dallas:_ci ) ( _to $0 boston:_ci ) ( _= ( _departure_time $0 ) $1 ) ) ) )

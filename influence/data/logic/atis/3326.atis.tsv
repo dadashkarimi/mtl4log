@@ -1,0 +1,1 @@
+which airlines serve denver	( _lambda $0 e ( _and ( _airline $0 ) ( _services $0 denver:_ci ) ) )

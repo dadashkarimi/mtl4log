@@ -1,0 +1,1 @@
+what flights leave boston and arrive in philadelphia before 7am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 700:_ti ) ( _from $0 boston:_ci ) ( _to $0 philadelphia:_ci ) ) )

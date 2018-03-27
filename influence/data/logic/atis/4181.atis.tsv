@@ -1,0 +1,1 @@
+united airlines stopping in denver	( _lambda $0 e ( _and ( _airline $0 ua:_al ) ( _stop $0 denver:_ci ) ) )

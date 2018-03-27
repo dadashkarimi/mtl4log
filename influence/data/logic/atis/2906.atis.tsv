@@ -1,0 +1,1 @@
+are there any flights after 9pm from san francisco to washington	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 2100:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 washington:_ci ) ) )

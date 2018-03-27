@@ -1,0 +1,1 @@
+please show me airfare of flight us 345 from boston to pittsburgh	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 us:_al ) ( _flight_number $1 345:_fn ) ( _from $1 boston:_ci ) ( _to $1 pittsburgh:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

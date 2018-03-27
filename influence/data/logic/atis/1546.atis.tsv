@@ -1,0 +1,1 @@
+what are the cheapest round trip flights from denver to pittsburgh	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _round_trip $0 ) ) ( _fare $0 ) )

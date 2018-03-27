@@ -1,0 +1,1 @@
+what is the cost of a round trip ticket first class between oak and atl	( _lambda $0 e ( _exists $1 ( _and ( _round_trip $1 ) ( _class_type $1 first:_cl ) ( _from $1 oak:_ap ) ( _to $1 atl:_ap ) ( _= ( _fare $1 ) $0 ) ) ) )

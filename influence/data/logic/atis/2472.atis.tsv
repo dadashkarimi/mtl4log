@@ -1,0 +1,1 @@
+could you please tell me the first flight leaving baltimore to san francisco on a 747 on august twenty seventh	( _argmin $0 ( _and ( _flight $0 ) ( _aircraft_code $0 747:_ac ) ( _from $0 baltimore:_ci ) ( _to $0 san_francisco:_ci ) ( _day_number $0 27:_dn ) ( _month $0 august:_mn ) ) ( _departure_time $0 ) )

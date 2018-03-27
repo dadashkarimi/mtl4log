@@ -1,0 +1,1 @@
+on november twenty third what flights are available between boston and denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 23:_dn ) ( _month $0 november:_mn ) ) )

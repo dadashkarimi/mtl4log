@@ -1,0 +1,1 @@
+show me the first class fares from boston to denver	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 first:_cl ) ( _from $1 boston:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

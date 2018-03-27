@@ -1,0 +1,1 @@
+i'd like to fly from denver to pittsburgh to atlanta could you find me the cheapest way to do this	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 atlanta:_ci ) ( _stop $0 pittsburgh:_ci ) ) ( _fare $0 ) )

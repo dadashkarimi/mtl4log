@@ -1,0 +1,1 @@
+give me american airlines flights from milwaukee to phoenix on saturday and on sunday	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 milwaukee:_ci ) ( _to $0 phoenix:_ci ) ( _or ( _day $0 saturday:_da ) ( _day $0 sunday:_da ) ) ) )

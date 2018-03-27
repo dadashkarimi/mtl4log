@@ -1,0 +1,1 @@
+what price is a limousine service to new york's la guardia	( _lambda $0 e ( _exists $1 ( _and ( _limousine $1 ) ( _from_airport $1 lga:_ap ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

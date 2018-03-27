@@ -1,0 +1,1 @@
+flights from ontario to florida	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 ontario:_ci ) ( _to $0 florida:_st ) ) )

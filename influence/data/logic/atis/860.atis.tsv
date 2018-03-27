@@ -1,0 +1,1 @@
+i would like to make a reservation for a flight to denver from philadelphia on this coming sunday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 philadelphia:_ci ) ( _to $0 denver:_ci ) ( _day $0 sunday:_da ) ) )

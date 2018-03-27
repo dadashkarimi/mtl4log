@@ -1,0 +1,1 @@
+from kansas city to salt lake city on delta arrive around 8pm tomorrow	( _lambda $0 e ( _and ( _airline $0 dl:_al ) ( _approx_arrival_time $0 2000:_ti ) ( _from $0 kansas_city:_ci ) ( _to $0 salt_lake_city:_ci ) ( _tomorrow $0 ) ) )

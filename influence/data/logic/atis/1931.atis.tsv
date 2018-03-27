@@ -1,0 +1,1 @@
+show me all flights out of boston on june twentieth that have business class	( _lambda $0 e ( _and ( _flight $0 ) ( _class_type $0 business:_cl ) ( _from $0 boston:_ci ) ( _day_number $0 20:_dn ) ( _month $0 june:_mn ) ) )

@@ -1,0 +1,1 @@
+i need a flight from long beach to st. louis stopping in dallas the flight should also serve lunch	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 lunch:_me ) ( _from $0 long_beach:_ci ) ( _to $0 st_louis:_ci ) ( _stop $0 dallas:_ci ) ) )

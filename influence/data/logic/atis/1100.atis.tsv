@@ -1,0 +1,1 @@
+on flight us air 2153 from san francisco to baltimore what time and what city does the plane stop in between	( _lambda $0 e ( _lambda $1 e ( _exists $2 ( _and ( _flight $2 ) ( _from $2 san_francisco:_ci ) ( _to $2 baltimore:_ci ) ( _airline $2 us:_al ) ( _flight_number $2 2153:_fn ) ( _stop $2 $0 ) ( _= ( _stop_arrival_time $2 ) $1 ) ) ) ) )

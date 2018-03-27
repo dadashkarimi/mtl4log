@@ -1,0 +1,1 @@
+what is the first flight that travels from atlanta to baltimore that serves lunch	( _argmin $0 ( _and ( _flight $0 ) ( _meal $0 lunch:_me ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ) ( _departure_time $0 ) )

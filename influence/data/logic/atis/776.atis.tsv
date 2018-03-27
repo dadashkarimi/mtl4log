@@ -1,0 +1,1 @@
+show me city served both by nationair and canadian airlines international	( _lambda $0 e ( _and ( _city $0 ) ( _services cp:_al $0 ) ( _services nx:_al $0 ) ) )

@@ -1,0 +1,1 @@
+find an article published in either 2004 or 2010	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string publication_date ) ( string = ) ( call SW.concat ( date 2004 -1 -1 ) ( date 2010 -1 -1 ) ) ) )

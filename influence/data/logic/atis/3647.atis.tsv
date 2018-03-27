@@ -1,0 +1,1 @@
+when are the american flights from phoenix to milwaukee	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 aa:_al ) ( _from $1 phoenix:_ci ) ( _to $1 milwaukee:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

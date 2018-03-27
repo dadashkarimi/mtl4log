@@ -1,0 +1,1 @@
+what is the earliest breakfast flight from philadelphia to fort worth	( _argmin $0 ( _and ( _flight $0 ) ( _meal $0 breakfast:_me ) ( _from $0 philadelphia:_ci ) ( _to $0 fort_worth:_ci ) ) ( _departure_time $0 ) )

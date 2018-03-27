@@ -1,0 +1,1 @@
+what is the ground transportation from philadelphia airport to the city proper	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 philadelphia:_ci ) ( _from_airport $0 phl:_ap ) ) )

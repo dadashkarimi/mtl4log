@@ -1,0 +1,1 @@
+what is the seating capacity of the various airplanes that united airlines uses	( _lambda $0 e ( _lambda $1 e ( _exists $2 ( _and ( _flight $2 ) ( _airline $2 ua:_al ) ( _= ( _aircraft_code $2 ) $1 ) ( _= ( _capacity $2 ) $0 ) ) ) ) )

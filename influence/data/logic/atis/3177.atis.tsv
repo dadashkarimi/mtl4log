@@ -1,0 +1,1 @@
+what kind of airplane goes from philadelphia to san francisco monday stopping in dallas in the afternoon first class flight	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _class_type $1 first:_cl ) ( _during_day $1 afternoon:_pd ) ( _from $1 philadelphia:_ci ) ( _to $1 san_francisco:_ci ) ( _stop $1 dallas:_ci ) ( _day $1 monday:_da ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

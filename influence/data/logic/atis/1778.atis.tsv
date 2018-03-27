@@ -1,0 +1,1 @@
+find me a flight leaving boston at 12 o'clock	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 1200:_ti ) ( _from $0 boston:_ci ) ) )

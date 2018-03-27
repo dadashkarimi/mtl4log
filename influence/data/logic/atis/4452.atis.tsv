@@ -1,0 +1,1 @@
+show me all the flights that arrive in baltimore in the evening	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 evening:_pd ) ( _to $0 baltimore:_ci ) ) )

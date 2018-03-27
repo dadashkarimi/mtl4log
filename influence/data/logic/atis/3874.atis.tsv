@@ -1,0 +1,1 @@
+i'm requesting flight information on a flight from san francisco to pittsburgh on friday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 friday:_da ) ) )

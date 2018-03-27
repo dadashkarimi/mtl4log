@@ -1,0 +1,1 @@
+how many flights does twa have in business class	( _count $0 ( _and ( _flight $0 ) ( _airline $0 tw:_al ) ( _class_type $0 business:_cl ) ) )

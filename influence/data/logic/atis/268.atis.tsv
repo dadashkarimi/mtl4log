@@ -1,0 +1,1 @@
+what is the latest afternoon flight i can get from dallas to san francisco on first class	( _argmax $0 ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _during_day $0 afternoon:_pd ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) ( _departure_time $0 ) )

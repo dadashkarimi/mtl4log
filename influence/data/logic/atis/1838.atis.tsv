@@ -1,0 +1,1 @@
+what're the flights from memphis to las vegas that arrive on a sunday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 memphis:_ci ) ( _to $0 las_vegas:_ci ) ( _day_arrival $0 sunday:_da ) ) )

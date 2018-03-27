@@ -1,0 +1,1 @@
+i would like to book a flight from baltimore to san francisco before 12 o'clock on tuesday	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1200:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 tuesday:_da ) ) )

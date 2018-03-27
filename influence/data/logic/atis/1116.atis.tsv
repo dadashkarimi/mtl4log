@@ -1,0 +1,1 @@
+please show me all the flights from indianapolis to san diego tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 indianapolis:_ci ) ( _to $0 san_diego:_ci ) ( _tomorrow $0 ) ) )

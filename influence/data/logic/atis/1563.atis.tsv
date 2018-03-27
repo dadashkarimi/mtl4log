@@ -1,0 +1,1 @@
+how many first class flights are provided by american airlines	( _count $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _class_type $0 first:_cl ) ) )

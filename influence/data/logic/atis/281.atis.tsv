@@ -1,0 +1,1 @@
+first class american flight from philadelphia to dallas on wednesday	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _class_type $0 first:_cl ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ( _day $0 wednesday:_da ) ) )

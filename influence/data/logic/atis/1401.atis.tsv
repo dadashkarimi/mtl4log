@@ -1,0 +1,1 @@
+show me all flights from san francisco to boston philadelphia or baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _or ( _to $0 boston:_ci ) ( _to $0 philadelphia:_ci ) ( _to $0 baltimore:_ci ) ) ) )

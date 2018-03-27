@@ -1,0 +1,1 @@
+can you tell me which flight from dallas to baltimore has the least expensive fare	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ) ( _fare $0 ) )

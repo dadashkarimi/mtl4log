@@ -1,0 +1,1 @@
+what flights are there from milwaukee to phoenix on saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 phoenix:_ci ) ( _day $0 saturday:_da ) ) )

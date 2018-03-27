@@ -1,0 +1,1 @@
+show me all flights from san diego to miami with a stop in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_diego:_ci ) ( _to $0 miami:_ci ) ( _stop $0 denver:_ci ) ) )

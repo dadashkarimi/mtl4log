@@ -1,0 +1,1 @@
+the most expensive flight between boston and philadelphia	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 philadelphia:_ci ) ) ( _fare $0 ) )

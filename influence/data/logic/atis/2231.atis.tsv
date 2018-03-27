@@ -1,0 +1,1 @@
+i need information flight information for tuesday on a flight leaving baltimore bound for dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 dallas:_ci ) ( _day $0 tuesday:_da ) ) )

@@ -1,0 +1,1 @@
+show me all flights both direct and connecting from dallas fort worth to either san francisco or oakland that depart after 7pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1900:_ti ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ( _or ( _nonstop $0 ) ( _connecting $0 ) ) ) )

@@ -1,0 +1,1 @@
+a first class flight to san francisco on american airlines tuesday next week	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _class_type $0 first:_cl ) ( _to $0 san_francisco:_ci ) ( _day $0 tuesday:_da ) ) )

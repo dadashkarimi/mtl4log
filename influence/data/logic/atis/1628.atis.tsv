@@ -1,0 +1,1 @@
+what is the cost of a business class ticket going from boston to dallas leaving july first	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 business:_cl ) ( _from $1 boston:_ci ) ( _to $1 dallas:_ci ) ( _day_number $1 1:_dn ) ( _month $1 july:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

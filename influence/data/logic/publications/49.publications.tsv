@@ -1,0 +1,1 @@
+author with at most two article	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.person ) ( string ! type ) ) ( call SW.reverse ( string author ) ) ( string <= ) ( number 2 ) ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ) )

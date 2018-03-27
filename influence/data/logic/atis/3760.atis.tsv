@@ -1,0 +1,1 @@
+what flights go from chicago to seattle on continental airlines on saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _from $0 chicago:_ci ) ( _to $0 seattle:_ci ) ( _day $0 saturday:_da ) ) )

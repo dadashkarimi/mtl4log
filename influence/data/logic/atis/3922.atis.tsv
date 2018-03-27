@@ -1,0 +1,1 @@
+what delta flights fly from washington to dallas in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _during_day $0 morning:_pd ) ( _from $0 washington:_ci ) ( _to $0 dallas:_ci ) ) )

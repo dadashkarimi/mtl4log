@@ -1,0 +1,1 @@
+i want to travel from atlanta to baltimore early in the morning first flight	( _argmin $0 ( _and ( _flight $0 ) ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ) ( _departure_time $0 ) )

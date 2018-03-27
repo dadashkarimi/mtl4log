@@ -1,0 +1,1 @@
+how many different flight classes are there	( _count $0 ( _class_of_service $0 ) )

@@ -1,0 +1,1 @@
+list all daily flights between boston and oakland and between oakland and boston using delta airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _daily $0 ) ( _airline $0 dl:_al ) ( _or ( _and ( _from $0 oakland:_ci ) ( _to $0 boston:_ci ) ) ( _and ( _from $0 boston:_ci ) ( _to $0 oakland:_ci ) ) ) ) )

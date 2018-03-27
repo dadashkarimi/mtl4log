@@ -1,0 +1,1 @@
+what are the early weekday flights from san francisco to pittsburgh	( _lambda $0 e ( _and ( _during_day $0 early:_pd ) ( _weekday $0 ) ( _to $0 pittsburgh:_ci ) ( _from $0 san_francisco:_ci ) ( _flight $0 ) ) )

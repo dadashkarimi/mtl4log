@@ -1,0 +1,1 @@
+could you tell me what morning flights are available from oakland to denver before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _during_day $0 morning:_pd ) ( _from $0 oakland:_ci ) ( _to $0 denver:_ci ) ) )

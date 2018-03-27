@@ -1,0 +1,1 @@
+now i need a flight from detroit to san diego leaving tuesday evening	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 detroit:_ci ) ( _to $0 san_diego:_ci ) ( _day $0 tuesday:_da ) ) )

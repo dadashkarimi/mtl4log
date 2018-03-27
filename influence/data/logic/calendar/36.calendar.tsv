@@ -1,0 +1,1 @@
+find all meetings which begin on january 2nd or january 3rd	( call SW.listValue ( call SW.concat ( date 2015 1 2 ) ( date 2015 1 3 ) ) )

@@ -1,0 +1,1 @@
+show me all flights from pittsburgh to atlanta which leave after 5 o'clock pm tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1700:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 atlanta:_ci ) ( _tomorrow $0 ) ) )

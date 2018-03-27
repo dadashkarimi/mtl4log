@@ -1,0 +1,1 @@
+what is the fare from philadelphia to pittsburgh business class one way	( _lambda $0 e ( _exists $1 ( _and ( _oneway $1 ) ( _class_type $1 business:_cl ) ( _from $1 philadelphia:_ci ) ( _to $1 pittsburgh:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

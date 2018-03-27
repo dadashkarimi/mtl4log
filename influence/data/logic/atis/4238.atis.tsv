@@ -1,0 +1,1 @@
+all flights from montreal less than 150 dollars	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _fare $0 ) 150:_do ) ( _from $0 montreal:_ci ) ) )

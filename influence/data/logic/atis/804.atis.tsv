@@ -1,0 +1,1 @@
+show me the names of airlines in atlanta	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 ) ( _services $1 atlanta:_ci ) ( _named $1 $0 ) ) ) )

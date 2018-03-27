@@ -1,0 +1,1 @@
+show nonstop flights from new york to miami on a tuesday which cost less than 466 dollars one way	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _< ( _fare $0 ) 466:_do ) ( _from $0 new_york:_ci ) ( _to $0 miami:_ci ) ( _day $0 tuesday:_da ) ( _oneway $0 ) ) )

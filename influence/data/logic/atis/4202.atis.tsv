@@ -1,0 +1,1 @@
+please list the afternoon flights from charlotte to minneapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 charlotte:_ci ) ( _to $0 minneapolis:_ci ) ) )

@@ -1,0 +1,1 @@
+what kind of ground transportation is available in las vegas	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _from_airport $0 las_vegas:_ci ) ) )

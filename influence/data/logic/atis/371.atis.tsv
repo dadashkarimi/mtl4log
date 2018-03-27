@@ -1,0 +1,1 @@
+what is the earliest flight from memphis to las vegas	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 memphis:_ci ) ( _to $0 las_vegas:_ci ) ) ( _departure_time $0 ) )

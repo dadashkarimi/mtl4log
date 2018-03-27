@@ -1,0 +1,1 @@
+coach class flights on twa from columbus to st. paul	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 tw:_al ) ( _class_type $0 coach:_cl ) ( _from $0 columbus:_ci ) ( _to $0 st_paul:_ci ) ) )

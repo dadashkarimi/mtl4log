@@ -1,0 +1,1 @@
+i would like to fly from salt lake city back to st. petersburg on wednesday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 st_petersburg:_ci ) ( _day $0 wednesday:_da ) ) )

@@ -1,0 +1,1 @@
+what flights are there from cleveland to miami on us air that arrive in miami before 4pm	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _< ( _arrival_time $0 ) 1600:_ti ) ( _from $0 cleveland:_ci ) ( _to $0 miami:_ci ) ) )

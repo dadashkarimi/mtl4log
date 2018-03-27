@@ -1,0 +1,1 @@
+all flights from cleveland to newark	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 newark:_ci ) ) )

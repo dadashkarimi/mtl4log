@@ -1,0 +1,1 @@
+are there any continental flights between dallas and boston	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _from $0 dallas:_ci ) ( _to $0 boston:_ci ) ) )

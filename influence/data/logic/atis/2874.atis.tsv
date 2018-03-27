@@ -1,0 +1,1 @@
+i need a flight from san francisco to boston that leaves after 8pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 2000:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ) )

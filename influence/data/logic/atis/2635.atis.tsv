@@ -1,0 +1,1 @@
+what airline is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210pm	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _departure_time $1 1200:_ti ) ( _arrival_time $1 1410:_ti ) ( _from $1 atlanta:_ci ) ( _to $1 san_francisco:_ci ) ( _day_number $1 7:_dn ) ( _month $1 november:_mn ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

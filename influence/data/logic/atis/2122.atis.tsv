@@ -1,0 +1,1 @@
+what's the earliest flight from phoenix to salt lake city	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 phoenix:_ci ) ( _to $0 salt_lake_city:_ci ) ) ( _departure_time $0 ) )

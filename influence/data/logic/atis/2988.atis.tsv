@@ -1,0 +1,1 @@
+which nonstop flight from atlanta to oakland leaves in the afternoon and arrives at 5pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _arrival_time $0 1700:_ti ) ( _during_day $0 afternoon:_pd ) ( _from $0 atlanta:_ci ) ( _to $0 oakland:_ci ) ) )

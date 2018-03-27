@@ -1,0 +1,1 @@
+do any us air flights leave from san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _from $0 san_francisco:_ci ) ) )

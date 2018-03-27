@@ -1,0 +1,1 @@
+i'd like a nonstop flight from indianapolis to san diego that serves dinner what's available	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _meal $0 dinner:_me ) ( _from $0 indianapolis:_ci ) ( _to $0 san_diego:_ci ) ) )

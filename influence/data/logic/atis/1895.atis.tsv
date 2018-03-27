@@ -1,0 +1,1 @@
+before 10 o'clock on tuesday is there a 747 that flies from baltimore to san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _aircraft_code $0 747:_ac ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 tuesday:_da ) ) )

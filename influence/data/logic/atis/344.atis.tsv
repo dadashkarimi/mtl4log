@@ -1,0 +1,1 @@
+please show me the flights from denver to baltimore between 10am and 2pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1000:_ti ) ( _< ( _departure_time $0 ) 1400:_ti ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ) )

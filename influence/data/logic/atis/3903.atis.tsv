@@ -1,0 +1,1 @@
+i'm looking for a flight from charlotte to las vegas that stops in st. louis hopefully a dinner flight how can i find that out	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _from $0 charlotte:_ci ) ( _to $0 las_vegas:_ci ) ( _stop $0 st_louis:_ci ) ) )

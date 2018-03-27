@@ -1,0 +1,1 @@
+meetings held before january 2	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string date ) ) ( string < ) ( call SW.ensureNumericEntity ( date 2015 1 2 ) ) ) )

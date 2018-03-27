@@ -1,0 +1,1 @@
+show me the latest flight to love field	( _argmax $0 ( _and ( _flight $0 ) ( _to $0 dal:_ap ) ) ( _departure_time $0 ) )

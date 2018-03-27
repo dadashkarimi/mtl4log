@@ -1,0 +1,1 @@
+what nonstop flights between atlanta and washington leave atlanta after 6 o'clock pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _departure_time $0 ) 1800:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 washington:_ci ) ) )

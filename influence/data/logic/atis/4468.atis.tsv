@@ -1,0 +1,1 @@
+do you have flights from st. petersburg to toronto on monday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 st_petersburg:_ci ) ( _to $0 toronto:_ci ) ( _day $0 monday:_da ) ) )

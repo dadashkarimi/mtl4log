@@ -1,0 +1,1 @@
+do you have a flight on wednesday from denver to washington dc nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 denver:_ci ) ( _to $0 washington:_ci ) ( _day $0 wednesday:_da ) ) )

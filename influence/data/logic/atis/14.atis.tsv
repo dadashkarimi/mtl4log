@@ -1,0 +1,1 @@
+are there any flights between pittsburgh and baltimore using a j31 aircraft	( _lambda $0 e ( _and ( _flight $0 ) ( _aircraft_code $0 j31:_ac ) ( _from $0 pittsburgh:_ci ) ( _to $0 baltimore:_ci ) ) )

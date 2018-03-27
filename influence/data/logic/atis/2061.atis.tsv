@@ -1,0 +1,1 @@
+show me round trip fares from pittsburgh to philadelphia	( _lambda $0 e ( _exists $1 ( _and ( _round_trip $1 ) ( _from $1 pittsburgh:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

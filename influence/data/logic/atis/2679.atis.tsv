@@ -1,0 +1,1 @@
+what is the cheapest fare between atlanta and san francisco	( _min $0 ( _exists $1 ( _and ( _= ( _fare $1 ) $0 ) ( _to $1 san_francisco:_ci ) ( _from $1 atlanta:_ci ) ) ) )

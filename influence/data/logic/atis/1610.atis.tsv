@@ -1,0 +1,1 @@
+what is lowest cost air fare available for a flight from dallas to baltimore arriving on july fourth	( _min $0 ( _exists $1 ( _and ( _flight $1 ) ( _from $1 dallas:_ci ) ( _to $1 baltimore:_ci ) ( _month_arrival $1 july:_mn ) ( _day_number_arrival $1 4:_dn ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+how much is a first class ticket from washington to san francisco leaving on friday	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 first:_cl ) ( _from $1 washington:_ci ) ( _to $1 san_francisco:_ci ) ( _day $1 friday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+how much does flight dl 402 from denver to philadelphia cost	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _flight_number $1 402:_fn ) ( _from $1 denver:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

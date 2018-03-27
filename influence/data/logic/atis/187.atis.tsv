@@ -1,0 +1,1 @@
+show me the type of aircraft that canadian airlines uses	( _lambda $0 e ( _and ( _aircraft_code:_t $0 ) ( _exists $1 ( _and ( _airline $1 cp:_al ) ( _aircraft_code $1 $0 ) ) ) ) )

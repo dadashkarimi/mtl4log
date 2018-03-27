@@ -1,0 +1,1 @@
+show me the flights from indianapolis to orlando with round trip fares less than 1288	( _lambda $0 e ( _and ( _flight $0 ) ( _round_trip $0 ) ( _< ( _fare $0 ) 1288:_do ) ( _from $0 indianapolis:_ci ) ( _to $0 orlando:_ci ) ) )

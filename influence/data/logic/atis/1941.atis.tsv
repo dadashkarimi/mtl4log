@@ -1,0 +1,1 @@
+show me all flights from denver to pittsburgh which serve a meal for the day after tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_after_tomorrow $0 ) ( _has_meal $0 ) ) )

@@ -1,0 +1,1 @@
+what is the cheapest one way fare from any city to another	( _min $0 ( _exists $1 ( _and ( _oneway $1 ) ( _= ( _fare $1 ) $0 ) ) ) )

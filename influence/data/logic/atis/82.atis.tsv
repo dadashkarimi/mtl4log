@@ -1,0 +1,1 @@
+what is the distance from toronto international airport to toronto	( _lambda $0 e ( _and ( _miles_distant $0 ) ( _to_city $0 toronto:_ci ) ( _from_airport $0 yyz:_ap ) ) )

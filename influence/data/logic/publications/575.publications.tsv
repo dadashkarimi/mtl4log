@@ -1,0 +1,1 @@
+which article  that cites multivariate data analysis was published on 2004 	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string publication_date ) ( string = ) ( date 2004 -1 -1 ) ) ( string cites ) ( string = ) en.article.multivariate_data_analysis ) )

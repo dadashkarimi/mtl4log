@@ -1,0 +1,1 @@
+please repeat the flight departures for monday august nineteenth from denver to pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ( _day_number $0 19:_dn ) ( _month $0 august:_mn ) ) )

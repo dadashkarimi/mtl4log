@@ -1,0 +1,1 @@
+what is your last flight leaving san francisco and arriving in denver	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 denver:_ci ) ) ( _departure_time $0 ) )

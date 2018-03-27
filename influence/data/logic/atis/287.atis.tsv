@@ -1,0 +1,1 @@
+what are the nonstop flights from kansas city to burbank arriving on saturday may twenty two	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 kansas_city:_ci ) ( _to $0 burbank:_ci ) ( _day_arrival $0 saturday:_da ) ( _day_number_arrival $0 22:_dn ) ( _month_arrival $0 may:_mn ) ) )

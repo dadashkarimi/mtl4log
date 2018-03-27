@@ -1,0 +1,1 @@
+what are all the flights available between pittsburgh and dallas fort worth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 dallas:_ci ) ) )

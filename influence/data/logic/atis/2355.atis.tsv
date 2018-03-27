@@ -1,0 +1,1 @@
+i need to fly from nashville to tacoma first thing in the morning what is there	( _argmin $0 ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 nashville:_ci ) ( _to $0 tacoma:_ci ) ) ( _departure_time $0 ) )

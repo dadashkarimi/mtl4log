@@ -1,0 +1,1 @@
+on a flight from san francisco to atlanta that leaves before 8am is there such a flight	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 800:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 atlanta:_ci ) ) )

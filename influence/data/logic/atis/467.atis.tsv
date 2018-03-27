@@ -1,0 +1,1 @@
+i also need service from dallas to boston arriving by noon	( _lambda $0 e ( _and ( _< ( _arrival_time $0 ) 1200:_ti ) ( _from $0 dallas:_ci ) ( _to $0 boston:_ci ) ) )

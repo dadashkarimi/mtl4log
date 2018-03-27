@@ -1,0 +1,1 @@
+how many first class flights does delta have today	( _count $0 ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _class_type $0 first:_cl ) ( _today $0 ) ) )

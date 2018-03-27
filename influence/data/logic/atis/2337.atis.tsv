@@ -1,0 +1,1 @@
+i'd like to find a flight from tampa to montreal that makes a stop in new york	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 tampa:_ci ) ( _to $0 montreal:_ci ) ( _stop $0 new_york:_ci ) ) )

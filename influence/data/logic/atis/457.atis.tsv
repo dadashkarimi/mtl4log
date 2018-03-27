@@ -1,0 +1,1 @@
+show me all flights from pittsburgh to philadelphia which arrive before 8 o'clock am on wednesday	( _lambda $0 e ( _and ( _flight $0 ) ( _day_arrival $0 wednesday:_da ) ( _< ( _arrival_time $0 ) 800:_ti ) ( _to $0 philadelphia:_ci ) ( _from $0 pittsburgh:_ci ) ) )

@@ -1,0 +1,1 @@
+airports in new york	( _lambda $0 e ( _and ( _airport $0 ) ( _loc:_t $0 new_york:_ci ) ) )

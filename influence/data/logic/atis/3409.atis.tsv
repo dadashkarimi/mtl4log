@@ -1,0 +1,1 @@
+i am interested in booking an early morning flight from dallas into houston and returning in the late evening	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _flight $1 ) ( _during_day $1 late_evening:_pd ) ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 dallas:_ci ) ( _to $0 houston:_ci ) ( _to $1 dallas:_ci ) ( _from $1 houston:_ci ) ) ) )

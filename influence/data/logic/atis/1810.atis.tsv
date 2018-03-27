@@ -1,0 +1,1 @@
+show me flights from dallas to houston and from houston to dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _and ( _from $0 dallas:_ci ) ( _to $0 houston:_ci ) ) ( _and ( _to $0 dallas:_ci ) ( _from $0 houston:_ci ) ) ) ) )

@@ -1,0 +1,1 @@
+please list all flights between indianapolis and orlando on the twenty seventh of december	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 indianapolis:_ci ) ( _to $0 orlando:_ci ) ( _day_number $0 27:_dn ) ( _month $0 december:_mn ) ) )

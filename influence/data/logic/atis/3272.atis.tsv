@@ -1,0 +1,1 @@
+show me all the night fares between philadelphia and san francisco	( _lambda $0 e ( _exists $1 ( _and ( _during_day $1 late:_pd ) ( _from $1 philadelphia:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+what flights leave from phoenix	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 phoenix:_ci ) ) )

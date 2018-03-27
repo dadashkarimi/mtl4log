@@ -1,0 +1,1 @@
+is there a flight from philadelphia to oakland with a stop in dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 philadelphia:_ci ) ( _to $0 oakland:_ci ) ( _stop $0 dallas:_ci ) ) )

@@ -1,0 +1,1 @@
+of the flights available from dallas to baltimore on august third which airline has the least expensive flight	( _airline:_e ( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 3:_dn ) ( _month $0 august:_mn ) ) ( _fare $0 ) ) )

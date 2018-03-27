@@ -1,0 +1,1 @@
+please tell me the type of aircraft used from atlanta to denver before 12 o'clock noon	( _lambda $0 e ( _exists $1 ( _and ( _< ( _departure_time $1 ) 1200:_ti ) ( _from $1 atlanta:_ci ) ( _to $1 denver:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

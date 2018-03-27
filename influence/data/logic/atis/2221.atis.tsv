@@ -1,0 +1,1 @@
+what continental flights go from chicago to seattle before 10am in the morning that have a meal	( _lambda $0 e ( _and ( _flight $0 ) ( _has_meal $0 ) ( _airline $0 co:_al ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 chicago:_ci ) ( _to $0 seattle:_ci ) ) )

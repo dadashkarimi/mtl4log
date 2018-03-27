@@ -1,0 +1,1 @@
+does eastern airlines fly early in the morning between logan and bwi	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ea:_al ) ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 bos:_ap ) ( _to $0 bwi:_ap ) ) )

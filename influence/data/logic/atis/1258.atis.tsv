@@ -1,0 +1,1 @@
+which flight is a one way fare at 329 dollars from denver to pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _oneway $0 ) ( _fare $0 329:_do ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ) )

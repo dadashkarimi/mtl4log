@@ -1,0 +1,1 @@
+show me all flights from pittsburgh which leave tomorrow and arrive in boston	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 boston:_ci ) ( _tomorrow $0 ) ) )

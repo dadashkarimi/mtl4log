@@ -1,0 +1,1 @@
+lowest fare from san francisco to orlando	( _min $0 ( _exists $1 ( _and ( _from $1 san_francisco:_ci ) ( _to $1 orlando:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+what are the first class and coach fares for flights from chicago to kansas city arriving around 7pm next thursday	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _or ( _class_type $1 coach:_cl ) ( _class_type $1 first:_cl ) ) ( _approx_arrival_time $1 1900:_ti ) ( _from $1 chicago:_ci ) ( _to $1 kansas_city:_ci ) ( _day_arrival $1 thursday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

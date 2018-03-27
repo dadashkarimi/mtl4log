@@ -1,0 +1,1 @@
+what northwest flights leave denver before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _< ( _departure_time $0 ) 1200:_ti ) ( _from $0 denver:_ci ) ) )

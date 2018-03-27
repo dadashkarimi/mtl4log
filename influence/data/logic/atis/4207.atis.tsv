@@ -1,0 +1,1 @@
+show me the flights on delta from atlanta in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _during_day $0 morning:_pd ) ( _from $0 atlanta:_ci ) ) )

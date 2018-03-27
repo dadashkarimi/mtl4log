@@ -1,0 +1,1 @@
+in the next two days i want to fly from nashville to san jose or to tacoma	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 nashville:_ci ) ( _or ( _to $0 tacoma:_ci ) ( _to $0 san_jose:_ci ) ) ( _next_days $0 2:_i ) ) )

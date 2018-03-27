@@ -1,0 +1,1 @@
+what flights are between dfw and oakland	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 dfw:_ap ) ( _to $0 oakland:_ci ) ) )

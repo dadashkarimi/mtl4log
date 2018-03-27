@@ -1,0 +1,1 @@
+how much is a first class ticket from boston to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 first:_cl ) ( _from $1 boston:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

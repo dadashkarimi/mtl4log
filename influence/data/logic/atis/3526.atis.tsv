@@ -1,0 +1,1 @@
+on monday i would like to travel from charlotte north carolina to phoenix arizona i would like to arrive in phoenix before 4pm	( _lambda $0 e ( _and ( _< ( _arrival_time $0 ) 1600:_ti ) ( _from $0 charlotte:_ci ) ( _to $0 phoenix:_ci ) ( _day $0 monday:_da ) ) )

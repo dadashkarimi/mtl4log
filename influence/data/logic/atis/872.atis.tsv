@@ -1,0 +1,1 @@
+list all flights on continental leaving denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _from $0 denver:_ci ) ) )

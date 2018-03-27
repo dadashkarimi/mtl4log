@@ -1,0 +1,1 @@
+show me all the one way fares from tacoma to montreal	( _lambda $0 e ( _exists $1 ( _and ( _oneway $1 ) ( _from $1 tacoma:_ci ) ( _to $1 montreal:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+shortest flight from ontario california to orlando florida	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 ontario:_ci ) ( _to $0 orlando:_ci ) ) ( _time_elapsed $0 ) )

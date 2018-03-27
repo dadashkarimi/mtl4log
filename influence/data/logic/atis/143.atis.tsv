@@ -1,0 +1,1 @@
+cheapest fare from indianapolis to seattle	( _min $0 ( _exists $1 ( _and ( _from $1 indianapolis:_ci ) ( _to $1 seattle:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

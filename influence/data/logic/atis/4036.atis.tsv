@@ -1,0 +1,1 @@
+i need to fly from boston to baltimore please give me the times of your flights in the morning before 8 o'clock	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _< ( _departure_time $1 ) 800:_ti ) ( _from $1 boston:_ci ) ( _to $1 baltimore:_ci ) ( _during_day $1 morning:_pd ) ( _= ( _departure_time $1 ) $0 ) ) ) )

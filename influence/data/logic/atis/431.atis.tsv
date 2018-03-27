@@ -1,0 +1,1 @@
+i need a return flight from chicago to kansas city leaving chicago around 7 in the evening next thursday	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_departure_time $0 1900:_ti ) ( _from $0 chicago:_ci ) ( _to $0 kansas_city:_ci ) ( _day $0 thursday:_da ) ) )

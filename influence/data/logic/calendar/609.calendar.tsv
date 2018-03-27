@@ -1,0 +1,1 @@
+show me any meetings that alice or bob have attended	( call SW.listValue ( call SW.concat en.person.alice en.person.bob ) )

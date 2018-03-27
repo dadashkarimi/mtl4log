@@ -1,0 +1,1 @@
+what are the flights for united airlines on september twentieth in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _during_day $0 morning:_pd ) ( _day_number $0 20:_dn ) ( _month $0 september:_mn ) ) )

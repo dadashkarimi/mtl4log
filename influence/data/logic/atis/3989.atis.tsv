@@ -1,0 +1,1 @@
+how much is a limousine between dallas fort worth international airport and dallas	( _lambda $0 e ( _exists $1 ( _and ( _limousine $1 ) ( _to_city $1 dallas:_ci ) ( _from_airport $1 dallas:_ci ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

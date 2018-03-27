@@ -1,0 +1,1 @@
+what article cites an article from annals of statistics	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string cites ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) ) )

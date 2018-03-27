@@ -1,0 +1,1 @@
+now list for me only the united flights that flight from oakland to boston	( _lambda $0 e ( _and ( _flight $0 ) ( _flight $0 ) ( _airline $0 ua:_al ) ( _from $0 oakland:_ci ) ( _to $0 boston:_ci ) ) )

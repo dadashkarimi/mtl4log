@@ -1,0 +1,1 @@
+is there a flight in the afternoon from philadelphia that arrives in the evening in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 evening:_pd ) ( _during_day $0 afternoon:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 denver:_ci ) ) )

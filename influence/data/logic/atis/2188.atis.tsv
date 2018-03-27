@@ -1,0 +1,1 @@
+show me the daily flight schedule between boston and pittsburgh	( _lambda $0 e ( _exists $1 ( _and ( _daily $1 ) ( _from $1 boston:_ci ) ( _to $1 pittsburgh:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

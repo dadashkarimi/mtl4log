@@ -1,0 +1,1 @@
+show me the flights from st. petersburg to toronto that arrive early in the morning	( _lambda $0 e ( _and ( _during_day_arrival $0 morning:_pd ) ( _during_day_arrival $0 early:_pd ) ( _to $0 toronto:_ci ) ( _from $0 st_petersburg:_ci ) ( _flight $0 ) ) )

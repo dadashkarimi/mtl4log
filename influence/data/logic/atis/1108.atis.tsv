@@ -1,0 +1,1 @@
+i would like to see information for flights from san francisco leaving after 12pm to pittsburgh on monday	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ) )

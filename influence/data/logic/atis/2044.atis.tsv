@@ -1,0 +1,1 @@
+is there an airline that services boston dc and dallas	( _lambda $0 e ( _and ( _airline $0 ) ( _services $0 boston:_ci ) ( _services $0 washington:_ci ) ( _services $0 dallas:_ci ) ) )

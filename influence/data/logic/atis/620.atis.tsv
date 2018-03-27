@@ -1,0 +1,1 @@
+what is the lowest price fare from atlanta to san francisco on flight delta 82 and delta 139	( _min $0 ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _or ( _flight_number $1 82:_fn ) ( _flight_number $1 139:_fn ) ) ( _from $1 atlanta:_ci ) ( _to $1 san_francisco:_ci ) ) ) )

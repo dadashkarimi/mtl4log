@@ -1,0 +1,1 @@
+find me the latest return flight from atlanta to boston on the same day	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 boston:_ci ) ) ( _departure_time $0 ) )

@@ -1,0 +1,1 @@
+show me all flights on southwest airlines from san diego to san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 wn:_al ) ( _from $0 san_diego:_ci ) ( _to $0 san_francisco:_ci ) ) )

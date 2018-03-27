@@ -1,0 +1,1 @@
+what are my choices of flights to get from charlotte to minneapolis arriving about 7pm in minneapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1900:_ti ) ( _from $0 charlotte:_ci ) ( _to $0 minneapolis:_ci ) ) )

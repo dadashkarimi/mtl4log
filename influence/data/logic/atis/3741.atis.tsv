@@ -1,0 +1,1 @@
+give me a flight from baltimore to newark that arrives as early as possible	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 newark:_ci ) ) ( _arrival_time $0 ) )

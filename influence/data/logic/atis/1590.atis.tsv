@@ -1,0 +1,1 @@
+i'd like to go to boston from denver and i'd like to get there	( _lambda $0 e ( _and ( _from $0 denver:_ci ) ( _to $0 boston:_ci ) ) )

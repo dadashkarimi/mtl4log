@@ -1,0 +1,1 @@
+what is the cost of flight dl 106 from philadelphia to boston	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _flight_number $1 106:_fn ) ( _from $1 philadelphia:_ci ) ( _to $1 boston:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

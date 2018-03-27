@@ -1,0 +1,1 @@
+where does delta fly to that american doesn't	( _lambda $0 e ( _and ( _airport $0 ) ( _exists $1 ( _and ( _flight $1 ) ( _to $1 $0 ) ( _airline $1 dl:_al ) ) ) ( _not ( _exists $1 ( _and ( _flight $1 ) ( _to $1 $0 ) ( _airline $1 aa:_al ) ) ) ) ) )

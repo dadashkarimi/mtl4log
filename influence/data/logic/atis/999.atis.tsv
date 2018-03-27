@@ -1,0 +1,1 @@
+i want to know the time of the latest flight i can take from washington to san francisco where i can get a dinner meal	( _departure_time ( _argmax $0 ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _from $0 washington:_ci ) ( _to $0 san_francisco:_ci ) ) ( _departure_time $0 ) ) )

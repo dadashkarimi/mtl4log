@@ -1,0 +1,1 @@
+show me all the information about the flight from baltimore to dallas which is listed dl 1055 / dl 405	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _or ( _flight_number $0 1055:_fn ) ( _flight_number $0 405:_fn ) ) ( _from $0 baltimore:_ci ) ( _to $0 dallas:_ci ) ) )

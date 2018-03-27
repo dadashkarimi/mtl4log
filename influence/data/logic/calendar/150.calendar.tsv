@@ -1,0 +1,1 @@
+show me all meetings scheduled to be three hours or one hour long	( call SW.listValue ( call SW.concat ( number 3 en.hour ) ( number 1 en.hour ) ) )

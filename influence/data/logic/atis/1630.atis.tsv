@@ -1,0 +1,1 @@
+how many american airline flights leave denver june tenth	( _count $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 denver:_ci ) ( _day_number $0 10:_dn ) ( _month $0 june:_mn ) ) )

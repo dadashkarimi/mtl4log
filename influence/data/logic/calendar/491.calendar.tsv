@@ -1,0 +1,1 @@
+show me all meetings which begin at the same time the weekly standup ends	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string start_time ) ( string = ) ( call SW.getProperty en.meeting.weekly_standup ( string end_time ) ) ) )

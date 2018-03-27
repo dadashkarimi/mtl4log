@@ -1,0 +1,1 @@
+what flights are there arriving in chicago on continental after 11pm	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _> ( _arrival_time $0 ) 2300:_ti ) ( _to $0 chicago:_ci ) ) )

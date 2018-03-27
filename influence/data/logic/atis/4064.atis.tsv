@@ -1,0 +1,1 @@
+what is the first class fare on united flight 352 from denver to boston	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ua:_al ) ( _class_type $1 first:_cl ) ( _flight_number $1 352:_fn ) ( _from $1 denver:_ci ) ( _to $1 boston:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

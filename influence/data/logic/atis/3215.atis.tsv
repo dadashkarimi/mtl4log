@@ -1,0 +1,1 @@
+show me flights on sunday going from san francisco to boston nonstop first class leaving after 12 noon	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _class_type $0 first:_cl ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ( _day $0 sunday:_da ) ) )

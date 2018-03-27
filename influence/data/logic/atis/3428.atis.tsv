@@ -1,0 +1,1 @@
+show me the northwest flights from detroit to st. petersburg	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _from $0 detroit:_ci ) ( _to $0 st_petersburg:_ci ) ) )

@@ -1,0 +1,1 @@
+what is the earliest flight leaving boston and going to washington on september third	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ( _day_number $0 3:_dn ) ( _month $0 september:_mn ) ) ( _departure_time $0 ) )

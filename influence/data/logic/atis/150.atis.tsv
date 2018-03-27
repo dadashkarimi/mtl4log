@@ -1,0 +1,1 @@
+okay that one's great too now we're going to go on april twenty second dallas to washington the latest nighttime departure one way	( _departure_time ( _argmax $0 ( _and ( _oneway $0 ) ( _during_day $0 late:_pd ) ( _from $0 dallas:_ci ) ( _to $0 washington:_ci ) ( _day_number $0 22:_dn ) ( _month $0 april:_mn ) ) ( _departure_time $0 ) ) )

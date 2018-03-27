@@ -1,0 +1,1 @@
+show me flights to dallas from san francisco and atlanta and pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 san_francisco:_ci ) ( _from $0 pittsburgh:_ci ) ( _from $0 atlanta:_ci ) ) ( _to $0 dallas:_ci ) ) )

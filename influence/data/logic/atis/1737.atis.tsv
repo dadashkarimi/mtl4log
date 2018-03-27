@@ -1,0 +1,1 @@
+what are the cheapest fares for flights from newark to la leaving wednesday after 3pm	( _min $0 ( _exists $1 ( _and ( _flight $1 ) ( _> ( _departure_time $1 ) 1500:_ti ) ( _from $1 newark:_ci ) ( _to $1 los_angeles:_ci ) ( _day $1 wednesday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

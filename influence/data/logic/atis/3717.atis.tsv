@@ -1,0 +1,1 @@
+flights from indianapolis nashville memphis to seattle	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _from $0 nashville:_ci ) ( _from $0 memphis:_ci ) ( _from $0 indianapolis:_ci ) ) ( _to $0 seattle:_ci ) ) )

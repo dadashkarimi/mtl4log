@@ -1,0 +1,1 @@
+i'd like a flight on united airlines from dallas to san francisco that leaves after 815am	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _> ( _departure_time $0 ) 815:_ti ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) )

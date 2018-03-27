@@ -1,0 +1,1 @@
+i would like to find a flight from pittsburgh to boston on wednesday and i have to be in boston by one so i'd like a flight out of here no later than 11am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1300:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 boston:_ci ) ( _day $0 wednesday:_da ) ( _> ( _departure_time $0 ) 1100:_ti ) ) )

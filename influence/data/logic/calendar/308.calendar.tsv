@@ -1,0 +1,1 @@
+how many meetings are scheduled	( call SW.listValue ( call .size ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ) )

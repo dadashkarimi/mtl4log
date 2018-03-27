@@ -1,0 +1,1 @@
+is this meeting three hours long or an hour long	( call SW.listValue ( call SW.concat ( number 3 en.hour ) ( number 1 en.hour ) ) )

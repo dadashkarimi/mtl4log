@@ -1,0 +1,1 @@
+i am also interested in a flight that runs from st. louis to las vegas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 st_louis:_ci ) ( _to $0 las_vegas:_ci ) ) )

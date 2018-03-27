@@ -1,0 +1,1 @@
+show me all 3 hour meetings with alice	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string length ) ( string = ) ( number 3 en.hour ) ) ( string attendee ) ( string = ) en.person.alice ) )

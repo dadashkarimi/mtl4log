@@ -1,0 +1,1 @@
+i need a listing of flights from kansas city missouri to salt lake city utah	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 kansas_city:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

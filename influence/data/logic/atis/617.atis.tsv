@@ -1,0 +1,1 @@
+does the phoenix airport have ground transportation to and from downtown	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 phoenix:_ci ) ( _from_airport $0 phoenix:_ci ) ) )

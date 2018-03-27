@@ -1,0 +1,1 @@
+list nonstop flights from los angeles to pittsburgh which arrive on monday after 5pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _from $0 los_angeles:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_arrival $0 monday:_da ) ) )

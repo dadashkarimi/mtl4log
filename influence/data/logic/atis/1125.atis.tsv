@@ -1,0 +1,1 @@
+what is the schedule of ground transportation from the airport in philadelphia into downtown	( _lambda $0 e ( _exists $1 ( _and ( _ground_transport $1 ) ( _to_city $1 philadelphia:_ci ) ( _from_airport $1 philadelphia:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

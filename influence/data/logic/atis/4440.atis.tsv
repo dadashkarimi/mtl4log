@@ -1,0 +1,1 @@
+show me round trips from houston to las vegas nonstop	( _lambda $0 e ( _and ( _nonstop $0 ) ( _round_trip $0 ) ( _from $0 houston:_ci ) ( _to $0 las_vegas:_ci ) ) )

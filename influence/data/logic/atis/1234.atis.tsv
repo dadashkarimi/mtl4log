@@ -1,0 +1,1 @@
+do you have a flight from salt lake city to st. petersburg	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 st_petersburg:_ci ) ) )

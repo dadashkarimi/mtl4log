@@ -1,0 +1,1 @@
+which airline serves denver pittsburgh and atlanta	( _lambda $0 e ( _and ( _airline $0 ) ( _services $0 pittsburgh:_ci ) ( _services $0 denver:_ci ) ( _services $0 atlanta:_ci ) ) )

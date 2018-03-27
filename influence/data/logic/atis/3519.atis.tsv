@@ -1,0 +1,1 @@
+hi i need to go from cincinnati to san jose california after 6pm on saturday	( _lambda $0 e ( _and ( _> ( _departure_time $0 ) 1800:_ti ) ( _from $0 cincinnati:_ci ) ( _to $0 san_jose:_ci ) ( _day $0 saturday:_da ) ) )

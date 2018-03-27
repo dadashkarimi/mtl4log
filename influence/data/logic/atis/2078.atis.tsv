@@ -1,0 +1,1 @@
+what kind of airplanes are used by delta airlines flying between washington and denver	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _from $1 washington:_ci ) ( _to $1 denver:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

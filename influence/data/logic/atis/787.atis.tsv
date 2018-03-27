@@ -1,0 +1,1 @@
+please list all flights into denver before noon on united airlines and northwest airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _airline $0 ua:_al ) ( _airline $0 nw:_al ) ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _to $0 denver:_ci ) ) )

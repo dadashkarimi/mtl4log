@@ -1,0 +1,1 @@
+is there a direct flight from denver to pittsburgh in the morning of august thirty first that is nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _nonstop $0 ) ( _during_day $0 morning:_pd ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 31:_dn ) ( _month $0 august:_mn ) ) )

@@ -1,0 +1,1 @@
+what is the cheapest flight from denver to pittsburgh on july twenty sixth	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 26:_dn ) ( _month $0 july:_mn ) ) ( _fare $0 ) )

@@ -1,0 +1,1 @@
+looking for a flight from cleveland to dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 dallas:_ci ) ) )

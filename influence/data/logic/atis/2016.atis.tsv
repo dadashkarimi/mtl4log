@@ -1,0 +1,1 @@
+which flights depart burbank after noon and arrive in denver by 6pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _arrival_time $0 ) 1800:_ti ) ( _from $0 burbank:_ci ) ( _to $0 denver:_ci ) ) )

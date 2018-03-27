@@ -1,0 +1,1 @@
+i need to take ten people from phoenix to san diego please give me the flights during week days	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 phoenix:_ci ) ( _to $0 san_diego:_ci ) ( _weekday $0 ) ) )

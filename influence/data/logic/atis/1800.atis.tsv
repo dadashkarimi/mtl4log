@@ -1,0 +1,1 @@
+what flights between dfw and oakland arrive in oakland between 1133am and 43pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1133:_ti ) ( _< ( _arrival_time $0 ) 2023:_ti ) ( _from $0 dfw:_ap ) ( _to $0 oakland:_ci ) ) )

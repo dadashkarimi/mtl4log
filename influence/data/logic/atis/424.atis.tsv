@@ -1,0 +1,1 @@
+show me all flights direct and connecting from boston to pittsburgh that arrive in pittsburgh before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1000:_ti ) ( _from $0 boston:_ci ) ( _to $0 pittsburgh:_ci ) ( _or ( _nonstop $0 ) ( _connecting $0 ) ) ) )

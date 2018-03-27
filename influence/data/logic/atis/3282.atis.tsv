@@ -1,0 +1,1 @@
+show me airports near washington dc	( _lambda $0 e ( _and ( _airport $0 ) ( _loc:_t $0 washington:_ci ) ) )

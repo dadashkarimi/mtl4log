@@ -1,0 +1,1 @@
+all flights pittsburgh to baltimore on thursday arrival by 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1000:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 baltimore:_ci ) ( _day $0 thursday:_da ) ) )

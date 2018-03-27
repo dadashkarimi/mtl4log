@@ -1,0 +1,1 @@
+i need a flight from st. petersburg to charlotte which will get me into charlotte by 5pm or as soon thereafter as possible	( _argmin $0 ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _< ( _arrival_time $0 ) 1700:_ti ) ( _from $0 st_petersburg:_ci ) ( _to $0 charlotte:_ci ) ) ( _arrival_time $0 ) )

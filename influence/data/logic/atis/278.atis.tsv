@@ -1,0 +1,1 @@
+what flights go from dallas to san francisco before 6 o'clock sunday afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1800:_ti ) ( _from $0 dallas:_ci ) ( _during_day $0 afternoon:_pd ) ( _to $0 san_francisco:_ci ) ( _day $0 sunday:_da ) ) )

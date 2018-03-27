@@ -1,0 +1,1 @@
+show me times for coach flights between boston and baltimore on wednesday	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _class_type $1 coach:_cl ) ( _from $1 boston:_ci ) ( _to $1 baltimore:_ci ) ( _day $1 wednesday:_da ) ( _= ( _departure_time $1 ) $0 ) ) ) )

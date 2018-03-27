@@ -1,0 +1,1 @@
+thank you i also need to travel next wednesday evening from dallas to san francisco	( _lambda $0 e ( _and ( _during_day $0 evening:_pd ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 wednesday:_da ) ) )

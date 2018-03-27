@@ -1,0 +1,1 @@
+is this meeting on january 2 or january 3	( call SW.listValue ( call SW.concat ( date 2015 1 2 ) ( date 2015 1 3 ) ) )

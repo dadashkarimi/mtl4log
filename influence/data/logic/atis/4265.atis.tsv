@@ -1,0 +1,1 @@
+what's a flight that goes from baltimore to seattle	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 seattle:_ci ) ) )

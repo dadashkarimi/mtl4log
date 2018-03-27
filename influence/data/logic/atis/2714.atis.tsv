@@ -1,0 +1,1 @@
+i'm looking for a flight from oakland to denver with a stopover in dallas fort worth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 oakland:_ci ) ( _to $0 denver:_ci ) ( _stop $0 dallas:_ci ) ) )

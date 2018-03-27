@@ -1,0 +1,1 @@
+show me all flights from boston to atlanta which leave atlanta after noon tomorrow	( _lambda $0 e ( _and ( _tomorrow $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 atlanta:_ci ) ( _from $0 boston:_ci ) ( _flight $0 ) ) )

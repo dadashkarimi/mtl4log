@@ -1,0 +1,1 @@
+northwest flights with stops in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _stop $0 denver:_ci ) ) )

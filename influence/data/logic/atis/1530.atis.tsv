@@ -1,0 +1,1 @@
+show me flights from washington to boston on friday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 boston:_ci ) ( _day $0 friday:_da ) ) )

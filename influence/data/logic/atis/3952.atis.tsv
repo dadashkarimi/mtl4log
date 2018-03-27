@@ -1,0 +1,1 @@
+show me the cities served by nationair	( _lambda $0 e ( _and ( _city $0 ) ( _services nx:_al $0 ) ) )

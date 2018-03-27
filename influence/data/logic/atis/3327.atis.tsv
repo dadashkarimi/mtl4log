@@ -1,0 +1,1 @@
+airline and flight number from columbus to minneapolis	( _lambda $0 e ( _lambda $1 e ( _exists $2 ( _and ( _flight $2 ) ( _from $2 columbus:_ci ) ( _to $2 minneapolis:_ci ) ( _= ( _airline:_e $2 ) $0 ) ( _= ( _flight_number $2 ) $1 ) ) ) ) )

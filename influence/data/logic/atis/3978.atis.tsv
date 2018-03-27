@@ -1,0 +1,1 @@
+what is the ground transportation available in fort worth texas	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 fort_worth:_ci ) ) )

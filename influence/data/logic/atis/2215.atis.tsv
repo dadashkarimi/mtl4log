@@ -1,0 +1,1 @@
+what is the arrival time in san francisco for the 755am flight leaving washington	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _departure_time $1 755:_ti ) ( _from $1 washington:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _arrival_time $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+show me the meetings scheduled earliest in the month	( call SW.listValue ( call SW.superlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string min ) ( call SW.ensureNumericProperty ( string date ) ) ) )

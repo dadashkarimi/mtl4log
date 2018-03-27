@@ -1,0 +1,1 @@
+show me the car rentals in baltimore	( _lambda $0 e ( _and ( _rental_car $0 ) ( _to_city $0 baltimore:_ci ) ) )

@@ -1,0 +1,1 @@
+what's the cheapest flight from baltimore to dallas on american	( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 baltimore:_ci ) ( _to $0 dallas:_ci ) ) ( _fare $0 ) )

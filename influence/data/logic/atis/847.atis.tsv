@@ -1,0 +1,1 @@
+where does canadian airlines international fly to	( _lambda $0 e ( _and ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 cp:_al ) ( _to $1 $0 ) ) ) ) )

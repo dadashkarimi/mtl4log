@@ -1,0 +1,1 @@
+what are the coach fares for flights from pittsburgh to denver	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _class_type $1 coach:_cl ) ( _from $1 pittsburgh:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

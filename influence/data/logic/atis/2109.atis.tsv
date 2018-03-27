@@ -1,0 +1,1 @@
+show me all flights on thursday from atlanta to oakland which arrive in oakland before 5 o'clock pm and serve a meal	( _lambda $0 e ( _and ( _flight $0 ) ( _has_meal $0 ) ( _< ( _arrival_time $0 ) 1700:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 oakland:_ci ) ( _day $0 thursday:_da ) ) )

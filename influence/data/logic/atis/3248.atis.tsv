@@ -1,0 +1,1 @@
+great now what i want to find out is on april twentieth from washington to denver do you have a flight least expensive fare around 5 o'clock in the morning	( _argmin $0 ( _and ( _flight $0 ) ( _approx_departure_time $0 500:_ti ) ( _from $0 washington:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 20:_dn ) ( _month $0 april:_mn ) ) ( _fare $0 ) )

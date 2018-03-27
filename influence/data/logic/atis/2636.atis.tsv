@@ -1,0 +1,1 @@
+show departures from atlanta for american	( _lambda $0 e ( _and ( _airline $0 aa:_al ) ( _from $0 atlanta:_ci ) ) )

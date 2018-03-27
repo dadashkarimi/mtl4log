@@ -1,0 +1,1 @@
+only show continental flights	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ) )

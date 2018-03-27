@@ -1,0 +1,1 @@
+what flights from detroit to st. petersburg	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 detroit:_ci ) ( _to $0 st_petersburg:_ci ) ) )

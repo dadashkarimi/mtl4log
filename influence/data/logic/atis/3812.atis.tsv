@@ -1,0 +1,1 @@
+list all flights from seattle on continental which depart after 430pm	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _> ( _departure_time $0 ) 1630:_ti ) ( _from $0 seattle:_ci ) ) )

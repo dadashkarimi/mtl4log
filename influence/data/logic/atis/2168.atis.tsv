@@ -1,0 +1,1 @@
+please give me the flights from denver to pittsburgh which leave in the morning on july second	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 2:_dn ) ( _month $0 july:_mn ) ) )

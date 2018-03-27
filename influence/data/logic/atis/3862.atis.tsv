@@ -1,0 +1,1 @@
+what is the earliest american airlines flight leaving philadelphia for dallas	( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ) ( _departure_time $0 ) )

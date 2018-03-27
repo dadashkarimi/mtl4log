@@ -1,0 +1,1 @@
+i'd like to fly nonstop from atlanta to baltimore and get there at 7pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _arrival_time $0 1900:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ) )

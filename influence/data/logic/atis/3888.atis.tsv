@@ -1,0 +1,1 @@
+show me prices and times for first class travel from baltimore to dallas next summer	( _lambda $0 e ( _lambda $1 e ( _exists $2 ( _and ( _flight $2 ) ( _class_type $2 first:_cl ) ( _from $2 baltimore:_ci ) ( _to $2 dallas:_ci ) ( _= ( _fare $2 ) $0 ) ( _= ( _departure_time $2 ) $1 ) ) ) ) )

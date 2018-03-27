@@ -1,0 +1,1 @@
+flights from nashville to seattle	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 nashville:_ci ) ( _to $0 seattle:_ci ) ) )

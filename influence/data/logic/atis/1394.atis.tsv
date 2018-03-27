@@ -1,0 +1,1 @@
+flights from newark to boston	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 newark:_ci ) ( _to $0 boston:_ci ) ) )

@@ -1,0 +1,1 @@
+which northwest flights stop in denver before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _stop $0 denver:_ci ) ) )

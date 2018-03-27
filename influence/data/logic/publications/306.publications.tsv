@@ -1,0 +1,1 @@
+how many journals are there	( call SW.listValue ( call .size ( call SW.getProperty ( call SW.singleton en.venue ) ( string ! type ) ) ) )

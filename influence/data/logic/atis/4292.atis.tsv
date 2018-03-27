@@ -1,0 +1,1 @@
+what are the flights from milwaukee to tampa	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 tampa:_ci ) ) )

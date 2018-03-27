@@ -1,0 +1,1 @@
+what are the rental car rates in dallas	( _lambda $0 e ( _exists $1 ( _and ( _rental_car $1 ) ( _to_city $1 dallas:_ci ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

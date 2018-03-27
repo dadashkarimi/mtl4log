@@ -1,0 +1,1 @@
+i need a flight from san francisco to pittsburgh from pittsburgh to new york and then new york to san francisco	( _lambda $0 e ( _lambda $1 e ( _lambda $2 e ( _and ( _flight $0 ) ( _flight $1 ) ( _flight $2 ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _from $1 pittsburgh:_ci ) ( _to $1 new_york:_ci ) ( _from $2 new_york:_ci ) ( _to $2 san_francisco:_ci ) ) ) ) )

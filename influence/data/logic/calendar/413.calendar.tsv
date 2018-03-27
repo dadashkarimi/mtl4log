@@ -1,0 +1,1 @@
+what is the number of the person	( call SW.listValue ( call .size ( call SW.getProperty ( call SW.singleton en.person ) ( string ! type ) ) ) )

@@ -1,0 +1,1 @@
+please give me a flight leaving boston going to washington arriving in washington at 5 o'clock in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _arrival_time $0 1700:_ti ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ) )

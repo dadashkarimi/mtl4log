@@ -1,0 +1,1 @@
+how many people fly on a turboprop	( _lambda $0 e ( _exists $1 ( _and ( _turboprop $1 ) ( _= ( _capacity $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+what is the location of the meeting that alice is attending	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.location ) ( string ! type ) ) ( call SW.reverse ( string location ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string = ) en.person.alice ) ) )

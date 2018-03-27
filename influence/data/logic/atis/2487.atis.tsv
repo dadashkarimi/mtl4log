@@ -1,0 +1,1 @@
+can i get from dallas to san francisco leaving in the morning and arriving in the morning	( _lambda $0 e ( _and ( _during_day_arrival $0 morning:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) )

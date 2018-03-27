@@ -1,0 +1,1 @@
+what flights are available from denver to baltimore first class on united airlines arriving may seventh before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _month_arrival $0 may:_mn ) ( _day_number_arrival $0 7:_dn ) ) )

@@ -1,0 +1,1 @@
+is there a round trip flight from atlanta to dallas via denver	( _lambda $0 e ( _and ( _flight $0 ) ( _round_trip $0 ) ( _from $0 atlanta:_ci ) ( _to $0 dallas:_ci ) ( _stop $0 denver:_ci ) ) )

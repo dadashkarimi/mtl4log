@@ -1,0 +1,1 @@
+what flights from salt lake city to las vegas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 las_vegas:_ci ) ) )

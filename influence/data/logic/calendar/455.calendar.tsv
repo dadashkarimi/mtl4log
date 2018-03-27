@@ -1,0 +1,1 @@
+what meeting has a location at greenberg cafe and starts at 10am	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string location ) ( string = ) en.location.greenberg_cafe ) ( string start_time ) ( string = ) ( time 10 0 ) ) )

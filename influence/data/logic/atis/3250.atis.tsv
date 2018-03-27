@@ -1,0 +1,1 @@
+find me the latest flight leaving atlanta august seventh and arriving in denver	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 7:_dn ) ( _month $0 august:_mn ) ) ( _departure_time $0 ) )

@@ -1,0 +1,1 @@
+does northwest fly into denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _to $0 denver:_ci ) ) )

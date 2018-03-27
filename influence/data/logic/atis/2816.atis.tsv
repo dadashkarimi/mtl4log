@@ -1,0 +1,1 @@
+find a nonstop flight between denver and oakland leaving in the afternoon and arriving near 5pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _approx_arrival_time $0 1700:_ti ) ( _during_day $0 afternoon:_pd ) ( _from $0 denver:_ci ) ( _to $0 oakland:_ci ) ) )

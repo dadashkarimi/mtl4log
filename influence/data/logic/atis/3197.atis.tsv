@@ -1,0 +1,1 @@
+what is the last flight leaving san francisco going to washington on friday	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 washington:_ci ) ( _day $0 friday:_da ) ) ( _departure_time $0 ) )

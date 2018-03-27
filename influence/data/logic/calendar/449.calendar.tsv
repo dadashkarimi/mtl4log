@@ -1,0 +1,1 @@
+which meeting is scheduled on the latest date	( call SW.listValue ( call SW.superlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string max ) ( call SW.ensureNumericProperty ( string date ) ) ) )

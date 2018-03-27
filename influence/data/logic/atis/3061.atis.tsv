@@ -1,0 +1,1 @@
+show me all flights from toronto	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 toronto:_ci ) ) )

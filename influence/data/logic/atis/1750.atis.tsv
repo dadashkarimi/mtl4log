@@ -1,0 +1,1 @@
+i'd like to travel from boston to baltimore on us air 269 please tell me the times	( _lambda $0 e ( _exists $1 ( _and ( _= ( _departure_time $1 ) $0 ) ( _airline $1 us:_al ) ( _to $1 baltimore:_ci ) ( _from $1 boston:_ci ) ( _flight_number $1 269:_fn ) ) ) )

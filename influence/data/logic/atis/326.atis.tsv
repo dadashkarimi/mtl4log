@@ -1,0 +1,1 @@
+show me all twa flights please	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 tw:_al ) ) )

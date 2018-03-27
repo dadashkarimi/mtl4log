@@ -1,0 +1,1 @@
+what are the flights from cleveland to indianapolis on wednesday may twelfth on either twa delta or continental	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _airline $0 tw:_al ) ( _airline $0 dl:_al ) ( _airline $0 co:_al ) ) ( _from $0 cleveland:_ci ) ( _to $0 indianapolis:_ci ) ( _day $0 wednesday:_da ) ( _day_number $0 12:_dn ) ( _month $0 may:_mn ) ) )

@@ -1,0 +1,1 @@
+show me the itinerary for the connecting flight from dallas fort worth to san francisco that departs dallas fort worth at 1940	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 1940:_ti ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ) )

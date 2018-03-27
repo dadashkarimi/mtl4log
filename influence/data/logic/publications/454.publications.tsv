@@ -1,0 +1,1 @@
+awardwinning articles cited in multivariate data analysis	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( call SW.reverse ( string cites ) ) ( string = ) en.article.multivariate_data_analysis ) ( string won_award ) ) )

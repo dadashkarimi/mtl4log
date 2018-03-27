@@ -1,0 +1,1 @@
+how far is the airport from downtown pittsburgh	( _lambda $0 e ( _and ( _miles_distant $0 ) ( _to_city $0 pittsburgh:_ci ) ( _from_airport $0 pittsburgh:_ci ) ) )

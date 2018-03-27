@@ -1,0 +1,1 @@
+i'd like a limo in denver on august seventh	( _lambda $0 e ( _and ( _limousine $0 ) ( _to_city $0 denver:_ci ) ( _day_number $0 7:_dn ) ( _month $0 august:_mn ) ) )

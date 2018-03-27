@@ -1,0 +1,1 @@
+i want to fly from cleveland to san diego tomorrow and stop in indianapolis	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 san_diego:_ci ) ( _stop $0 indianapolis:_ci ) ( _tomorrow $0 ) ) )

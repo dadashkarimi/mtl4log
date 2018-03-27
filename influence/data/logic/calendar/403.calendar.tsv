@@ -1,0 +1,1 @@
+important meetings at greenberg cafe	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string is_important ) ) ( string location ) ( string = ) en.location.greenberg_cafe ) )

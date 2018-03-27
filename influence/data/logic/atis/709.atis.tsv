@@ -1,0 +1,1 @@
+i need a flight leaving pittsburgh next monday arriving in fort worth before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1000:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 fort_worth:_ci ) ( _day $0 monday:_da ) ) )

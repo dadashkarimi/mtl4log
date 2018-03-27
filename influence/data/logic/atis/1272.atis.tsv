@@ -1,0 +1,1 @@
+what are the lowest one way fares from atlanta to denver	( _min $0 ( _exists $1 ( _and ( _oneway $1 ) ( _from $1 atlanta:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

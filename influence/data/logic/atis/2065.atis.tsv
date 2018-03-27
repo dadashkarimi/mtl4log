@@ -1,0 +1,1 @@
+show me all the flights on united leaving from boston	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _from $0 boston:_ci ) ) )

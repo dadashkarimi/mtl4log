@@ -1,0 +1,1 @@
+please list the friday night flights from st. paul to kansas city	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 late:_pd ) ( _from $0 st_paul:_ci ) ( _to $0 kansas_city:_ci ) ( _day $0 friday:_da ) ) )

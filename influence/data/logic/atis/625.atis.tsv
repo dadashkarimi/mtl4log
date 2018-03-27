@@ -1,0 +1,1 @@
+flights from atlanta please	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ) )

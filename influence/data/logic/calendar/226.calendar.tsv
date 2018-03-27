@@ -1,0 +1,1 @@
+show me all attendees of meetings marked important	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.person ) ( string ! type ) ) ( call SW.reverse ( string attendee ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string is_important ) ) ) )

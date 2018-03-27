@@ -1,0 +1,1 @@
+i am looking to get one air fare from baltimore to san francisco on a 747 leaving august twenty seventh	( _lambda $0 e ( _exists $1 ( _and ( _aircraft_code $1 747:_ac ) ( _from $1 baltimore:_ci ) ( _to $1 san_francisco:_ci ) ( _day_number $1 27:_dn ) ( _month $1 august:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

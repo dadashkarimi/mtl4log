@@ -1,0 +1,1 @@
+how much is a round trip first class fare between boston and washington	( _lambda $0 e ( _exists $1 ( _and ( _round_trip $1 ) ( _class_type $1 first:_cl ) ( _from $1 boston:_ci ) ( _to $1 washington:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

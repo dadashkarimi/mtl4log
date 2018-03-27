@@ -1,0 +1,1 @@
+on tuesday the twenty third flights from philadelphia to san francisco on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 philadelphia:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 tuesday:_da ) ( _day_number $0 23:_dn ) ) )

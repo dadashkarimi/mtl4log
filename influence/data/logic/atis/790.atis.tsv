@@ -1,0 +1,1 @@
+are there any flights on june eleventh from st. petersburg to milwaukee	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 st_petersburg:_ci ) ( _to $0 milwaukee:_ci ) ( _day_number $0 11:_dn ) ( _month $0 june:_mn ) ) )

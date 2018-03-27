@@ -1,0 +1,1 @@
+what is the cheapest one way fare from san francisco to boston on wednesday august twenty first	( _min $0 ( _exists $1 ( _and ( _oneway $1 ) ( _from $1 san_francisco:_ci ) ( _to $1 boston:_ci ) ( _day $1 wednesday:_da ) ( _day_number $1 21:_dn ) ( _month $1 august:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

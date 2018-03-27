@@ -1,0 +1,1 @@
+show me all meetings that have at most two locations	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string location ) ( string <= ) ( number 2 ) ) )

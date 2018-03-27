@@ -1,0 +1,1 @@
+cheapest flight from miami to indianapolis	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 miami:_ci ) ( _to $0 indianapolis:_ci ) ) ( _fare $0 ) )

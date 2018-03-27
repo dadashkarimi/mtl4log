@@ -1,0 +1,1 @@
+what are the prices of these flights	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _= ( _fare $1 ) $0 ) ) ) )

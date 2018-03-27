@@ -1,0 +1,1 @@
+what is the next flight from pittsburgh to san francisco after delta flight 1059	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _> ( _departure_time $0 ) ( _departure_time ( _the $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _flight_number $1 1059:_fn ) ) ) ) ) ) ( _departure_time $0 ) )

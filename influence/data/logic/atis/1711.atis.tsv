@@ -1,0 +1,1 @@
+what flights depart from pittsburgh and arrive in oakland california	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 oakland:_ci ) ) )

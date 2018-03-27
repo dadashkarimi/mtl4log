@@ -1,0 +1,1 @@
+give me the cheapest flight from dallas to baltimore on saturday	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _day $0 saturday:_da ) ) ( _fare $0 ) )

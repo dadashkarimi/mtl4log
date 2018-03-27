@@ -1,0 +1,1 @@
+how many daily us air flights are there between philadelphia and pittsburgh	( _count $0 ( _and ( _flight $0 ) ( _daily $0 ) ( _airline $0 us:_al ) ( _from $0 philadelphia:_ci ) ( _to $0 pittsburgh:_ci ) ) )

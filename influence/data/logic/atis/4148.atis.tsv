@@ -1,0 +1,1 @@
+what flights does delta have between dallas and denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 dallas:_ci ) ( _to $0 denver:_ci ) ) )

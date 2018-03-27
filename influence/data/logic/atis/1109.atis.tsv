@@ -1,0 +1,1 @@
+please list fares for all the flights from atlanta to philadelphia on august the first	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 atlanta:_ci ) ( _to $1 philadelphia:_ci ) ( _day_number $1 1:_dn ) ( _month $1 august:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

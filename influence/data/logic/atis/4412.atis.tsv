@@ -1,0 +1,1 @@
+bring up flights from milwaukee to orlando on wednesday night or thursday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 milwaukee:_ci ) ( _to $0 orlando:_ci ) ( _or ( _and ( _day $0 wednesday:_da ) ( _during_day $0 late:_pd ) ) ( _and ( _day $0 thursday:_da ) ( _during_day $0 morning:_pd ) ) ) ) )

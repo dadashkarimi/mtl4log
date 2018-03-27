@@ -1,0 +1,1 @@
+show me the latest nonstop flight from denver to washington dc	( _argmax $0 ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 denver:_ci ) ( _to $0 washington:_ci ) ) ( _departure_time $0 ) )

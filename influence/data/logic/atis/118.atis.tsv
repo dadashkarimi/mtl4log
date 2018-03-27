@@ -1,0 +1,1 @@
+show me one way flights from tampa to st. louis departing before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _oneway $0 ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 tampa:_ci ) ( _to $0 st_louis:_ci ) ) )

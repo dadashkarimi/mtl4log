@@ -1,0 +1,1 @@
+what time does the weekly stand up end	( call SW.listValue ( call SW.getProperty en.meeting.weekly_standup ( string end_time ) ) )

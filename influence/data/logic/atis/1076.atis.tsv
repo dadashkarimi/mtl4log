@@ -1,0 +1,1 @@
+show me flights on september twenty sixth please	( _lambda $0 e ( _and ( _flight $0 ) ( _day_number $0 26:_dn ) ( _month $0 september:_mn ) ) )

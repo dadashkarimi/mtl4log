@@ -1,0 +1,1 @@
+show me all the flights from denver and all the flights from miami that arrive at baltimore around noon	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1200:_ti ) ( _or ( _from $0 denver:_ci ) ( _from $0 miami:_ci ) ) ( _to $0 baltimore:_ci ) ) )

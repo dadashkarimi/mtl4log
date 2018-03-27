@@ -1,0 +1,1 @@
+show me the flights arriving on baltimore on june fourteenth	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 baltimore:_ci ) ( _month_arrival $0 june:_mn ) ( _day_number_arrival $0 14:_dn ) ) )

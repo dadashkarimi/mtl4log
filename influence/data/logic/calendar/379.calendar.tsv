@@ -1,0 +1,1 @@
+show me important meetings with alice	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string is_important ) ) ( string attendee ) ( string = ) en.person.alice ) )

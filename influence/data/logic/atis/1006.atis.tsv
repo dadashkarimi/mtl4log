@@ -1,0 +1,1 @@
+what are the flights from new york city to las vegas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 new_york:_ci ) ( _to $0 las_vegas:_ci ) ) )

@@ -1,0 +1,1 @@
+is the meeting at 10am or 3pm	( call SW.listValue ( call SW.concat ( time 10 0 ) ( time 15 0 ) ) )

@@ -1,0 +1,1 @@
+what are the fares for flights from charlotte to newark on tuesday and wednesday	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 charlotte:_ci ) ( _to $1 newark:_ci ) ( _or ( _day $1 tuesday:_da ) ( _day $1 wednesday:_da ) ) ( _= ( _fare $1 ) $0 ) ) ) )

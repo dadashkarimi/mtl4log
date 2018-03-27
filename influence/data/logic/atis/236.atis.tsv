@@ -1,0 +1,1 @@
+and how much does it cost to travel from boston airport to downtown	( _lambda $0 e ( _exists $1 ( _and ( _to_city $1 boston:_ci ) ( _from_airport $1 bos:_ap ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

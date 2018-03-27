@@ -1,0 +1,1 @@
+i would like to fly from boston to baltimore in the afternoon what flights are there	( _lambda $0 e ( _and ( _flight $0 ) ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 boston:_ci ) ( _to $0 baltimore:_ci ) ) )

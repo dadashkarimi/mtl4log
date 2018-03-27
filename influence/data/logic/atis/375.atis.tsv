@@ -1,0 +1,1 @@
+what are the flights from denver to baltimore on august tenth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _day_number $0 10:_dn ) ( _month $0 august:_mn ) ) )

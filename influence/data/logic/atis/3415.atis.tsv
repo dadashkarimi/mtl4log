@@ -1,0 +1,1 @@
+what flight do you have from dallas to denver on august twenty seventh in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 dallas:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 27:_dn ) ( _month $0 august:_mn ) ) )

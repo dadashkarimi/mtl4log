@@ -1,0 +1,1 @@
+are there any flights from denver to pittsburgh with stops in atlanta	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 pittsburgh:_ci ) ( _stop $0 atlanta:_ci ) ) )

@@ -1,0 +1,1 @@
+okay what i would like to know is does twa flight 505 from charlotte to las vegas with a stop in st. louis serve dinner that's twa flight 505 or 163	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _airline $0 tw:_al ) ( _flight_number $0 505:_fn ) ( _from $0 charlotte:_ci ) ( _to $0 las_vegas:_ci ) ( _stop $0 st_louis:_ci ) ) )

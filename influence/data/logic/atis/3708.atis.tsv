@@ -1,0 +1,1 @@
+what is the cheapest fare i can get from dallas to denver	( _min $0 ( _exists $1 ( _and ( _from $1 dallas:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

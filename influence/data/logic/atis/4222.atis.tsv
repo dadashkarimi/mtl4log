@@ -1,0 +1,1 @@
+okay what i'd like to do on this one is go from washington to atlanta i want a nonstop and i'd like to leave around 5pm	( _lambda $0 e ( _and ( _nonstop $0 ) ( _approx_departure_time $0 1700:_ti ) ( _from $0 washington:_ci ) ( _to $0 atlanta:_ci ) ) )

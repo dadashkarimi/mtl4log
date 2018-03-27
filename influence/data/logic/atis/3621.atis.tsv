@@ -1,0 +1,1 @@
+what flights are there from nashville to houston tomorrow evening that serve dinner	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _during_day $0 evening:_pd ) ( _from $0 nashville:_ci ) ( _to $0 houston:_ci ) ( _tomorrow $0 ) ) )

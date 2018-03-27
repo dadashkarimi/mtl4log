@@ -1,0 +1,1 @@
+i'd like to go from st. paul to kansas city on friday with a meal	( _lambda $0 e ( _and ( _has_meal $0 ) ( _from $0 st_paul:_ci ) ( _to $0 kansas_city:_ci ) ( _day $0 friday:_da ) ) )

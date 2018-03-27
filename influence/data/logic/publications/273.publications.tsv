@@ -1,0 +1,1 @@
+what are some articles written by efron or lakoff	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string author ) ( string = ) ( call SW.concat en.person.efron en.person.lakoff ) ) )

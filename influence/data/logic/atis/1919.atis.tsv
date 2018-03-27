@@ -1,0 +1,1 @@
+what kinds of planes are used by midway airlines	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ml:_al ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

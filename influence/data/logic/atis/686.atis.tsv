@@ -1,0 +1,1 @@
+list the nonstop flights from miami to new york on a sunday along with the fares that are less than 466 dollars	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _< ( _fare $0 ) 466:_do ) ( _from $0 miami:_ci ) ( _to $0 new_york:_ci ) ( _day $0 sunday:_da ) ( _= ( _fare $0 ) $1 ) ) ) )

@@ -1,0 +1,1 @@
+show me the flights from atlanta to washington dc on wednesday night and thursday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 washington:_ci ) ( _or ( _and ( _during_day $0 late:_pd ) ( _day $0 wednesday:_da ) ) ( _and ( _during_day $0 morning:_pd ) ( _day $0 thursday:_da ) ) ) ) )

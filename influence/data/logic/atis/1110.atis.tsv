@@ -1,0 +1,1 @@
+show me all flights from boston to pittsburgh on wednesday of next week which leave boston after 2 o'clock pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1400:_ti ) ( _from $0 boston:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 wednesday:_da ) ) )

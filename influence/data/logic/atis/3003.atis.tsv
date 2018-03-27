@@ -1,0 +1,1 @@
+what is the flight number for the continental flight which leaves denver at 1220pm and goes to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 co:_al ) ( _departure_time $1 1220:_ti ) ( _from $1 denver:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _flight_number $1 ) $0 ) ) ) )

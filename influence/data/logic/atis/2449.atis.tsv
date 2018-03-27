@@ -1,0 +1,1 @@
+cheapest airfare from orlando to tacoma	( _min $0 ( _exists $1 ( _and ( _from $1 orlando:_ci ) ( _to $1 tacoma:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

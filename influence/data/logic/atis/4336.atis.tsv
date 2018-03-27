@@ -1,0 +1,1 @@
+list all the airlines that fly into general mitchell international	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _to $1 mke:_ap ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

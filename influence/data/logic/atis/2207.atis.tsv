@@ -1,0 +1,1 @@
+what flights are available from pittsburgh to boston on saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 boston:_ci ) ( _day $0 saturday:_da ) ) )

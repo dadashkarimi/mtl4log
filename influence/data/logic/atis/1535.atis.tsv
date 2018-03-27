@@ -1,0 +1,1 @@
+show me the earliest flight on wednesday from baltimore to newark	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 newark:_ci ) ( _day $0 wednesday:_da ) ) ( _departure_time $0 ) )

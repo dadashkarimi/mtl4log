@@ -1,0 +1,1 @@
+leave flight from boston to atlanta leave boston approximately 1pm	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_departure_time $0 1300:_ti ) ( _from $0 boston:_ci ) ( _to $0 atlanta:_ci ) ) )

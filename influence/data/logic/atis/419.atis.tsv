@@ -1,0 +1,1 @@
+i'm looking for a flight traveling from boston to denver one way and the cheapest way possible	( _argmin $0 ( _and ( _flight $0 ) ( _oneway $0 ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ) ( _fare $0 ) )

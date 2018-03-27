@@ -1,0 +1,1 @@
+i would like to find a flight that goes from la guardia airport to san jose i would like the flight to be on united airlines and arrive in san jose around 10pm	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _approx_arrival_time $0 2200:_ti ) ( _from $0 lga:_ap ) ( _to $0 san_jose:_ci ) ) )

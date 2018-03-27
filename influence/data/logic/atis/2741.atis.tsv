@@ -1,0 +1,1 @@
+i would like information on any flights from san francisco to pittsburgh arriving in pittsburgh before 8am tuesday morning	( _lambda $0 e ( _and ( _to $0 pittsburgh:_ci ) ( _< ( _arrival_time $0 ) 800:_ti ) ( _day_arrival $0 tuesday:_da ) ( _during_day_arrival $0 morning:_pd ) ( _from $0 san_francisco:_ci ) ( _flight $0 ) ) )

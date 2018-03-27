@@ -1,0 +1,1 @@
+can you tell me the time a flight would leave from atlanta to boston in the afternoon	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _during_day $1 afternoon:_pd ) ( _from $1 atlanta:_ci ) ( _to $1 boston:_ci ) ( _= ( _departure_time $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+what flights are there available from philadelphia to denver on wednesday with economy class	( _lambda $0 e ( _and ( _economy $0 ) ( _day $0 wednesday:_da ) ( _to $0 denver:_ci ) ( _from $0 philadelphia:_ci ) ( _flight $0 ) ) )

@@ -1,0 +1,1 @@
+what is the cheapest round trip fare on continental 1291 round trip denver san francisco	( _min $0 ( _exists $1 ( _and ( _airline $1 co:_al ) ( _flight_number $1 1291:_fn ) ( _from $1 denver:_ci ) ( _to $1 san_francisco:_ci ) ( _round_trip $1 ) ( _round_trip $1 ) ( _= ( _fare $1 ) $0 ) ) ) )

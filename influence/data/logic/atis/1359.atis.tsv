@@ -1,0 +1,1 @@
+i'd like to make a trip between atlanta and boston i wish to know the cheapest fare	( _min $0 ( _exists $1 ( _and ( _from $1 atlanta:_ci ) ( _to $1 boston:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

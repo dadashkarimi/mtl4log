@@ -1,0 +1,1 @@
+next sunday flights from miami to cleveland after 1200 hours	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 miami:_ci ) ( _to $0 cleveland:_ci ) ( _day $0 sunday:_da ) ) )

@@ -1,0 +1,1 @@
+please list all delta flights from kansas city to salt lake city	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 kansas_city:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

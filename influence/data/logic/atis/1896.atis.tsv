@@ -1,0 +1,1 @@
+all flights from washington to san francisco leaving after 2	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1400:_ti ) ( _from $0 washington:_ci ) ( _to $0 san_francisco:_ci ) ) )

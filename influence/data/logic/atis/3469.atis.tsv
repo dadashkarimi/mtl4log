@@ -1,0 +1,1 @@
+flights from cleveland to miami	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 miami:_ci ) ) )

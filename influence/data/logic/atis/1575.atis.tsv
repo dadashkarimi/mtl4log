@@ -1,0 +1,1 @@
+do all the flights to oakland land at the same place	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 oakland:_ci ) ) )

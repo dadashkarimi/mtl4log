@@ -1,0 +1,1 @@
+i'd like the lowest fare from denver to pittsburgh	( _min $0 ( _exists $1 ( _and ( _from $1 denver:_ci ) ( _to $1 pittsburgh:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

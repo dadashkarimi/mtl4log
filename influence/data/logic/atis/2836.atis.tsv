@@ -1,0 +1,1 @@
+what is the first flight arriving in montreal from toronto friday	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 toronto:_ci ) ( _to $0 montreal:_ci ) ( _day_arrival $0 friday:_da ) ) ( _arrival_time $0 ) )

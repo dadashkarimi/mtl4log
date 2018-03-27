@@ -1,0 +1,1 @@
+list nonstop flights from san francisco to oakland that depart in the afternoon	( _lambda $0 e ( _and ( _during_day $0 afternoon:_pd ) ( _to $0 oakland:_ci ) ( _from $0 san_francisco:_ci ) ( _flight $0 ) ( _nonstop $0 ) ) )

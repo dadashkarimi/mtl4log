@@ -1,0 +1,1 @@
+please list flights between denver and boston	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 boston:_ci ) ) )

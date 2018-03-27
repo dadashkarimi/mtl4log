@@ -1,0 +1,1 @@
+please give me the prices for all flights from philadelphia to denver airport next sunday	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 philadelphia:_ci ) ( _to $1 den:_ap ) ( _day $1 sunday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

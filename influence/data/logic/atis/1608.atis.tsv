@@ -1,0 +1,1 @@
+give me a list of airlines in pittsburgh	( _lambda $0 e ( _and ( _airline $0 ) ( _services $0 pittsburgh:_ci ) ) )

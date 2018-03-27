@@ -1,0 +1,1 @@
+while i'm in pittsburgh what ground transportation is available	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 pittsburgh:_ci ) ) )

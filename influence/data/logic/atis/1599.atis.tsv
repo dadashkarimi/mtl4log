@@ -1,0 +1,1 @@
+could you tell me if delta flight 296 serves breakfast	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _flight_number $0 296:_fn ) ( _meal $0 breakfast:_me ) ) )

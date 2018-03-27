@@ -1,0 +1,1 @@
+what flights are there from newark to chicago on continental	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _from $0 newark:_ci ) ( _to $0 chicago:_ci ) ) )

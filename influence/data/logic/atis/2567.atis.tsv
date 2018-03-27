@@ -1,0 +1,1 @@
+i'd like to get a flight from washington to oakland with a stopover in dallas fort worth for september fifteenth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 oakland:_ci ) ( _stop $0 dallas:_ci ) ( _day_number $0 15:_dn ) ( _month $0 september:_mn ) ) )

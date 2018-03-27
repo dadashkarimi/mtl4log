@@ -1,0 +1,1 @@
+are there any flights from boston to oakland that stop	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 oakland:_ci ) ( _has_stops $0 ) ) )

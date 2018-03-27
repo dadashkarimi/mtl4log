@@ -1,0 +1,1 @@
+flights from la guardia to jfk	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 lga:_ap ) ( _to $0 jfk:_ap ) ) )

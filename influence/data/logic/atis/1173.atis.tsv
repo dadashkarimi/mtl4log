@@ -1,0 +1,1 @@
+what kind of ground transportation is there once i get to dallas	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 dallas:_ci ) ) )

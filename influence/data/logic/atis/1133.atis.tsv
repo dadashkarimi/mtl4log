@@ -1,0 +1,1 @@
+list ground transportation in detroit	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 detroit:_ci ) ) )

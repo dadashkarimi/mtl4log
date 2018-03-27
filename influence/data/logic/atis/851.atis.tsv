@@ -1,0 +1,1 @@
+what flights are available from boston to washington dc late the twenty fifth or early the twenty sixth	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _and ( _day_number $0 25:_dn ) ( _during_day $0 late:_pd ) ) ( _and ( _during_day $0 early:_pd ) ( _day_number $0 26:_dn ) ) ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ) )

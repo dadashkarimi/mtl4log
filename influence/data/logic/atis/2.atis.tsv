@@ -1,0 +1,1 @@
+what flights from tacoma to orlando on saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 tacoma:_ci ) ( _to $0 orlando:_ci ) ( _day $0 saturday:_da ) ) )

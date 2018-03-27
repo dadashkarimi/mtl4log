@@ -1,0 +1,1 @@
+i would like to book a flight on us air first class from cleveland to miami on february twenty fourth	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _class_type $0 first:_cl ) ( _from $0 cleveland:_ci ) ( _to $0 miami:_ci ) ( _day_number $0 24:_dn ) ( _month $0 february:_mn ) ) )

@@ -1,0 +1,1 @@
+ground transportation please in the city of boston between airport and downtown	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 boston:_ci ) ( _from_airport $0 bos:_ap ) ) )

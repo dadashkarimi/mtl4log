@@ -1,0 +1,1 @@
+show me the latest dinner flight from baltimore to oakland	( _argmax $0 ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _from $0 baltimore:_ci ) ( _to $0 oakland:_ci ) ) ( _departure_time $0 ) )

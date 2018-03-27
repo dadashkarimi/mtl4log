@@ -1,0 +1,1 @@
+what is the latest afternoon flight departing san francisco and arriving in boston on november ninth	( _argmax $0 ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ( _day_number $0 9:_dn ) ( _month $0 november:_mn ) ) ( _departure_time $0 ) )

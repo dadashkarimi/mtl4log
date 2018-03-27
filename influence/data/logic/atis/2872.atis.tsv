@@ -1,0 +1,1 @@
+show me the flights from philadelphia to dallas with a stop in atlanta	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ( _stop $0 atlanta:_ci ) ) )

@@ -1,0 +1,1 @@
+what cities are served by canadian airlines international	( _lambda $0 e ( _and ( _city $0 ) ( _services cp:_al $0 ) ) )

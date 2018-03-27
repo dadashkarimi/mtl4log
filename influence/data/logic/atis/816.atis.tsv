@@ -1,0 +1,1 @@
+chicago to milwaukee	( _lambda $0 e ( _and ( _from $0 chicago:_ci ) ( _to $0 milwaukee:_ci ) ) )

@@ -1,0 +1,1 @@
+what are the coach fares from la to charlotte monday morning	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 coach:_cl ) ( _during_day $1 morning:_pd ) ( _from $1 los_angeles:_ci ) ( _to $1 charlotte:_ci ) ( _day $1 monday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

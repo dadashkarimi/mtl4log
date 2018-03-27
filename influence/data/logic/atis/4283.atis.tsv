@@ -1,0 +1,1 @@
+please list the flight schedule from baltimore to san francisco on friday nights	( _lambda $0 e ( _exists $1 ( _and ( _during_day $1 late:_pd ) ( _from $1 baltimore:_ci ) ( _to $1 san_francisco:_ci ) ( _day $1 friday:_da ) ( _= ( _departure_time $1 ) $0 ) ) ) )

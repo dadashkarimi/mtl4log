@@ -1,0 +1,1 @@
+how expensive is the san francisco limousine service	( _lambda $0 e ( _exists $1 ( _and ( _limousine $1 ) ( _to_city $1 san_francisco:_ci ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

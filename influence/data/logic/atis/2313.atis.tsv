@@ -1,0 +1,1 @@
+i'm interested in the cheapest fare from washington to fort worth	( _min $0 ( _exists $1 ( _and ( _from $1 washington:_ci ) ( _to $1 fort_worth:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

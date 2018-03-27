@@ -1,0 +1,1 @@
+what time is the last flight from washington to san francisco	( _departure_time ( _argmax $0 ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 san_francisco:_ci ) ) ( _departure_time $0 ) ) )

@@ -1,0 +1,1 @@
+what nonstop flights between boston and washington arrive after 5 o'clock pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ) )

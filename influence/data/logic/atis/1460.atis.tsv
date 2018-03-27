@@ -1,0 +1,1 @@
+please give me flights from atlanta to boston on wednesday afternoon and thursday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 boston:_ci ) ( _or ( _and ( _during_day $0 afternoon:_pd ) ( _day $0 wednesday:_da ) ) ( _and ( _during_day $0 morning:_pd ) ( _day $0 thursday:_da ) ) ) ) )

@@ -1,0 +1,1 @@
+i would like to book a flight for august twenty seventh with us air from baltimore to oakland what flights do you have available	( _lambda $0 e ( _and ( _flight $0 ) ( _flight $0 ) ( _airline $0 us:_al ) ( _from $0 baltimore:_ci ) ( _to $0 oakland:_ci ) ( _day_number $0 27:_dn ) ( _month $0 august:_mn ) ) )

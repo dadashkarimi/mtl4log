@@ -1,0 +1,1 @@
+what flights go from boston to pittsburgh after 6 o'clock next tuesday	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 600:_ti ) ( _from $0 boston:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 tuesday:_da ) ) )

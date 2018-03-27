@@ -1,0 +1,1 @@
+does united airlines provide any first class flights from denver to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ) )

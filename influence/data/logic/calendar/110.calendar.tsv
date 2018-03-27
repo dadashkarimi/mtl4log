@@ -1,0 +1,1 @@
+what meetings take place on jan 2 in greenberg cafe	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string location ) ( string = ) en.location.greenberg_cafe ) ( string date ) ( string = ) ( date 2015 1 2 ) ) )

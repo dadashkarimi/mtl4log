@@ -1,0 +1,1 @@
+show me all flights between san francisco and philadelphia for september fifteenth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 philadelphia:_ci ) ( _day_number $0 15:_dn ) ( _month $0 september:_mn ) ) )

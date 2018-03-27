@@ -1,0 +1,1 @@
+please list the earliest lunch flight from columbus to phoenix	( _argmin $0 ( _and ( _flight $0 ) ( _meal $0 lunch:_me ) ( _from $0 columbus:_ci ) ( _to $0 phoenix:_ci ) ) ( _departure_time $0 ) )

@@ -1,0 +1,1 @@
+list flights from san jose to houston next sunday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_jose:_ci ) ( _to $0 houston:_ci ) ( _day $0 sunday:_da ) ) )

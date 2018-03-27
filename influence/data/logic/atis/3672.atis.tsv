@@ -1,0 +1,1 @@
+what is the earliest flight from memphis to cincinnati on june thirtieth	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 memphis:_ci ) ( _to $0 cincinnati:_ci ) ( _day_number $0 30:_dn ) ( _month $0 june:_mn ) ) ( _departure_time $0 ) )

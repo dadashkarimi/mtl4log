@@ -1,0 +1,1 @@
+how do i get from bwi to washington	( _lambda $0 e ( _and ( _to_city $0 washington:_ci ) ( _from_airport $0 bwi:_ap ) ) )

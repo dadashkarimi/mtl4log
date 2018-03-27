@@ -1,0 +1,1 @@
+show me first class flights from pittsburgh to san francisco on friday	( _lambda $0 e ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 friday:_da ) ) )

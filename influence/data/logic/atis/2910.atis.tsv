@@ -1,0 +1,1 @@
+list all flights on united from san francisco to boston with fare code qx	( _lambda $0 e ( _and ( _flight $0 ) ( _fare_basis_code $0 qx:_fb ) ( _airline $0 ua:_al ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ) )

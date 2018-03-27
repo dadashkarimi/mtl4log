@@ -1,0 +1,1 @@
+show me all the united airlines flights leaving dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _from $0 dallas:_ci ) ) )

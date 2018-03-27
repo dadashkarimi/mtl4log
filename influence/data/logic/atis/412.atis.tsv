@@ -1,0 +1,1 @@
+what is the total schedule for delta's flights to all airports	( _lambda $0 e ( _exists $1 ( _and ( _= ( _departure_time $1 ) $0 ) ( _exists $2 ( _and ( _airport $2 ) ( _to $1 $2 ) ) ) ( _flight $1 ) ( _airline $1 dl:_al ) ) ) )

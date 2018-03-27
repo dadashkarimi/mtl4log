@@ -1,0 +1,1 @@
+i need a flight tonight from charlotte to las vegas with a stop in st. louis and i want dinner	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _tonight $0 ) ( _from $0 charlotte:_ci ) ( _to $0 las_vegas:_ci ) ( _stop $0 st_louis:_ci ) ) )

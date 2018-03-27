@@ -1,0 +1,1 @@
+i need a flight from san diego california to indianapolis indiana leaving in the afternoon on tuesday	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 san_diego:_ci ) ( _to $0 indianapolis:_ci ) ( _day $0 tuesday:_da ) ) )

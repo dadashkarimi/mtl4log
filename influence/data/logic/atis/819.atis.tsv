@@ -1,0 +1,1 @@
+how long does it take to get from denver to oakland	( _lambda $0 e ( _exists $1 ( _and ( _to $1 oakland:_ci ) ( _from $1 denver:_ci ) ( _= ( _time_elapsed $1 ) $0 ) ) ) )

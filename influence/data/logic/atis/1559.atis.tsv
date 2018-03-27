@@ -1,0 +1,1 @@
+what are the seating capacities of planes between pittsburgh and baltimore	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 pittsburgh:_ci ) ( _to $1 baltimore:_ci ) ( _= ( _capacity $1 ) $0 ) ) ) )

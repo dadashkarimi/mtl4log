@@ -1,0 +1,1 @@
+i want to fly from boston at 838am and arrive in denver at 1110 in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 838:_ti ) ( _arrival_time $0 1110:_ti ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ) )

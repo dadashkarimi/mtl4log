@@ -1,0 +1,1 @@
+what's the last flight leaving from pittsburgh to oakland	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 oakland:_ci ) ) ( _departure_time $0 ) )

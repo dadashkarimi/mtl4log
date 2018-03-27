@@ -1,0 +1,1 @@
+i'd like flight information between boston and washington september third	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 washington:_ci ) ( _day_number $0 3:_dn ) ( _month $0 september:_mn ) ) )

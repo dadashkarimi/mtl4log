@@ -1,0 +1,1 @@
+how do you travel from san francisco airport to downtown san francisco	( _lambda $0 e ( _and ( _to_city $0 san_francisco:_ci ) ( _from_airport $0 sfo:_ap ) ) )

@@ -1,0 +1,1 @@
+show me all united airlines first class flights	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ) )

@@ -1,0 +1,1 @@
+how long is a trip from philadelphia airport to downtown philadelphia	( _lambda $0 e ( _exists $1 ( _and ( _= ( _minutes_distant $1 ) $0 ) ( _to_city $1 philadelphia:_ci ) ( _from_airport $1 philadelphia:_ci ) ) ) )

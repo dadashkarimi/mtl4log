@@ -1,0 +1,1 @@
+show flights from denver to oakland arriving between 12 and 1 o'clock	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1200:_ti ) ( _< ( _arrival_time $0 ) 1300:_ti ) ( _from $0 denver:_ci ) ( _to $0 oakland:_ci ) ) )

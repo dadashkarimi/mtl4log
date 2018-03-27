@@ -1,0 +1,1 @@
+i would like the time of your earliest flight in the morning from philadelphia to washington on american airlines	( _departure_time ( _argmin $0 ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _during_day $0 morning:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 washington:_ci ) ) ( _departure_time $0 ) ) )

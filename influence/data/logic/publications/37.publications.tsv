@@ -1,0 +1,1 @@
+publication with the fewest articles	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.venue ) ( string ! type ) ) ( string min ) ( call SW.reverse ( string venue ) ) ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ) )

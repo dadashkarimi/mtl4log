@@ -1,0 +1,1 @@
+do you have any flights from denver to baltimore via dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _stop $0 dallas:_ci ) ) )

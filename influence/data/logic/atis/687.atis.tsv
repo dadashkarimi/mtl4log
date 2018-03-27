@@ -1,0 +1,1 @@
+nonstop or connecting flights from seattle to boston	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _nonstop $0 ) ( _connecting $0 ) ) ( _from $0 seattle:_ci ) ( _to $0 boston:_ci ) ) )

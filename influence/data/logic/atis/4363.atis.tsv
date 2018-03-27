@@ -1,0 +1,1 @@
+what is the fare on continental 271 from dallas to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 co:_al ) ( _flight_number $1 271:_fn ) ( _from $1 dallas:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

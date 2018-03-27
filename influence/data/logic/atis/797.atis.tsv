@@ -1,0 +1,1 @@
+what're the cheapest nonstop flights from new york to miami one way	( _argmin $0 ( _and ( _flight $0 ) ( _nonstop $0 ) ( _oneway $0 ) ( _from $0 new_york:_ci ) ( _to $0 miami:_ci ) ) ( _fare $0 ) )

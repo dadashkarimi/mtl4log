@@ -1,0 +1,1 @@
+could i have a list of flights in first class on monday from san francisco to pittsburgh starting at noon and afterwards	( _lambda $0 e ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ) )

@@ -1,0 +1,1 @@
+i'd like to know what type of plane flies from boston to dallas fort worth after 530	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _> ( _departure_time $1 ) 1730:_ti ) ( _from $1 boston:_ci ) ( _to $1 dallas:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

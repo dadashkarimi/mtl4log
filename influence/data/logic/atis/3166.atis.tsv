@@ -1,0 +1,1 @@
+show flights from san francisco to denver on either wednesday the twenty third or thursday the twenty fourth	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 denver:_ci ) ( _or ( _and ( _day $0 wednesday:_da ) ( _day_number $0 23:_dn ) ) ( _and ( _day $0 thursday:_da ) ( _day_number $0 24:_dn ) ) ) ) )

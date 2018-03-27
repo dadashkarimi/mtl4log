@@ -1,0 +1,1 @@
+show me return flights from cincinnati to salt lake city nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 cincinnati:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

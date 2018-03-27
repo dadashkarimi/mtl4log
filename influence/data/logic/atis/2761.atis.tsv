@@ -1,0 +1,1 @@
+what ground transportation is available in charlotte	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 charlotte:_ci ) ) )

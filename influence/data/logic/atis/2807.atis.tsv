@@ -1,0 +1,1 @@
+what afternoon flights are available between denver and dallas fort worth	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 denver:_ci ) ( _to $0 dallas:_ci ) ) )

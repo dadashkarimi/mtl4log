@@ -1,0 +1,1 @@
+show me the latest flight from salt lake city to phoenix	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 salt_lake_city:_ci ) ( _to $0 phoenix:_ci ) ) ( _departure_time $0 ) )

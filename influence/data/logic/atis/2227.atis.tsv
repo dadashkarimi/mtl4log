@@ -1,0 +1,1 @@
+what do you have from philadelphia to dallas on saturday morning	( _lambda $0 e ( _and ( _during_day $0 morning:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ( _day $0 saturday:_da ) ) )

@@ -1,0 +1,1 @@
+what flights are there between nashville and st. louis which are nonstop and arrive after noon and before 8pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1200:_ti ) ( _< ( _arrival_time $0 ) 2000:_ti ) ( _from $0 nashville:_ci ) ( _to $0 st_louis:_ci ) ) )

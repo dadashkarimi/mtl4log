@@ -1,0 +1,1 @@
+yes i'd like a flight from long beach to st. louis by way of dallas	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 long_beach:_ci ) ( _to $0 st_louis:_ci ) ( _stop $0 dallas:_ci ) ) )

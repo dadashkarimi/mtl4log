@@ -1,0 +1,1 @@
+show me all the flights on northwest airlines from new york to milwaukee to los angeles	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nw:_al ) ( _from $0 new_york:_ci ) ( _to $0 los_angeles:_ci ) ( _stop $0 milwaukee:_ci ) ) )

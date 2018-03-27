@@ -1,0 +1,1 @@
+flights from las vegas to phoenix	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 las_vegas:_ci ) ( _to $0 phoenix:_ci ) ) )

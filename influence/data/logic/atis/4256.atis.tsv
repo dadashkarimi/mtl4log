@@ -1,0 +1,1 @@
+what are the flights in the month of december from atlanta to denver which stop in boston	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 denver:_ci ) ( _stop $0 boston:_ci ) ( _month $0 december:_mn ) ) )

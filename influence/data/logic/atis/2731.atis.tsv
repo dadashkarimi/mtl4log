@@ -1,0 +1,1 @@
+show me all the flights from toronto on nationair	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 nx:_al ) ( _from $0 toronto:_ci ) ) )

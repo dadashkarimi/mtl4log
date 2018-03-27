@@ -1,0 +1,1 @@
+show me all the flights that arrive in baltimore from anywhere between 1850 and midnight	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1850:_ti ) ( _< ( _arrival_time $0 ) 2400:_ti ) ( _to $0 baltimore:_ci ) ) )

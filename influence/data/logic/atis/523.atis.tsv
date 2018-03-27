@@ -1,0 +1,1 @@
+what ground transportation is available at the baltimore airport	( _lambda $0 e ( _and ( _from_airport $0 bwi:_ap ) ( _ground_transport $0 ) ) )

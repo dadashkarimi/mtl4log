@@ -1,0 +1,1 @@
+what meeting is as long or longer than weekly standup	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( call SW.ensureNumericProperty ( string length ) ) ( string >= ) ( call SW.ensureNumericEntity ( call SW.getProperty en.meeting.weekly_standup ( string length ) ) ) ) )

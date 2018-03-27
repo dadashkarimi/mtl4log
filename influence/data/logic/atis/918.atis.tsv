@@ -1,0 +1,1 @@
+okay and on may four i would like to go from atlanta to denver leaving early in the morning around 8	( _lambda $0 e ( _and ( _from $0 atlanta:_ci ) ( _approx_departure_time $0 800:_ti ) ( _during_day $0 morning:_pd ) ( _during_day $0 early:_pd ) ( _to $0 denver:_ci ) ( _month $0 may:_mn ) ( _day_number $0 4:_dn ) ) )

@@ -1,0 +1,1 @@
+please give me the cheapest round trip airfare from atlanta to philadelphia on august the first	( _min $0 ( _exists $1 ( _and ( _from $1 atlanta:_ci ) ( _to $1 philadelphia:_ci ) ( _day_number $1 1:_dn ) ( _month $1 august:_mn ) ( _round_trip $1 ) ( _= ( _fare $1 ) $0 ) ) ) )

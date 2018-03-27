@@ -1,0 +1,1 @@
+article with publication date as 2004 and has the venue as annals of statistics	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string publication_date ) ( string = ) ( date 2004 -1 -1 ) ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) )

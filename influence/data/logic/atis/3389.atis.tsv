@@ -1,0 +1,1 @@
+what flights arrive in seattle from on continental	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _to $0 seattle:_ci ) ) )

@@ -1,0 +1,1 @@
+i would like to find out what flights there are on friday june eleventh from st. petersburg to milwaukee and then from milwaukee to tacoma thank you	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 st_petersburg:_ci ) ( _stop $0 milwaukee:_ci ) ( _to $0 tacoma:_ci ) ( _day $0 friday:_da ) ( _day_number $0 11:_dn ) ( _month $0 june:_mn ) ) )

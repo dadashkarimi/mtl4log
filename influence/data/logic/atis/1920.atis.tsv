@@ -1,0 +1,1 @@
+flights from newark to cleveland daily 5 o'clock pm	( _lambda $0 e ( _and ( _flight $0 ) ( _daily $0 ) ( _departure_time $0 1700:_ti ) ( _from $0 newark:_ci ) ( _to $0 cleveland:_ci ) ) )

@@ -1,0 +1,1 @@
+what are the fares between new york and la on monday morning	( _lambda $0 e ( _exists $1 ( _and ( _day $1 monday:_da ) ( _to $1 los_angeles:_ci ) ( _from $1 new_york:_ci ) ( _during_day $1 morning:_pd ) ( _= ( _fare $1 ) $0 ) ) ) )

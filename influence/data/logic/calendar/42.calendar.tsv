@@ -1,0 +1,1 @@
+meetings at greenberg cafe attended by alice	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string = ) en.person.alice ) ( string location ) ( string = ) en.location.greenberg_cafe ) )

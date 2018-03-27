@@ -1,0 +1,1 @@
+what nonstop flights are available from oakland to pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 oakland:_ci ) ( _to $0 pittsburgh:_ci ) ) )

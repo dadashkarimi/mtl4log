@@ -1,0 +1,1 @@
+give me the flights from miami to new york using tower air	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ff:_al ) ( _from $0 miami:_ci ) ( _to $0 new_york:_ci ) ) )

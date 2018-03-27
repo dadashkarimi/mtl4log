@@ -1,0 +1,1 @@
+find a transcontinental flight on american airlines from boston to san francisco that makes a stopover in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 boston:_ci ) ( _to $0 san_francisco:_ci ) ( _stop $0 denver:_ci ) ) )

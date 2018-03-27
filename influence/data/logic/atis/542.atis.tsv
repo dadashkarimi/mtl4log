@@ -1,0 +1,1 @@
+what's the earliest flight from san jose to houston	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 san_jose:_ci ) ( _to $0 houston:_ci ) ) ( _departure_time $0 ) )

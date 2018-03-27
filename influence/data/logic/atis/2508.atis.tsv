@@ -1,0 +1,1 @@
+what is the first flight from atlanta to boston on thursday september fifth that leaves after 8am	( _argmin $0 ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 800:_ti ) ( _from $0 atlanta:_ci ) ( _to $0 boston:_ci ) ( _day $0 thursday:_da ) ( _day_number $0 5:_dn ) ( _month $0 september:_mn ) ) ( _departure_time $0 ) )

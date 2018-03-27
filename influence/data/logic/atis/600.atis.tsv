@@ -1,0 +1,1 @@
+what is the last flight out of pittsburgh to boston in the evening on tuesdays	( _argmax $0 ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 pittsburgh:_ci ) ( _to $0 boston:_ci ) ( _day $0 tuesday:_da ) ) ( _departure_time $0 ) )

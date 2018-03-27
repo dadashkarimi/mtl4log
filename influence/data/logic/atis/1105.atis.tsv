@@ -1,0 +1,1 @@
+show me the flights	( _lambda $0 e ( _and ( _flight $0 ) ) )

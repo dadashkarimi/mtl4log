@@ -1,0 +1,1 @@
+i'd like to arrange for two friends to fly into los angeles next saturday evening one of the people is coming from kansas city and the other is coming from las vegas	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 los_angeles:_ci ) ( _or ( _from $0 kansas_city:_ci ) ( _from $0 las_vegas:_ci ) ) ) )

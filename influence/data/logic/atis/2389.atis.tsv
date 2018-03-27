@@ -1,0 +1,1 @@
+does any airline have an afternoon flight from atlanta to boston	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _during_day $1 afternoon:_pd ) ( _from $1 atlanta:_ci ) ( _to $1 boston:_ci ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

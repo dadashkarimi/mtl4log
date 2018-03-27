@@ -1,0 +1,1 @@
+what flights are there from newark to seattle on saturday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 newark:_ci ) ( _to $0 seattle:_ci ) ( _day $0 saturday:_da ) ) )

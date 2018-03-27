@@ -1,0 +1,1 @@
+show me the cheapest fares from miami to new york leaving on a sunday	( _min $0 ( _exists $1 ( _and ( _from $1 miami:_ci ) ( _to $1 new_york:_ci ) ( _day $1 sunday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

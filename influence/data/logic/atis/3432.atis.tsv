@@ -1,0 +1,1 @@
+what type of aircraft is used on american airline flight 315	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 aa:_al ) ( _flight_number $1 315:_fn ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

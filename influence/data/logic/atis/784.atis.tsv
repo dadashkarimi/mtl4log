@@ -1,0 +1,1 @@
+i need to know information for flights leaving dallas on tuesday evening and returning to atlanta	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 dallas:_ci ) ( _to $0 atlanta:_ci ) ( _day $0 tuesday:_da ) ) )

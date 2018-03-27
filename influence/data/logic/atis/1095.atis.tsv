@@ -1,0 +1,1 @@
+show me all the flights from burbank	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 burbank:_ci ) ) )

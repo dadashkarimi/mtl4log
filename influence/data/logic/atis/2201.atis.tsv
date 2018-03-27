@@ -1,0 +1,1 @@
+what are the cheapest flights from pittsburgh to atlanta	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 atlanta:_ci ) ) ( _fare $0 ) )

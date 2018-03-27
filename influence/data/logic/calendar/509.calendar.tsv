@@ -1,0 +1,1 @@
+location is greenberg cafe or central office	( call SW.listValue ( call SW.concat en.location.greenberg_cafe en.location.central_office ) )

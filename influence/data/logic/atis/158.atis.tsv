@@ -1,0 +1,1 @@
+what flights are there tomorrow from tacoma to san jose	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 tacoma:_ci ) ( _to $0 san_jose:_ci ) ( _tomorrow $0 ) ) )

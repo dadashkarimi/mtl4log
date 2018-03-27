@@ -1,0 +1,1 @@
+what are the flights from washington dc to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 denver:_ci ) ) )

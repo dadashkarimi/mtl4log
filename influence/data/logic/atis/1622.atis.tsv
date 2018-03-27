@@ -1,0 +1,1 @@
+i need to fly leaving philadelphia to atlanta	( _lambda $0 e ( _and ( _to $0 atlanta:_ci ) ( _from $0 philadelphia:_ci ) ( _flight $0 ) ) )

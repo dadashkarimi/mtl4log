@@ -1,0 +1,1 @@
+what kind of airplane is flight ua 270 from denver to philadelphia	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ua:_al ) ( _flight_number $1 270:_fn ) ( _from $1 denver:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

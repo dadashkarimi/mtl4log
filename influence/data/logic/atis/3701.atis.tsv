@@ -1,0 +1,1 @@
+okay i'm looking for a flight from tampa to st. louis leaving before 10am any day	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 tampa:_ci ) ( _to $0 st_louis:_ci ) ) )

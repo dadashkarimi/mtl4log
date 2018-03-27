@@ -1,0 +1,1 @@
+flights from cincinnati to o'hare departing after 718am american	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _> ( _departure_time $0 ) 718:_ti ) ( _from $0 cincinnati:_ci ) ( _to $0 ord:_ap ) ) )

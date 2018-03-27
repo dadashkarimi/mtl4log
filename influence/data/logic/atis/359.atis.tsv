@@ -1,0 +1,1 @@
+on tuesday i'd like to find a flight from detroit to st. petersburg that arrives before 10pm	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 2200:_ti ) ( _from $0 detroit:_ci ) ( _to $0 st_petersburg:_ci ) ( _day $0 tuesday:_da ) ) )

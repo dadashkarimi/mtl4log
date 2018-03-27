@@ -1,0 +1,1 @@
+what flights from burbank to milwaukee leave burbank tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 burbank:_ci ) ( _to $0 milwaukee:_ci ) ( _tomorrow $0 ) ) )

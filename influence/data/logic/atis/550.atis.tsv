@@ -1,0 +1,1 @@
+what flights leave seattle on sunday on continental	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _from $0 seattle:_ci ) ( _day $0 sunday:_da ) ) )

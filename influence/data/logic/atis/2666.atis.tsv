@@ -1,0 +1,1 @@
+are there any flights before 12 noon on june fifteenth from long beach to columbus	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1200:_ti ) ( _from $0 long_beach:_ci ) ( _to $0 columbus:_ci ) ( _day_number $0 15:_dn ) ( _month $0 june:_mn ) ) )

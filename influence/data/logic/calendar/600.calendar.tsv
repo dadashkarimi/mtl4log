@@ -1,0 +1,1 @@
+jan 2nd meeting with alice as attendee	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string date ) ( string = ) ( date 2015 1 2 ) ) ( string attendee ) ( string = ) en.person.alice ) )

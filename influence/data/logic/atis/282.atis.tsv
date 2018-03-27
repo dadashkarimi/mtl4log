@@ -1,0 +1,1 @@
+morning flights out of san francisco arriving boston afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 afternoon:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 san_francisco:_ci ) ( _to $0 boston:_ci ) ) )

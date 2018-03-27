@@ -1,0 +1,1 @@
+what airlines have business class	( _lambda $0 e ( _exists $1 ( _and ( _class_type $1 business:_cl ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

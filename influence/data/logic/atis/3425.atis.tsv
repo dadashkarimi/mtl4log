@@ -1,0 +1,1 @@
+list nonstop flights from baltimore washington to oakland that arrive between 445 and 515pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1645:_ti ) ( _< ( _arrival_time $0 ) 1715:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 oakland:_ci ) ) )

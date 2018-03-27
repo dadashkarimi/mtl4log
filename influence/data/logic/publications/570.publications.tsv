@@ -1,0 +1,1 @@
+find an additional author to an efron article	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.person ) ( string ! type ) ) ( call SW.reverse ( string author ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string author ) ( string = ) en.person.efron ) ) )

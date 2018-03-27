@@ -1,0 +1,1 @@
+flights from montreal and phoenix to las vegas arriving at the same time	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _flight $1 ) ( _from $0 montreal:_ci ) ( _to $0 las_vegas:_ci ) ( _from $1 pheonix:_ci ) ( _to $1 las_vegas:_ci ) ( _equals ( _arrival_time $0 ) ( _arrival_time $1 ) ) ) ) )

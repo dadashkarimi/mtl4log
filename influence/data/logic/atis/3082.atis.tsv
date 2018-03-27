@@ -1,0 +1,1 @@
+show me all the cities that midwest express serves	( _lambda $0 e ( _and ( _city $0 ) ( _services yx:_al $0 ) ) )

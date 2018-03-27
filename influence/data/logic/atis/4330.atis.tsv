@@ -1,0 +1,1 @@
+show me airlines between boston and san francisco	( _lambda $0 e ( _exists $1 ( _and ( _from $1 boston:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

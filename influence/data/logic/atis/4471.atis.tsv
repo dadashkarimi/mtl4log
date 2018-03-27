@@ -1,0 +1,1 @@
+what flights depart baltimore and arrive by 8pm friday in san francisco	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 baltimore:_ci ) ( _to $0 san_francisco:_ci ) ( _day_arrival $0 friday:_da ) ) )

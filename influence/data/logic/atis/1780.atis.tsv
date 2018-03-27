@@ -1,0 +1,1 @@
+what flights leave phoenix on american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ( _from $0 phoenix:_ci ) ) )

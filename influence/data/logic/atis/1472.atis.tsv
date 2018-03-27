@@ -1,0 +1,1 @@
+what are the flights available in the morning between boston and denver	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ) )

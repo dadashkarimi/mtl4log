@@ -1,0 +1,1 @@
+okay what flights are there us air from orlando to cleveland leaving in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _during_day $0 afternoon:_pd ) ( _from $0 orlando:_ci ) ( _to $0 cleveland:_ci ) ) )

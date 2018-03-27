@@ -1,0 +1,1 @@
+show me morning flights from toronto	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 toronto:_ci ) ) )

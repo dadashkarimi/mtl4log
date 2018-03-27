@@ -1,0 +1,1 @@
+i'm interested in a flight from dallas to washington and i'm also interested in going to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 washington:_ci ) ) )

@@ -1,0 +1,1 @@
+find an article in the annals of statistics venue	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) )

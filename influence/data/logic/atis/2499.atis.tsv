@@ -1,0 +1,1 @@
+give me a flight from new york city to las vegas and a flight from memphis to las vegas that arrive at the same time	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _flight $1 ) ( _from $0 new_york:_ci ) ( _to $0 las_vegas:_ci ) ( _from $1 memphis:_ci ) ( _to $1 las_vegas:_ci ) ( _equals ( _arrival_time $0 ) ( _arrival_time $1 ) ) ) ) )

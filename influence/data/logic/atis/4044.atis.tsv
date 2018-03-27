@@ -1,0 +1,1 @@
+how much time does it take to go between the airport and downtown by ground transportation in dallas	( _lambda $0 e ( _exists $1 ( _and ( _= ( _minutes_distant $1 ) $0 ) ( _to_city $1 dallas:_ci ) ( _from_airport $1 dallas:_ci ) ) ) )

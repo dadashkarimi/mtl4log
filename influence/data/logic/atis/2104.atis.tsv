@@ -1,0 +1,1 @@
+what is the least expensive fare from baltimore to san francisco leaving on september thirtieth	( _min $0 ( _exists $1 ( _and ( _from $1 baltimore:_ci ) ( _to $1 san_francisco:_ci ) ( _day_number $1 30:_dn ) ( _month $1 september:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

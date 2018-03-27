@@ -1,0 +1,1 @@
+can you list all nonstop flights departing from st. petersburg and arriving in charlotte	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 st_petersburg:_ci ) ( _to $0 charlotte:_ci ) ) )

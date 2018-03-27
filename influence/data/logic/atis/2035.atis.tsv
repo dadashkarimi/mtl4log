@@ -1,0 +1,1 @@
+what are the different classes of service and the prices for us air	( _lambda $0 e ( _lambda $1 e ( _and ( _booking_class:_t $0 ) ( _= ( _fare $0 ) $1 ) ( _airline $0 us:_al ) ) ) )

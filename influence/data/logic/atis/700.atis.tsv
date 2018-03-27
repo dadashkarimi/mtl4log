@@ -1,0 +1,1 @@
+what are the cost of morning flights from atlanta to baltimore	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _during_day $1 morning:_pd ) ( _from $1 atlanta:_ci ) ( _to $1 baltimore:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

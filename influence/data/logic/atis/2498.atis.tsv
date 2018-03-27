@@ -1,0 +1,1 @@
+what are the times that you have planes leaving from san francisco going to pittsburgh on july seventh	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 san_francisco:_ci ) ( _to $1 pittsburgh:_ci ) ( _day_number $1 7:_dn ) ( _month $1 july:_mn ) ( _= ( _departure_time $1 ) $0 ) ) ) )

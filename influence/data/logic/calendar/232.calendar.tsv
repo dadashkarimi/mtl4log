@@ -1,0 +1,1 @@
+which meeting has the earliest end time	( call SW.listValue ( call SW.superlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string min ) ( call SW.ensureNumericProperty ( string end_time ) ) ) )

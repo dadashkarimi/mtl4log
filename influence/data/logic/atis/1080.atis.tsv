@@ -1,0 +1,1 @@
+flights between new york and san jose	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 new_york:_ci ) ( _to $0 san_jose:_ci ) ) )

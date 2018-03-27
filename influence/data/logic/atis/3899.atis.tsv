@@ -1,0 +1,1 @@
+i will need a car at new york	( _lambda $0 e ( _and ( _rental_car $0 ) ( _to_city $0 new_york:_ci ) ) )

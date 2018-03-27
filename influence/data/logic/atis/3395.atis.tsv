@@ -1,0 +1,1 @@
+how many flights does each airline have with first class service	( _lambda $0 e ( _lambda $1 i ( _and ( _airline $0 ) ( _= $1 ( _count $2 ( _and ( _flight $2 ) ( _class_type $2 first:_cl ) ( _= ( _airline:_e $2 ) $0 ) ) ) ) ) ) )

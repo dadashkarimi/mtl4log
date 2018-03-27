@@ -1,0 +1,1 @@
+flights from cleveland to kansas city on monday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 cleveland:_ci ) ( _to $0 kansas_city:_ci ) ( _day $0 monday:_da ) ) )

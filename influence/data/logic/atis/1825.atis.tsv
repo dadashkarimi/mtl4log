@@ -1,0 +1,1 @@
+give me the earliest flight tomorrow from st. petersburg to milwaukee on a airline other than twa	( _argmin $0 ( _and ( _flight $0 ) ( _not ( _airline $0 tw:_al ) ) ( _from $0 st_petersburg:_ci ) ( _to $0 milwaukee:_ci ) ( _tomorrow $0 ) ) ( _departure_time $0 ) )

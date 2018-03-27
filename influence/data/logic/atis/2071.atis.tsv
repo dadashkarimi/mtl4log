@@ -1,0 +1,1 @@
+what is the airfare for flights from denver to pittsburgh on delta airline	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 dl:_al ) ( _from $1 denver:_ci ) ( _to $1 pittsburgh:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

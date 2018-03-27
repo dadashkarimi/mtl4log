@@ -1,0 +1,1 @@
+what is the fare going from boston to dallas fort worth one way on november seventh	( _lambda $0 e ( _exists $1 ( _and ( _oneway $1 ) ( _from $1 boston:_ci ) ( _to $1 dallas:_ci ) ( _day_number $1 7:_dn ) ( _month $1 november:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

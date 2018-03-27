@@ -1,0 +1,1 @@
+show me all flights from kansas city to chicago on june sixteenth arriving around 7 o'clock in the evening	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1900:_ti ) ( _from $0 kansas_city:_ci ) ( _to $0 chicago:_ci ) ( _day_number $0 16:_dn ) ( _month $0 june:_mn ) ) )

@@ -1,0 +1,1 @@
+i would like to see the flights from denver to philadelphia please	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 philadelphia:_ci ) ) )

@@ -1,0 +1,1 @@
+i would like a morning flight from milwaukee to denver colorado please	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 milwaukee:_ci ) ( _to $0 denver:_ci ) ) )

@@ -1,0 +1,1 @@
+how much is a round trip fare from nashville to seattle	( _lambda $0 e ( _exists $1 ( _and ( _round_trip $1 ) ( _from $1 nashville:_ci ) ( _to $1 seattle:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

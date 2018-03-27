@@ -1,0 +1,1 @@
+what do you know about car rental in denver	( _lambda $0 e ( _and ( _rental_car $0 ) ( _to_city $0 denver:_ci ) ) )

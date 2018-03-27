@@ -1,0 +1,1 @@
+please show me all one way first class flights from indianapolis to memphis	( _lambda $0 e ( _and ( _flight $0 ) ( _oneway $0 ) ( _class_type $0 first:_cl ) ( _from $0 indianapolis:_ci ) ( _to $0 memphis:_ci ) ) )

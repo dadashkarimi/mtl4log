@@ -1,0 +1,1 @@
+hi i need to get a flight from memphis to salt lake city departing before 10am	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 1000:_ti ) ( _from $0 memphis:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

@@ -1,0 +1,1 @@
+i'd like a ticket on a plane from denver to atlanta i would like a coach class or lowest fare ticket	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _class_type $0 coach:_cl ) ( _equals:_t $0 ( _argmin $1 ( _and ( _from $1 denver:_ci ) ( _to $1 atlanta:_ci ) ) ( _fare $1 ) ) ) ) ) )

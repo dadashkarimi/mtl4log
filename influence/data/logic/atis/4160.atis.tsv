@@ -1,0 +1,1 @@
+what type of aircraft is used on the flight from atlanta to philadelphia before 12 o'clock noon	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _< ( _departure_time $1 ) 1200:_ti ) ( _from $1 atlanta:_ci ) ( _to $1 philadelphia:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+hello i'm trying to find a flight that goes from pittsburgh to denver after 2pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1400:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 denver:_ci ) ) )

@@ -1,0 +1,1 @@
+what is the earliest flight from washington to atlanta leaving on wednesday september fourth	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 atlanta:_ci ) ( _day $0 wednesday:_da ) ( _day_number $0 4:_dn ) ( _month $0 september:_mn ) ) ( _departure_time $0 ) )

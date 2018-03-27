@@ -1,0 +1,1 @@
+show me flights which leave from boston on july twenty second arriving in pittsburgh	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 boston:_ci ) ( _to $0 pittsburgh:_ci ) ( _day_number $0 22:_dn ) ( _month $0 july:_mn ) ) )

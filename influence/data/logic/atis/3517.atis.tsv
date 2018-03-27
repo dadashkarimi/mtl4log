@@ -1,0 +1,1 @@
+which flights arrive in st. louis from st. paul on thursday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 morning:_pd ) ( _from $0 st_paul:_ci ) ( _to $0 st_louis:_ci ) ( _day_arrival $0 thursday:_da ) ) )

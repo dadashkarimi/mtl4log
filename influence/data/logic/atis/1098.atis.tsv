@@ -1,0 +1,1 @@
+i would like to find a flight from charlotte north carolina to las vegas i would like a stopover in st. louis	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 charlotte:_ci ) ( _to $0 las_vegas:_ci ) ( _stop $0 st_louis:_ci ) ) )

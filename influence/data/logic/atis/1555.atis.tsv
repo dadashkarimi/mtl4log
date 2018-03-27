@@ -1,0 +1,1 @@
+could i have the flights from newark to orlando please	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 newark:_ci ) ( _to $0 orlando:_ci ) ) )

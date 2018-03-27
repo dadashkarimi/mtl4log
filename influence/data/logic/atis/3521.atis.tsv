@@ -1,0 +1,1 @@
+i'd like to arrange a trip to baltimore on january first	( _lambda $0 e ( _and ( _to $0 baltimore:_ci ) ( _day_number $0 1:_dn ) ( _month $0 january:_mn ) ) )

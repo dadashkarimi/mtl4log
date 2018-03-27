@@ -1,0 +1,1 @@
+show me all the flights on delta airlines and twa that go to atlanta in the morning	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _airline $0 dl:_al ) ( _airline $0 tw:_al ) ) ( _during_day $0 morning:_pd ) ( _to $0 atlanta:_ci ) ) )

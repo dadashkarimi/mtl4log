@@ -1,0 +1,1 @@
+find me the flights that are nonstop between boston and dallas that leave between 12 and 2 in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _departure_time $0 ) 1400:_ti ) ( _from $0 boston:_ci ) ( _to $0 dallas:_ci ) ) )

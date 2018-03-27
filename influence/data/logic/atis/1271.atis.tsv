@@ -1,0 +1,1 @@
+i need a flight on thursday before 8am from oakland to salt lake city	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 800:_ti ) ( _from $0 oakland:_ci ) ( _to $0 salt_lake_city:_ci ) ( _day $0 thursday:_da ) ) )

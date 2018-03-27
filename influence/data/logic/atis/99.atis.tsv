@@ -1,0 +1,1 @@
+i need a nonstop flight from san diego to phoenix	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 san_diego:_ci ) ( _to $0 phoenix:_ci ) ) )

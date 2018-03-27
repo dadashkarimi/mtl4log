@@ -1,0 +1,1 @@
+please give ground transportation at denver airport	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _from_airport $0 den:_ap ) ) )

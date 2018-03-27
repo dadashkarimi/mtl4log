@@ -1,0 +1,1 @@
+what flights go from pittsburgh to baltimore after 8 o'clock next wednesday	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 800:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 baltimore:_ci ) ( _day $0 wednesday:_da ) ) )

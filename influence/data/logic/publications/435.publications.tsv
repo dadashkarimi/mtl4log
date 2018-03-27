@@ -1,0 +1,1 @@
+what article was in the most venues	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string max ) ( string venue ) ) )

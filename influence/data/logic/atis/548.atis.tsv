@@ -1,0 +1,1 @@
+show me a list of flights from boston to atlanta leaving after noon and arriving before 7pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _arrival_time $0 ) 1900:_ti ) ( _from $0 boston:_ci ) ( _to $0 atlanta:_ci ) ) )

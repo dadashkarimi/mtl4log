@@ -1,0 +1,1 @@
+what are your flights from denver to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ) )

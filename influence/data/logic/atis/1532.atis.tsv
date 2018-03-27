@@ -1,0 +1,1 @@
+i want a flight from los angeles to charlotte that leaves on a weekday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 morning:_pd ) ( _from $0 los_angeles:_ci ) ( _to $0 charlotte:_ci ) ( _weekday $0 ) ) )

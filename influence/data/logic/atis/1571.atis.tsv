@@ -1,0 +1,1 @@
+what classes of service does twa provide	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 tw:_al ) ( _= ( _booking_class $1 ) $0 ) ) ) )

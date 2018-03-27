@@ -1,0 +1,1 @@
+i would like the cheapest flight from pittsburgh to atlanta leaving april twenty fifth and returning may sixth	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 atlanta:_ci ) ( _day_number $0 25:_dn ) ( _month $0 april:_mn ) ( _round_trip $0 ) ) ( _fare $0 ) )

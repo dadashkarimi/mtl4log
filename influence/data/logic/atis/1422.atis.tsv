@@ -1,0 +1,1 @@
+show me the costs and times for flights from san francisco to atlanta	( _lambda $0 e ( _lambda $1 e ( _lambda $2 e ( _and ( _flight $2 ) ( _from $2 san_francisco:_ci ) ( _to $2 atlanta:_ci ) ( _= ( _departure_time $2 ) $1 ) ( _= ( _fare $2 ) $0 ) ) ) ) )

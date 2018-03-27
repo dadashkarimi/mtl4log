@@ -1,0 +1,1 @@
+show me the flights that go from san diego to newark with one stop in houston	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_diego:_ci ) ( _to $0 newark:_ci ) ( _stop $0 houston:_ci ) ) )

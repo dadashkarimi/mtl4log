@@ -1,0 +1,1 @@
+what are the flights on tuesday october first from atlanta to baltimore	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ( _day $0 tuesday:_da ) ( _day_number $0 1:_dn ) ( _month $0 october:_mn ) ) )

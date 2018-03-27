@@ -1,0 +1,1 @@
+now i need another flight from las vegas to los angeles arriving also in the late afternoon what's available for that	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day_arrival $0 late:_pd ) ( _during_day_arrival $0 afternoon:_pd ) ( _from $0 las_vegas:_ci ) ( _to $0 los_angeles:_ci ) ) )

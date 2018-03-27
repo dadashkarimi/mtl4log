@@ -1,0 +1,1 @@
+what meeting has an end time of 10am on jan2	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string end_time ) ( string = ) ( time 10 0 ) ) ( string date ) ( string = ) ( date 2015 1 2 ) ) )

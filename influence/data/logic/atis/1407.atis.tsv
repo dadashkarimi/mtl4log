@@ -1,0 +1,1 @@
+what is the price of a one way fare from boston to denver on continental airlines	( _lambda $0 e ( _exists $1 ( _and ( _exists $2 ( _and ( _oneway $2 ) ( _airline $2 co:_al ) ( _from $2 boston:_ci ) ( _to $2 denver:_ci ) ( _= ( _fare $2 ) $1 ) ) ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+meetings attended by alice that start at 10am	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string attendee ) ( string = ) en.person.alice ) ( string start_time ) ( string = ) ( time 10 0 ) ) )

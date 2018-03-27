@@ -1,0 +1,1 @@
+please list the flights from charlotte to long beach arriving after lunch time	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _arrival_time $0 ) 1400:_ti ) ( _from $0 charlotte:_ci ) ( _to $0 long_beach:_ci ) ) )

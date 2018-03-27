@@ -1,0 +1,1 @@
+what flights stop in atlanta before noon	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _stop $0 atlanta:_ci ) ) )

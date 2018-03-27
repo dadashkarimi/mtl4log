@@ -1,0 +1,1 @@
+show me all flights between san francisco and philadelphia on september fifteenth with departure time after 12pm	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 san_francisco:_ci ) ( _to $0 philadelphia:_ci ) ( _day_number $0 15:_dn ) ( _month $0 september:_mn ) ) )

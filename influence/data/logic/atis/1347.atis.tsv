@@ -1,0 +1,1 @@
+what is the available ground transportation between the airport in denver and downtown	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 denver:_ci ) ( _from_airport $0 denver:_ci ) ) )

@@ -1,0 +1,1 @@
+show me all the types of aircraft	( _lambda $0 e ( _aircraft_code:_t $0 ) )

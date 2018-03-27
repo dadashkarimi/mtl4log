@@ -1,0 +1,1 @@
+all flights and fares from pittsburgh to dallas round trip after 12pm less than 1100 dollars	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _< ( _fare $0 ) 1100:_do ) ( _from $0 pittsburgh:_ci ) ( _to $0 dallas:_ci ) ( _= ( _fare $0 ) $1 ) ) ) )

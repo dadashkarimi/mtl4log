@@ -1,0 +1,1 @@
+show me the flights from westchester county to cincinnati	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 westchester_county:_ci ) ( _to $0 cincinnati:_ci ) ) )

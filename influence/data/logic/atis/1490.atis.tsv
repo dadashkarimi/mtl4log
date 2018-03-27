@@ -1,0 +1,1 @@
+what is the cheapest flight from pittsburgh to atlanta one way	( _argmin $0 ( _and ( _flight $0 ) ( _oneway $0 ) ( _from $0 pittsburgh:_ci ) ( _to $0 atlanta:_ci ) ) ( _fare $0 ) )

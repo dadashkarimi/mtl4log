@@ -1,0 +1,1 @@
+show me first class round trip flights from new york to miami i want the cheapest first class fare please	( _argmin $0 ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _from $0 new_york:_ci ) ( _to $0 miami:_ci ) ( _round_trip $0 ) ) ( _fare $0 ) )

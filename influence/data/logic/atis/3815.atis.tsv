@@ -1,0 +1,1 @@
+does american airlines fly to san francisco from atlanta	( _lambda $0 e ( _and ( _to $0 san_francisco:_ci ) ( _from $0 atlanta:_ci ) ( _flight $0 ) ( _airline $0 aa:_al ) ) )

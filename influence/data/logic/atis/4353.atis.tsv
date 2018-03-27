@@ -1,0 +1,1 @@
+i'm trying to find a flight from columbus to phoenix through cincinnati	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 columbus:_ci ) ( _to $0 phoenix:_ci ) ( _stop $0 cincinnati:_ci ) ) )

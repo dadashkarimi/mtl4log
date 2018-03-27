@@ -1,0 +1,1 @@
+could you give me the schedule of flights for american and delta to dfw on august fifteenth	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 aa:_al ) ( _to $1 dfw:_ap ) ( _day_number $1 15:_dn ) ( _month $1 august:_mn ) ( _or ( _airline $1 aa:_al ) ( _airline $1 dl:_al ) ) ( _= ( _departure_time $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+all flights from sfo to long beach	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 sfo:_ap ) ( _to $0 long_beach:_ci ) ) )

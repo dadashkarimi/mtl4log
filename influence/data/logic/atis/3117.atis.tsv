@@ -1,0 +1,1 @@
+show me the fare for us flight 3357 from philadelphia to baltimore	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 us:_al ) ( _flight_number $1 3357:_fn ) ( _from $1 philadelphia:_ci ) ( _to $1 baltimore:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+and i'll need ground transportation for tuesday july sixth to wednesday july seventh in san diego	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _day $0 tuesday:_da ) ( _month $0 july:_mn ) ( _day_number $0 6:_dn ) ( _day $0 wednesday:_da ) ( _day_number $0 7:_dn ) ( _to_city $0 san_diego:_ci ) ) )

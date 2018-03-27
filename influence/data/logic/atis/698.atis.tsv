@@ -1,0 +1,1 @@
+what is the cheapest ticket from baltimore to san francisco on friday august thirtieth	( _argmin $0 ( _and ( _day $0 friday:_da ) ( _to $0 san_francisco:_ci ) ( _from $0 baltimore:_ci ) ( _month $0 august:_mn ) ( _day_number $0 30:_dn ) ) ( _fare $0 ) )

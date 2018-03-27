@@ -1,0 +1,1 @@
+is there a flight from nashville to houston in the evening tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 nashville:_ci ) ( _to $0 houston:_ci ) ( _tomorrow $0 ) ) )

@@ -1,0 +1,1 @@
+flight from washington dc to salt lake city	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 washington:_ci ) ( _to $0 salt_lake_city:_ci ) ) )

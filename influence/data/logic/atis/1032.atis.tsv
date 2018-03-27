@@ -1,0 +1,1 @@
+show me all the flights arriving in charlotte around 5pm next monday please	( _lambda $0 e ( _and ( _flight $0 ) ( _approx_arrival_time $0 1700:_ti ) ( _to $0 charlotte:_ci ) ( _day_arrival $0 monday:_da ) ) )

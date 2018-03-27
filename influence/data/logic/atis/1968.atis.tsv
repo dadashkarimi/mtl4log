@@ -1,0 +1,1 @@
+which flights are serviced by american airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 aa:_al ) ) )

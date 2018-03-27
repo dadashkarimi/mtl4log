@@ -1,0 +1,1 @@
+how many first class flights does united airlines have departing from boston today	( _count $0 ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _class_type $0 first:_cl ) ( _from $0 boston:_ci ) ( _today $0 ) ) )

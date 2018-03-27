@@ -1,0 +1,1 @@
+i would like a flight from nashville to st. louis that arrives in st. louis around 6pm and is nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _approx_arrival_time $0 1800:_ti ) ( _from $0 nashville:_ci ) ( _to $0 st_louis:_ci ) ) )

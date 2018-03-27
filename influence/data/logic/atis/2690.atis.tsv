@@ -1,0 +1,1 @@
+show me all canadian airlines flights from toronto	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 cp:_al ) ( _from $0 toronto:_ci ) ) )

@@ -1,0 +1,1 @@
+i would like information on ground transportation in atlanta from the airport to the city in the morning around 9am	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _during_day $0 morning:_pd ) ( _approx_departure_time $0 900:_ti ) ( _to_city $0 atlanta:_ci ) ( _from_airport $0 atl:_ap ) ) )

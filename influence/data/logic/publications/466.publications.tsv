@@ -1,0 +1,1 @@
+publications with articles authored by efron	( call SW.listValue ( call SW.filter ( call SW.getProperty ( call SW.singleton en.venue ) ( string ! type ) ) ( call SW.reverse ( string venue ) ) ( string = ) ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string author ) ( string = ) en.person.efron ) ) )

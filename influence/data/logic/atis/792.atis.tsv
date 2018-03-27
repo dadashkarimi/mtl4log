@@ -1,0 +1,1 @@
+how many airlines have flights with service class yn	( _count $0 ( _and ( _exists $1 ( _and ( _fare_basis_code $1 yn:_fb ) ( _flight $1 ) ( _airline $1 $0 ) ) ) ( _airline $0 ) ) )

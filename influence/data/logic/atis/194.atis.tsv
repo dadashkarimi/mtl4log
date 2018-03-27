@@ -1,0 +1,1 @@
+may i have a listing of flights from milwaukee to tacoma washington departing in the evening	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 milwaukee:_ci ) ( _to $0 tacoma:_ci ) ) )

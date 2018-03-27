@@ -1,0 +1,1 @@
+list types of aircraft that fly between boston and san francisco	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 boston:_ci ) ( _to $1 san_francisco:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

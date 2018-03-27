@@ -1,0 +1,1 @@
+show me the flights from dallas to baltimore in first class	( _lambda $0 e ( _and ( _flight $0 ) ( _class_type $0 first:_cl ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ) )

@@ -1,0 +1,1 @@
+find travel arrangements for a round trip flight from baltimore to pittsburgh after 8 o'clock pm before 10 o'clock pm	( _lambda $0 e ( _and ( _flight $0 ) ( _round_trip $0 ) ( _> ( _departure_time $0 ) 2000:_ti ) ( _< ( _departure_time $0 ) 2200:_ti ) ( _from $0 baltimore:_ci ) ( _to $0 pittsburgh:_ci ) ) )

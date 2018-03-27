@@ -1,0 +1,1 @@
+what planes does united use	( _lambda $0 e ( _and ( _aircraft_code:_t $0 ) ( _exists $1 ( _and ( _airline $1 ua:_al ) ( _aircraft_code $1 $0 ) ) ) ) )

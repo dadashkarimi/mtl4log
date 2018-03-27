@@ -1,0 +1,1 @@
+oh let's see does eastern airline have a flight from atlanta to washington	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ea:_al ) ( _from $0 atlanta:_ci ) ( _to $0 washington:_ci ) ) )

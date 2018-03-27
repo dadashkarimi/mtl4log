@@ -1,0 +1,1 @@
+all right give me the flight times in the morning on september twentieth from pittsburgh to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _during_day $1 morning:_pd ) ( _from $1 pittsburgh:_ci ) ( _to $1 san_francisco:_ci ) ( _day_number $1 20:_dn ) ( _month $1 september:_mn ) ( _= ( _departure_time $1 ) $0 ) ) ) )

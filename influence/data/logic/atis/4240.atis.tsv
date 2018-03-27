@@ -1,0 +1,1 @@
+please show me all the flights from denver to oakland that are nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 denver:_ci ) ( _to $0 oakland:_ci ) ) )

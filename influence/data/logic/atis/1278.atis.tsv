@@ -1,0 +1,1 @@
+i'd like to fly from minneapolis to long beach two days from today in the early morning	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 early:_pd ) ( _during_day $0 morning:_pd ) ( _from $0 minneapolis:_ci ) ( _to $0 long_beach:_ci ) ( _days_from_today $0 2:_i ) ) )

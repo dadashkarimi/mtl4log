@@ -1,0 +1,1 @@
+how much is an economy ticket from washington to san francisco on september thirtieth	( _lambda $0 e ( _exists $1 ( _and ( _economy $1 ) ( _from $1 washington:_ci ) ( _to $1 san_francisco:_ci ) ( _day_number $1 30:_dn ) ( _month $1 september:_mn ) ( _= ( _fare $1 ) $0 ) ) ) )

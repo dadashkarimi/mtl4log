@@ -1,0 +1,1 @@
+what is the flight schedule of the f28 from pittsburgh to baltimore	( _lambda $0 e ( _exists $1 ( _and ( _= ( _departure_time $1 ) $0 ) ( _to $1 baltimore:_ci ) ( _from $1 pittsburgh:_ci ) ( _aircraft_code $1 f28:_ac ) ) ) )

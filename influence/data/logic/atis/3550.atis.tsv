@@ -1,0 +1,1 @@
+please list me the flights and their cost of all airlines flying from denver to baltimore	( _lambda $0 e ( _lambda $1 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ( _= ( _fare $0 ) $1 ) ) ) )

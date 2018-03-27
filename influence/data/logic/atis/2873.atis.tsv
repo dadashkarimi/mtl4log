@@ -1,0 +1,1 @@
+show me fares from philadelphia to san francisco on thursday morning	( _lambda $0 e ( _exists $1 ( _and ( _during_day $1 morning:_pd ) ( _from $1 philadelphia:_ci ) ( _to $1 san_francisco:_ci ) ( _day $1 thursday:_da ) ( _= ( _fare $1 ) $0 ) ) ) )

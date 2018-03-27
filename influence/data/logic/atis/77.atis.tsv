@@ -1,0 +1,1 @@
+list all flights departing from general mitchell	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 mke:_ap ) ) )

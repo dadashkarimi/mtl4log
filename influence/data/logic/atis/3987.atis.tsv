@@ -1,0 +1,1 @@
+show me a list of rental car fares at boston airport	( _lambda $0 e ( _exists $1 ( _and ( _rental_car $1 ) ( _from_airport $1 bos:_ap ) ( _= ( _ground_fare $1 ) $0 ) ) ) )

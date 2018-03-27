@@ -1,0 +1,1 @@
+what is the cost of a ticket going from denver to boston july twenty fifth 1991	( _lambda $0 e ( _exists $1 ( _and ( _from $1 denver:_ci ) ( _to $1 boston:_ci ) ( _day_number $1 25:_dn ) ( _month $1 july:_mn ) ( _year $1 1991:_yr ) ( _= ( _fare $1 ) $0 ) ) ) )

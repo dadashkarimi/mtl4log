@@ -1,0 +1,1 @@
+what about the eastern airlines flights arriving in pittsburgh between 12 and 4 in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ea:_al ) ( _> ( _arrival_time $0 ) 1200:_ti ) ( _< ( _arrival_time $0 ) 1600:_ti ) ( _to $0 pittsburgh:_ci ) ) )

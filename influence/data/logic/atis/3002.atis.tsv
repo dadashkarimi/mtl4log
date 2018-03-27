@@ -1,0 +1,1 @@
+list the earliest flights from st. paul to houston	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 st_paul:_ci ) ( _to $0 houston:_ci ) ) ( _departure_time $0 ) )

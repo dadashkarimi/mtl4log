@@ -1,0 +1,1 @@
+do you have any airlines that would stop at denver on the way from baltimore to san francisco	( _lambda $0 e ( _exists $1 ( _and ( _from $1 baltimore:_ci ) ( _to $1 san_francisco:_ci ) ( _stop $1 denver:_ci ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

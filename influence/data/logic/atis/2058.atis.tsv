@@ -1,0 +1,1 @@
+i want a flight from philadelphia to dallas that at least has one stop	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _stops $0 ) 1:_i ) ( _from $0 philadelphia:_ci ) ( _to $0 dallas:_ci ) ) )

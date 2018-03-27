@@ -1,0 +1,1 @@
+can you list all nonstop flights between st. petersburg and charlotte that leave in the afternoon and arrive soon after 5pm	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _> ( _arrival_time $0 ) 1700:_ti ) ( _during_day $0 afternoon:_pd ) ( _from $0 st_petersburg:_ci ) ( _to $0 charlotte:_ci ) ) )

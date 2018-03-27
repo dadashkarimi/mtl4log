@@ -1,0 +1,1 @@
+show business class fares on us air from boston to toronto	( _lambda $0 e ( _exists $1 ( _and ( _airline $1 us:_al ) ( _class_type $1 business:_cl ) ( _from $1 boston:_ci ) ( _to $1 toronto:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

@@ -1,0 +1,1 @@
+may i have a listing of flights from minneapolis to long beach california on tuesday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 minneapolis:_ci ) ( _to $0 long_beach:_ci ) ( _day $0 tuesday:_da ) ) )

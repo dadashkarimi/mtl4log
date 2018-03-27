@@ -1,0 +1,1 @@
+what's the latest flight from houston to dallas	( _argmax $0 ( _and ( _flight $0 ) ( _from $0 houston:_ci ) ( _to $0 dallas:_ci ) ) ( _departure_time $0 ) )

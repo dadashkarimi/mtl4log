@@ -1,0 +1,1 @@
+list flights leaving dallas on saturday and arriving in san francisco before 4pm	( _lambda $0 e ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1600:_ti ) ( _from $0 dallas:_ci ) ( _to $0 san_francisco:_ci ) ( _day $0 saturday:_da ) ) )

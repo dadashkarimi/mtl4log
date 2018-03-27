@@ -1,0 +1,1 @@
+flights from newark to tampa on friday on us air	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 us:_al ) ( _from $0 newark:_ci ) ( _to $0 tampa:_ci ) ( _day $0 friday:_da ) ) )

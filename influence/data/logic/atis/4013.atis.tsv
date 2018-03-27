@@ -1,0 +1,1 @@
+show me the cheapest flights round trip from new york to san jose	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 new_york:_ci ) ( _to $0 san_jose:_ci ) ( _round_trip $0 ) ) ( _fare $0 ) )

@@ -1,0 +1,1 @@
+show me all flights from san francisco to pittsburgh on a monday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_francisco:_ci ) ( _to $0 pittsburgh:_ci ) ( _day $0 monday:_da ) ) )

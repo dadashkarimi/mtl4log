@@ -1,0 +1,1 @@
+show me all flights from san diego to new york nonstop	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _from $0 san_diego:_ci ) ( _to $0 new_york:_ci ) ) )

@@ -1,0 +1,1 @@
+what is the earliest published article	( call SW.listValue ( call SW.superlative ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string min ) ( call SW.ensureNumericProperty ( string publication_date ) ) ) )

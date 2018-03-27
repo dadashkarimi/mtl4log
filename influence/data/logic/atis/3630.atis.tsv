@@ -1,0 +1,1 @@
+i would like a flight between denver and san francisco leaving from denver in the afternoon and arriving at 5pm it must be a nonstop flight	( _lambda $0 e ( _and ( _flight $0 ) ( _nonstop $0 ) ( _arrival_time $0 1700:_ti ) ( _during_day $0 afternoon:_pd ) ( _from $0 denver:_ci ) ( _to $0 san_francisco:_ci ) ) )

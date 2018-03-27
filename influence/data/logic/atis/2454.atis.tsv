@@ -1,0 +1,1 @@
+show me the list of flights between philadelphia and denver that leave in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 philadelphia:_ci ) ( _to $0 denver:_ci ) ) )

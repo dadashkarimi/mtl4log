@@ -1,0 +1,1 @@
+show me flights from all airports to love field	( _lambda $0 e ( _and ( _flight $0 ) ( _to $0 dal:_ap ) ( _exists $1 ( _and ( _airport $1 ) ( _from $0 $1 ) ) ) ) )

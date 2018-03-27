@@ -1,0 +1,1 @@
+tell me about ground transportation between orlando international and orlando	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 orlando:_ci ) ( _from_airport $0 mco:_ap ) ) )

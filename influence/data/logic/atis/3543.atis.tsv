@@ -1,0 +1,1 @@
+show me the flights from san diego to washington dc	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 san_diego:_ci ) ( _to $0 washington:_ci ) ) )

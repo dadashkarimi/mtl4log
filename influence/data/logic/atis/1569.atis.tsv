@@ -1,0 +1,1 @@
+i would like to find a flight that goes from tampa to montreal making a stop in new york and a flight that serves lunch	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 lunch:_me ) ( _from $0 tampa:_ci ) ( _to $0 montreal:_ci ) ( _stop $0 new_york:_ci ) ) )

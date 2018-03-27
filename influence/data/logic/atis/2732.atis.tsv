@@ -1,0 +1,1 @@
+eastern flight 825 from atlanta to denver leaving at 555 what type of aircraft is used on that flight	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ea:_al ) ( _flight_number $1 825:_fn ) ( _departure_time $1 555:_ti ) ( _from $1 atlanta:_ci ) ( _to $1 denver:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )

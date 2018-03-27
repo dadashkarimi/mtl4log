@@ -1,0 +1,1 @@
+show me the flights on continental from indianapolis to san diego in the afternoon tomorrow	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _during_day $0 afternoon:_pd ) ( _from $0 indianapolis:_ci ) ( _to $0 san_diego:_ci ) ( _tomorrow $0 ) ) )

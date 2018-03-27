@@ -1,0 +1,1 @@
+show me the airlines for flights to or from love field	( _lambda $0 e ( _and ( _airline $0 ) ( _exists $1 ( _and ( _flight $1 ) ( _or ( _from $1 dal:_ap ) ( _to $1 dal:_ap ) ) ( _airline $1 $0 ) ) ) ) )

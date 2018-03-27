@@ -1,0 +1,1 @@
+what flights are there on wednesday evening from denver to sfo	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 evening:_pd ) ( _from $0 denver:_ci ) ( _to $0 sfo:_ap ) ( _day $0 wednesday:_da ) ) )

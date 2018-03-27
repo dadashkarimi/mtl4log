@@ -1,0 +1,1 @@
+show me all flights from charlotte to philadelphia	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 charlotte:_ci ) ( _to $0 philadelphia:_ci ) ) )

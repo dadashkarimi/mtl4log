@@ -1,0 +1,1 @@
+list the number of flights leaving boston for dallas fort worth before 9am in the morning	( _count $0 ( _and ( _flight $0 ) ( _< ( _departure_time $0 ) 900:_ti ) ( _from $0 boston:_ci ) ( _to $0 dallas:_ci ) ) )

@@ -1,0 +1,1 @@
+what are connecting flights from chicago to seattle on june first	( _lambda $0 e ( _and ( _flight $0 ) ( _connecting $0 ) ( _from $0 chicago:_ci ) ( _to $0 seattle:_ci ) ( _day_number $0 1:_dn ) ( _month $0 june:_mn ) ) )

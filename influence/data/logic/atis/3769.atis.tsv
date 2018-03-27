@@ -1,0 +1,1 @@
+and what are the flights from nashville to tacoma on the eighteenth again	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 nashville:_ci ) ( _to $0 tacoma:_ci ) ( _day_number $0 18:_dn ) ) )

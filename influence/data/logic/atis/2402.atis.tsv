@@ -1,0 +1,1 @@
+can you tell me how to get from the airport in philadelphia to downtown	( _lambda $0 e ( _and ( _ground_transport $0 ) ( _to_city $0 philadelphia:_ci ) ( _from_airport $0 philadelphia:_ci ) ) )

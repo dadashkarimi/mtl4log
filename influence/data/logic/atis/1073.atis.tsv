@@ -1,0 +1,1 @@
+what is the least expensive one way fare from boston to pittsburgh	( _min $0 ( _exists $1 ( _and ( _= ( _fare $1 ) $0 ) ( _to $1 pittsburgh:_ci ) ( _from $1 boston:_ci ) ( _oneway $1 ) ) ) )

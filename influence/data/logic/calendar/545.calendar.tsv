@@ -1,0 +1,1 @@
+show me the meetings which have lasted the longest	( call SW.listValue ( call SW.superlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string max ) ( call SW.ensureNumericProperty ( string length ) ) ) )

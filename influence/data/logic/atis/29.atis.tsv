@@ -1,0 +1,1 @@
+what flights do you have in the morning of september twentieth on united airlines from pittsburgh to san francisco and a stopover in denver	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 ua:_al ) ( _during_day $0 morning:_pd ) ( _from $0 pittsburgh:_ci ) ( _to $0 san_francisco:_ci ) ( _stop $0 denver:_ci ) ( _day_number $0 20:_dn ) ( _month $0 september:_mn ) ) )

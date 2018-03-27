@@ -1,0 +1,1 @@
+please list the flights from dallas fort worth to boston on july twenty third	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 boston:_ci ) ( _day_number $0 23:_dn ) ( _month $0 july:_mn ) ) )

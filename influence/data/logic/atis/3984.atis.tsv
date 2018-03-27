@@ -1,0 +1,1 @@
+what flights depart from charlotte to newark that leave in the afternoon or leave in the evening	( _lambda $0 e ( _and ( _flight $0 ) ( _or ( _during_day $0 evening:_pd ) ( _during_day $0 afternoon:_pd ) ) ( _from $0 charlotte:_ci ) ( _to $0 newark:_ci ) ) )

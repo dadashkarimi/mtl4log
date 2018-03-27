@@ -1,0 +1,1 @@
+all right now i need a flight from seattle to san diego	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 seattle:_ci ) ( _to $0 san_diego:_ci ) ) )

@@ -1,0 +1,1 @@
+please show me all airports in denver	( _lambda $0 e ( _and ( _airport $0 ) ( _loc:_t $0 denver:_ci ) ) )

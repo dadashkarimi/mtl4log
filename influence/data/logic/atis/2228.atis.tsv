@@ -1,0 +1,1 @@
+does midwest express have any flights from montreal to detroit	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 yx:_al ) ( _from $0 montreal:_ci ) ( _to $0 detroit:_ci ) ) )

@@ -1,0 +1,1 @@
+show me all 10am meetings that alice is attending	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string start_time ) ( string = ) ( time 10 0 ) ) ( string attendee ) ( string = ) en.person.alice ) )

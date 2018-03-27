@@ -1,0 +1,1 @@
+are there any 4 o'clock flights from washington to denver	( _lambda $0 e ( _and ( _flight $0 ) ( _departure_time $0 1600:_ti ) ( _from $0 washington:_ci ) ( _to $0 denver:_ci ) ) )

@@ -1,0 +1,1 @@
+flights from westchester county to st. paul	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 westchester_county:_ci ) ( _to $0 st_paul:_ci ) ) )

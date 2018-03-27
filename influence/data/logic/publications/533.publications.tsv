@@ -1,0 +1,1 @@
+what article is about annals of statistics	( call SW.listValue ( call SW.filter ( call SW.filter ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) ( string venue ) ( string = ) en.venue.annals_of_statistics ) )

@@ -1,0 +1,1 @@
+list flights from pittsburgh to boston leaving after 3 in the afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1500:_ti ) ( _from $0 pittsburgh:_ci ) ( _to $0 boston:_ci ) ) )

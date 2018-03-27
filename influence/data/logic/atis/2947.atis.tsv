@@ -1,0 +1,1 @@
+what is the cheapest fare from dallas to denver on delta	( _min $0 ( _exists $1 ( _and ( _airline $1 dl:_al ) ( _from $1 dallas:_ci ) ( _to $1 denver:_ci ) ( _= ( _fare $1 ) $0 ) ) ) )

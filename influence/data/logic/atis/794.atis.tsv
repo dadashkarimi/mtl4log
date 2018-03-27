@@ -1,0 +1,1 @@
+give me flights that arrive in baltimore from denver	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 baltimore:_ci ) ) )

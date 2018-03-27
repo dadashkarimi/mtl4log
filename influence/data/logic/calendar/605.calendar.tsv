@@ -1,0 +1,1 @@
+meeting held in the fewest number of locations	( call SW.listValue ( call SW.countSuperlative ( call SW.getProperty ( call SW.singleton en.meeting ) ( string ! type ) ) ( string min ) ( string location ) ) )

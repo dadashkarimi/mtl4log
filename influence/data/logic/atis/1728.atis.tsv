@@ -1,0 +1,1 @@
+list all the flights from atlanta to charlotte north carolina that leave next monday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 charlotte:_ci ) ( _day $0 monday:_da ) ) )

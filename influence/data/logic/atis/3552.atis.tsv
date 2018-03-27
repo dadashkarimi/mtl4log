@@ -1,0 +1,1 @@
+train to newark	( _lambda $0 e ( _and ( _rapid_transit $0 ) ( _to_city $0 newark:_ci ) ) )

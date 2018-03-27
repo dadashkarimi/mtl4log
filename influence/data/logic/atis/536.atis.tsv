@@ -1,0 +1,1 @@
+flights from chicago to denver on continental on saturday morning	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 co:_al ) ( _during_day $0 morning:_pd ) ( _from $0 chicago:_ci ) ( _to $0 denver:_ci ) ( _day $0 saturday:_da ) ) )

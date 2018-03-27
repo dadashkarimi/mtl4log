@@ -1,0 +1,1 @@
+i want to travel from kansas city to st. paul and be there by dinnertime	( _lambda $0 e ( _and ( _< ( _arrival_time $0 ) 1700:_ti ) ( _from $0 kansas_city:_ci ) ( _to $0 st_paul:_ci ) ) )

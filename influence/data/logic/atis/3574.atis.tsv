@@ -1,0 +1,1 @@
+which airline has the most arrivals in atlanta	( _argmax $0 ( _airline $0 ) ( _count $1 ( _and ( _flight $1 ) ( _to $1 atlanta:_ci ) ( _airline $1 $0 ) ) ) )

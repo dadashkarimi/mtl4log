@@ -1,0 +1,1 @@
+can you list all flights from chicago to st. louis that depart after 12 noon	( _lambda $0 e ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1200:_ti ) ( _from $0 chicago:_ci ) ( _to $0 st_louis:_ci ) ) )

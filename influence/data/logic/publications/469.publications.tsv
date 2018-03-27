@@ -1,0 +1,1 @@
+articles published in two or more venues	( call SW.listValue ( call SW.countComparative ( call SW.getProperty ( call SW.singleton en.article ) ( string ! type ) ) ( string venue ) ( string >= ) ( number 2 ) ) )

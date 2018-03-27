@@ -1,0 +1,1 @@
+the latest flight from baltimore to oakland please and i'd like a meal with that	( _argmax $0 ( _and ( _flight $0 ) ( _has_meal $0 ) ( _from $0 baltimore:_ci ) ( _to $0 oakland:_ci ) ) ( _departure_time $0 ) )

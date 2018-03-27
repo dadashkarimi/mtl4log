@@ -1,0 +1,1 @@
+does delta aircraft fly dc10	( _lambda $0 e ( _and ( _flight $0 ) ( _aircraft_code $0 dc10:_ac ) ( _airline $0 dl:_al ) ) )

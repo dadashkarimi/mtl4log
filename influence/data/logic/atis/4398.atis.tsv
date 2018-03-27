@@ -1,0 +1,1 @@
+what is the cheapest flight from denver to oakland	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 denver:_ci ) ( _to $0 oakland:_ci ) ) ( _fare $0 ) )

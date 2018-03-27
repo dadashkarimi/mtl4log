@@ -1,0 +1,1 @@
+does flight dl 1083 from philadelphia to denver fly on saturdays	( _lambda $0 e ( _and ( _flight $0 ) ( _flight $0 ) ( _airline $0 dl:_al ) ( _flight_number $0 1083:_fn ) ( _from $0 philadelphia:_ci ) ( _to $0 denver:_ci ) ( _day $0 saturday:_da ) ) )

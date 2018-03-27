@@ -1,0 +1,1 @@
+please list all of the flights leaving atlanta heading to baltimore after 8pm wednesday and before 9am thursday	( _lambda $0 e ( _and ( _flight $0 ) ( _from $0 atlanta:_ci ) ( _to $0 baltimore:_ci ) ( _> ( _departure_time $0 ) 2000:_ti ) ( _after_day $0 wednesday:_da ) ( _< ( _departure_time $0 ) 900:_ti ) ( _before_day $0 thursday:_da ) ) )

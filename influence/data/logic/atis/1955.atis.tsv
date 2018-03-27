@@ -1,0 +1,1 @@
+show me the dinner flights from baltimore to oakland	( _lambda $0 e ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _from $0 baltimore:_ci ) ( _to $0 oakland:_ci ) ) )

@@ -1,0 +1,1 @@
+show me the shortest flight from boston to denver which arrives in denver wednesday before noon	( _argmin $0 ( _and ( _flight $0 ) ( _< ( _arrival_time $0 ) 1200:_ti ) ( _from $0 boston:_ci ) ( _to $0 denver:_ci ) ( _day_arrival $0 wednesday:_da ) ) ( _time_elapsed $0 ) )

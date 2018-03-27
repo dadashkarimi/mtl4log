@@ -1,0 +1,1 @@
+what's the first flight after 1pm leaving washington to denver	( _argmin $0 ( _and ( _flight $0 ) ( _> ( _departure_time $0 ) 1300:_ti ) ( _from $0 washington:_ci ) ( _to $0 denver:_ci ) ) ( _departure_time $0 ) )

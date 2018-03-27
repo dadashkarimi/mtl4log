@@ -1,0 +1,1 @@
+show me ground transportation information for dallas fort worth	( _lambda $0 e ( _and ( _to_city $0 dallas:_ci ) ( _ground_transport $0 ) ) )

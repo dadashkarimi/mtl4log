@@ -1,0 +1,1 @@
+what's the earliest flight from boston to bwi that serves dinner	( _argmin $0 ( _and ( _flight $0 ) ( _meal $0 dinner:_me ) ( _from $0 boston:_ci ) ( _to $0 bwi:_ap ) ) ( _departure_time $0 ) )

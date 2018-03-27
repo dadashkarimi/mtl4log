@@ -1,0 +1,1 @@
+flight from denver to philadelphia saturday afternoon	( _lambda $0 e ( _and ( _flight $0 ) ( _during_day $0 afternoon:_pd ) ( _from $0 denver:_ci ) ( _to $0 philadelphia:_ci ) ( _day $0 saturday:_da ) ) )

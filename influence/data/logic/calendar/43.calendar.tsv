@@ -1,0 +1,1 @@
+show me the dates of all weekly standup meetings	( call SW.listValue ( call SW.getProperty en.meeting.weekly_standup ( string date ) ) )

@@ -1,0 +1,1 @@
+please show me all airlines with sunday flights from philadelphia to denver	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _from $1 philadelphia:_ci ) ( _to $1 denver:_ci ) ( _day $1 sunday:_da ) ( _= ( _airline:_e $1 ) $0 ) ) ) )

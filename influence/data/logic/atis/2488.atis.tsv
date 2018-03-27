@@ -1,0 +1,1 @@
+show me the cheapest flight arriving in baltimore on june fourteenth starting from dallas	( _argmin $0 ( _and ( _flight $0 ) ( _from $0 dallas:_ci ) ( _to $0 baltimore:_ci ) ( _day_number_arrival $0 14:_dn ) ( _month_arrival $0 june:_mn ) ) ( _fare $0 ) )

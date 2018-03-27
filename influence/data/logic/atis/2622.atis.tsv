@@ -1,0 +1,1 @@
+on november twenty third what flights go from atlanta to denver on delta airlines	( _lambda $0 e ( _and ( _flight $0 ) ( _airline $0 dl:_al ) ( _from $0 atlanta:_ci ) ( _to $0 denver:_ci ) ( _day_number $0 23:_dn ) ( _month $0 november:_mn ) ) )

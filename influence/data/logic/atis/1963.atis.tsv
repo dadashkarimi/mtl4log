@@ -1,0 +1,1 @@
+what type of aircraft does eastern fly from atlanta to denver before 6pm	( _lambda $0 e ( _exists $1 ( _and ( _flight $1 ) ( _airline $1 ea:_al ) ( _< ( _departure_time $1 ) 1800:_ti ) ( _from $1 atlanta:_ci ) ( _to $1 denver:_ci ) ( _= ( _aircraft_code $1 ) $0 ) ) ) )
